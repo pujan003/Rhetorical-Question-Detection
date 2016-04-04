@@ -5,6 +5,7 @@ A function 'f' can be used anywhere as util.f() in the project by importing util
 import nltk
 from nltk.tag import pos_tag
 import re
+from sklearn.metrics import accuracy_score,f1_score,precision_score,recall_score
 
 def giveTokens(sentence):
 	'''Returns a list of tokens'''
@@ -65,3 +66,12 @@ def processDatum(datum):
 		print "ERROR: previous_previous_utterance not found!"
 
 	return ret
+
+
+def giveEvaluations(Y_gold,Y_predicted):
+	'''Returns a dictionary of evaluated measures'''
+	accuracy = accuracy_score(Y_gold, Y_predicted)*100.0
+	f1 = f1_score(Y_gold,Y_predicted)*100.0
+	precision = precision_score(Y_gold,Y_predicted)*100.0
+	recall = recall_score(Y_gold,Y_predicted)*100.0
+	return {"Accuracy": accuracy, "F1":f1, "Precision":precision, "Recall":recall}
