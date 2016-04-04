@@ -6,6 +6,7 @@ import nltk
 from nltk.tag import pos_tag
 import re
 from sklearn.metrics import accuracy_score,f1_score,precision_score,recall_score
+import numpy
 
 def giveTokens(sentence):
 	'''Returns a list of tokens'''
@@ -70,8 +71,13 @@ def processDatum(datum):
 
 def giveEvaluations(Y_gold,Y_predicted):
 	'''Returns a dictionary of evaluated measures'''
-	accuracy = accuracy_score(Y_gold, Y_predicted)*100.0
-	f1 = f1_score(Y_gold,Y_predicted)*100.0
-	precision = precision_score(Y_gold,Y_predicted)*100.0
-	recall = recall_score(Y_gold,Y_predicted)*100.0
+	accuracy = accuracy_score(Y_gold, Y_predicted)
+	f1 = f1_score(Y_gold,Y_predicted)
+	precision = precision_score(Y_gold,Y_predicted)
+	recall = recall_score(Y_gold,Y_predicted)
 	return {"Accuracy": accuracy, "F1":f1, "Precision":precision, "Recall":recall}
+
+def giveError95String(accuracies):
+	'''Returns a string with error 95 measure given a list of accuracies (obtained by crossvalidation)'''
+	accuracies = numpy.array(accuracies)
+	return str((1.0 - accuracies.mean())) + " +/- " + str(accuracies.std()*1.96)
