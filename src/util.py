@@ -21,8 +21,8 @@ def givePOStags(sentence,isSentenceTokenized = False):
 	posTagged = nltk.pos_tag(tokens)
 	return posTagged
 
-def processDialog(datum):
-	'''Returns a dictionary of extracted items given a data point i.e label,dialog
+def processDatum(datum):
+	'''Returns a dictionary of extracted items given an entire data point i.e (label,dialog)
 	Keys of the returned dict:
 	label --> 0/1
 	main_utterance --> some string
@@ -59,7 +59,7 @@ def processDialog(datum):
 	previous_previous_utterance = re.split('&-2 | %-2',dialog)[1]
 	if "&-2" in dialog:
 		ret['previous_previous_utterance_same'] = previous_previous_utterance
-	elif "%-1" in dialog:
+	elif "%-2" in dialog:
 		ret['previous_previous_utterance_diff'] = previous_previous_utterance
 	else:
 		print "ERROR: previous_previous_utterance not found!"
