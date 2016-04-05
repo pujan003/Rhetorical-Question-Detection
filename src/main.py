@@ -219,27 +219,27 @@ max_feats = None #1000
 if(len(argv) >= 4):
 	max_feats = int(argv[3])
 
-vocab,i = vocabs(train_x_MU,1,max_feats,vocab,i)
-vocab,i = vocabs(train_x_MU,2,max_feats,vocab,i)
-vocab,i = vocabs(train_x_SUS,1,max_feats,vocab,i)
-vocab,i = vocabs(train_x_SUS,2,max_feats,vocab,i)
-vocab,i = vocabs(train_x_SUD,1,max_feats,vocab,i)
-vocab,i = vocabs(train_x_SUD,2,max_feats,vocab,i)
-vocab,i = vocabs(train_x_PUS,1,max_feats,vocab,i)
-vocab,i = vocabs(train_x_PUS,2,max_feats,vocab,i)
-vocab,i = vocabs(train_x_PUD,1,max_feats,vocab,i)
-vocab,i = vocabs(train_x_PUD,2,max_feats,vocab,i)
+vocab,i = vocabs(train_x_MU,1,max_feats,vocab,i) #2000
+vocab,i = vocabs(train_x_MU,2,max_feats,vocab,i) #5000
+vocab,i = vocabs(train_x_SUS,1,max_feats,vocab,i) #500
+vocab,i = vocabs(train_x_SUS,2,max_feats,vocab,i) #1000
+vocab,i = vocabs(train_x_SUD,1,max_feats,vocab,i) #1000
+vocab,i = vocabs(train_x_SUD,2,max_feats,vocab,i) #3000
+vocab,i = vocabs(train_x_PUS,1,max_feats,vocab,i) #500
+vocab,i = vocabs(train_x_PUS,2,max_feats,vocab,i) #1000
+vocab,i = vocabs(train_x_PUD,1,max_feats,vocab,i) #1000
+vocab,i = vocabs(train_x_PUD,2,max_feats,vocab,i) #3000
 
-vocab,i = vocabs(train_x_MU_POS,2,max_feats,vocab,i)
-vocab,i = vocabs(train_x_MU_POS,3,max_feats,vocab,i)
-vocab,i = vocabs(train_x_SUS_POS,2,max_feats,vocab,i)
-vocab,i = vocabs(train_x_SUS_POS,3,max_feats,vocab,i)
-vocab,i = vocabs(train_x_SUD_POS,2,max_feats,vocab,i)
-vocab,i = vocabs(train_x_SUD_POS,3,max_feats,vocab,i)
-vocab,i = vocabs(train_x_PUS_POS,2,max_feats,vocab,i)
-vocab,i = vocabs(train_x_PUS_POS,3,max_feats,vocab,i)
-vocab,i = vocabs(train_x_PUD_POS,2,max_feats,vocab,i)
-vocab,i = vocabs(train_x_PUD_POS,3,max_feats,vocab,i)
+vocab,i = vocabs(train_x_MU_POS,2,max_feats,vocab,i) #200
+vocab,i = vocabs(train_x_MU_POS,3,max_feats,vocab,i) #2000
+vocab,i = vocabs(train_x_SUS_POS,2,max_feats,vocab,i) #200
+vocab,i = vocabs(train_x_SUS_POS,3,max_feats,vocab,i) #1000
+vocab,i = vocabs(train_x_SUD_POS,2,max_feats,vocab,i) #500
+vocab,i = vocabs(train_x_SUD_POS,3,max_feats,vocab,i) #2000
+vocab,i = vocabs(train_x_PUS_POS,2,max_feats,vocab,i) #200
+vocab,i = vocabs(train_x_PUS_POS,3,max_feats,vocab,i) #500
+vocab,i = vocabs(train_x_PUD_POS,2,max_feats,vocab,i) #200
+vocab,i = vocabs(train_x_PUD_POS,3,max_feats,vocab,i) #500
 
 
 print "VOCABULARY MADE! ",len(vocab)
@@ -255,6 +255,7 @@ svm_test_x = vect.transform(test_x)
 test_file = '../svm/data.test'
 if(len(argv)>3):
 	test_file = argv[2]
+print "Dumping to",test_file
 dump_svmlight_file(svm_test_x,test_y,test_file)
 
 print "DONE!"
@@ -263,4 +264,3 @@ print "DONE!"
 # it =  list(set(np.concatenate((tuple(it)))))
 # for x in it:
 # 	print x
-
