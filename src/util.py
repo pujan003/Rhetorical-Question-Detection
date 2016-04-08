@@ -4,7 +4,7 @@ A function 'f' can be used anywhere as util.f() in the project by importing util
 """
 import nltk
 from nltk.tag import pos_tag
-
+import re
 
 def giveTokens(sentence):
 	'''Returns a list of tokens'''
@@ -20,3 +20,48 @@ def givePOStags(sentence,isSentenceTokenized = False):
 			print "WARN: Given sentence is not a string. Trying to treat it as tokens"
 	posTagged = nltk.pos_tag(tokens)
 	return posTagged
+
+def processDialog(datum):
+	'''Returns a dictionary of extracted items given a data point i.e label,dialog
+	Keys of the returned dict:
+	label --> 0/1
+	main_utterance --> some string
+	subsequent_utterance_same --> string or this key is absent
+	subsequent_utterance_diff --> string or this key is absent
+	previous_utterance_same --> string or this key is absent
+	previous_utterance_diff --> string or this key is absent
+	previous_previous_utterance_same --> string or this key is absent
+	previous_previous_utterance_diff --> string or this key is absent
+	'''
+	ret = {}
+	label = int(datum.split(',')[0])
+	ret['label'] = label
+	dialog = ','.join(datum.split(',')[1:]) #safe
+	
+	ret['main_utterance'] = re.split('& | %',dialog)[0]
+	
+	subsequent_utterance = re.split('&-1 | %-1',re.split('& | %',dialog)[1])[0]
+	if "& " in dialog:
+		ret['subsequent_utterance_same'] = subsequent_utterance
+	elif "% " in dialog:
+		ret['subsequent_utterance_diff'] = subsequent_utterance
+	else:
+		print "ERROR: subsequent_utterance not found!"
+
+	previous_utterance = re.split('&-2 | %-2',re.split('&-1 | %-1',dialog)[1])[0]
+	if "&-1" in dialog:
+		ret['previous_utterance_same'] = previous_utterance
+	elif "%-1" in dialog:
+		ret['previous_utterance_diff'] = previous_utterance
+	else:
+		print "ERROR: previous_utterance not found!"
+
+	previous_previous_utterance = re.split('&-2 | %-2',dialog)[1]
+	if "&-2" in dialog:
+		ret['previous_previous_utterance_same'] = previous_previous_utterance
+	elif "%-1" in dialog:
+		ret['previous_previous_utterance_diff'] = previous_previous_utterance
+	else:
+		print "ERROR: previous_previous_utterance not found!"
+
+	return ret
