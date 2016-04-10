@@ -159,3 +159,8 @@ dump_svmlight_file(svm_test_x,test_y,'../svm/data.test')
 
 print "DONE!"
 
+# it =  vect.inverse_transform(svm_train_x)
+# it =  list(set(np.concatenate((tuple(it)))))
+# for x in it:
+# 	print x
+

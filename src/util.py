@@ -43,6 +43,8 @@ def processDatum(datum):
 	'''
 	ret = {}
 	label = int(datum.split(',')[0])
+	if(label == 0):
+		label = -1
 	ret['label'] = label
 	dialog = ','.join(datum.split(',')[1:]) #safe
 	my_str = ""#str(label)
@@ -89,6 +91,8 @@ def processPOSDatum(datum):
 	'''
 	ret = {}
 	label = int(datum.split(',')[0])
+	if(label == 0):
+		label = -1
 	dialog = ','.join(datum.split(',')[1:]) #safe
 	my_str = ""#str(label)
 
