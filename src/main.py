@@ -124,38 +124,38 @@ def vocabs(trainset,k,maxf,vocab,i):
 vocab = {}
 vocab['rprprprprprprprpprprprprprprpr']=0
 i = 1
+max_feats = None #1000
+vocab,i = vocabs(train_x_MU,1,max_feats,vocab,i)
+vocab,i = vocabs(train_x_MU,2,max_feats,vocab,i)
+vocab,i = vocabs(train_x_SUS,1,max_feats,vocab,i)
+vocab,i = vocabs(train_x_SUS,2,max_feats,vocab,i)
+vocab,i = vocabs(train_x_SUD,1,max_feats,vocab,i)
+vocab,i = vocabs(train_x_SUD,2,max_feats,vocab,i)
+vocab,i = vocabs(train_x_PUS,1,max_feats,vocab,i)
+vocab,i = vocabs(train_x_PUS,2,max_feats,vocab,i)
+vocab,i = vocabs(train_x_PUD,1,max_feats,vocab,i)
+vocab,i = vocabs(train_x_PUD,2,max_feats,vocab,i)
 
-vocab,i = vocabs(train_x_MU,1,1000,vocab,i)
-vocab,i = vocabs(train_x_MU,2,1000,vocab,i)
-vocab,i = vocabs(train_x_SUS,1,1000,vocab,i)
-vocab,i = vocabs(train_x_SUS,2,1000,vocab,i)
-vocab,i = vocabs(train_x_SUD,1,1000,vocab,i)
-vocab,i = vocabs(train_x_SUD,2,1000,vocab,i)
-vocab,i = vocabs(train_x_PUS,1,1000,vocab,i)
-vocab,i = vocabs(train_x_PUS,2,1000,vocab,i)
-vocab,i = vocabs(train_x_PUD,1,1000,vocab,i)
-vocab,i = vocabs(train_x_PUD,2,1000,vocab,i)
+vocab,i = vocabs(train_x_MU_POS,2,max_feats,vocab,i)
+vocab,i = vocabs(train_x_MU_POS,3,max_feats,vocab,i)
+vocab,i = vocabs(train_x_SUS_POS,2,max_feats,vocab,i)
+vocab,i = vocabs(train_x_SUS_POS,3,max_feats,vocab,i)
+vocab,i = vocabs(train_x_SUD_POS,2,max_feats,vocab,i)
+vocab,i = vocabs(train_x_SUD_POS,3,max_feats,vocab,i)
+vocab,i = vocabs(train_x_PUS_POS,2,max_feats,vocab,i)
+vocab,i = vocabs(train_x_PUS_POS,3,max_feats,vocab,i)
+vocab,i = vocabs(train_x_PUD_POS,2,max_feats,vocab,i)
+vocab,i = vocabs(train_x_PUD_POS,3,max_feats,vocab,i)
 
-vocab,i = vocabs(train_x_MU_POS,2,1000,vocab,i)
-vocab,i = vocabs(train_x_MU_POS,3,1000,vocab,i)
-vocab,i = vocabs(train_x_SUS_POS,2,1000,vocab,i)
-vocab,i = vocabs(train_x_SUS_POS,3,1000,vocab,i)
-vocab,i = vocabs(train_x_SUD_POS,2,1000,vocab,i)
-vocab,i = vocabs(train_x_SUD_POS,3,1000,vocab,i)
-vocab,i = vocabs(train_x_PUS_POS,2,1000,vocab,i)
-vocab,i = vocabs(train_x_PUS_POS,3,1000,vocab,i)
-vocab,i = vocabs(train_x_PUD_POS,2,1000,vocab,i)
-vocab,i = vocabs(train_x_PUD_POS,3,1000,vocab,i)
-
-print "VOCABULARY MADE!"
+print "VOCABULARY MADE! ",len(vocab)
 #Final feature Builder
 vect = TfidfVectorizer(decode_error='ignore',ngram_range=(1,3),max_features=None,vocabulary=vocab)
 vect.fit(train_x)
 svm_train_x = vect.transform(train_x)
-dump_svmlight_file(svm_train_x,train_y,'../svm/data.train')
+dump_svmlight_file(svm_train_x,train_y,'../svm/dataall.train')
 
 svm_test_x = vect.transform(test_x)
-dump_svmlight_file(svm_test_x,test_y,'../svm/data.test')
+dump_svmlight_file(svm_test_x,test_y,'../svm/dataall.test')
 
 print "DONE!"
 
