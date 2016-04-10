@@ -122,7 +122,8 @@ def vocabs(trainset,k,maxf,vocab,i):
 	return (vocab,i)
 
 vocab = {}
-i = 0
+vocab['rprprprprprprprpprprprprprprpr']=0
+i = 1
 
 vocab,i = vocabs(train_x_MU,1,1000,vocab,i)
 vocab,i = vocabs(train_x_MU,2,1000,vocab,i)
