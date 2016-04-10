@@ -21,6 +21,12 @@ def givePOStags(sentence,isSentenceTokenized = False):
 	posTagged = nltk.pos_tag(tokens)
 	return posTagged
 
+def append(sentence, ch):
+	'''Returns a sentence with str appended at end'''
+	a = sentence.split()
+	b = ' '.join([x+ch for x in a])
+	return b
+
 def processDatum(datum):
 	'''Returns a dictionary of extracted items given an entire data point i.e (label,dialog)
 	Keys of the returned dict:
@@ -37,30 +43,76 @@ def processDatum(datum):
 	label = int(datum.split(',')[0])
 	ret['label'] = label
 	dialog = ','.join(datum.split(',')[1:]) #safe
-	
-	ret['main_utterance'] = re.split('& | %',dialog)[0]
+	my_str = ""#str(label)
+
+	ret['main_utterance'] = append((re.split('& | %',dialog)[0]).lower(),my_str)
 	
 	subsequent_utterance = re.split('&-1 | %-1',re.split('& | %',dialog)[1])[0]
 	if "& " in dialog:
-		ret['subsequent_utterance_same'] = subsequent_utterance
+		ret['subsequent_utterance_same'] = append(subsequent_utterance.lower(),my_str+"SS")
 	elif "% " in dialog:
-		ret['subsequent_utterance_diff'] = subsequent_utterance
+		ret['subsequent_utterance_diff'] = append(subsequent_utterance.lower(),my_str+"SD")
 	else:
 		print "ERROR: subsequent_utterance not found!"
 
 	previous_utterance = re.split('&-2 | %-2',re.split('&-1 | %-1',dialog)[1])[0]
 	if "&-1" in dialog:
-		ret['previous_utterance_same'] = previous_utterance
+		ret['previous_utterance_same'] = append(previous_utterance.lower(),my_str+"PS")
 	elif "%-1" in dialog:
-		ret['previous_utterance_diff'] = previous_utterance
+		ret['previous_utterance_diff'] = append(previous_utterance.lower(),my_str+"PD")
 	else:
 		print "ERROR: previous_utterance not found!"
 
 	previous_previous_utterance = re.split('&-2 | %-2',dialog)[1]
 	if "&-2" in dialog:
-		ret['previous_previous_utterance_same'] = previous_previous_utterance
+		ret['previous_previous_utterance_same'] = append(previous_previous_utterance.lower(),my_str+"PPS")
 	elif "%-2" in dialog:
-		ret['previous_previous_utterance_diff'] = previous_previous_utterance
+		ret['previous_previous_utterance_diff'] = append(previous_previous_utterance.lower(),my_str+"PPD")
+	else:
+		print "ERROR: previous_previous_utterance not found!"
+
+	return ret
+
+def processPOSDatum(datum):
+	'''Returns a dictionary of extracted items given an entire data point i.e (label,dialog)
+	Keys of the returned dict:
+	label --> 0/1
+	main_utterance --> some string
+	subsequent_utterance_same --> string or this key is absent
+	subsequent_utterance_diff --> string or this key is absent
+	previous_utterance_same --> string or this key is absent
+	previous_utterance_diff --> string or this key is absent
+	previous_previous_utterance_same --> string or this key is absent
+	previous_previous_utterance_diff --> string or this key is absent
+	'''
+	ret = {}
+	label = int(datum.split(',')[0])
+	dialog = ','.join(datum.split(',')[1:]) #safe
+	my_str = ""#str(label)
+
+	ret['main_utterance_POS'] = append(re.split('& | %',dialog)[0],my_str)
+	
+	subsequent_utterance = re.split('&-1 | %-1',re.split('& | %',dialog)[1])[0]
+	if "& " in dialog:
+		ret['subsequent_utterance_same_POS'] = append(subsequent_utterance,my_str+"SS")
+	elif "% " in dialog:
+		ret['subsequent_utterance_diff_POS'] = append(subsequent_utterance,my_str+"SD")
+	else:
+		print "ERROR: subsequent_utterance not found!"
+
+	previous_utterance = re.split('&-2 | %-2',re.split('&-1 | %-1',dialog)[1])[0]
+	if "&-1" in dialog:
+		ret['previous_utterance_same_POS'] = append(previous_utterance,my_str+"PS")
+	elif "%-1" in dialog:
+		ret['previous_utterance_diff_POS'] = append(previous_utterance,my_str+"PD")
+	else:
+		print "ERROR: previous_utterance not found!"
+
+	previous_previous_utterance = re.split('&-2 | %-2',dialog)[1]
+	if "&-2" in dialog:
+		ret['previous_previous_utterance_same_POS'] = append(previous_previous_utterance,my_str+"PPS")
+	elif "%-2" in dialog:
+		ret['previous_previous_utterance_diff_POS'] = append(previous_previous_utterance,my_str+"PPD")
 	else:
 		print "ERROR: previous_previous_utterance not found!"
 
