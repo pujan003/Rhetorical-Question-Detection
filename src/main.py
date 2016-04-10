@@ -1,6 +1,7 @@
 """
-Holds all the utility functions used in the project.
-A function 'f' can be used anywhere as util.f() in the project by importing util.py
+argv[1] = train_file
+argv[2] = test_file
+argv[3] = j
 """
 import util
 import scipy.sparse as sp
@@ -8,7 +9,7 @@ import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.datasets import dump_svmlight_file
-
+from sys import argv
 train_x = []
 
 train_x_MU = []
@@ -124,7 +125,10 @@ def vocabs(trainset,k,maxf,vocab,i):
 vocab = {}
 vocab['rprprprprprprprpprprprprprprpr']=0
 i = 1
-max_feats = None #1000
+max_feats = None
+if(len(argv) >= 4):
+	max_feats = int(argv[3])
+
 vocab,i = vocabs(train_x_MU,1,max_feats,vocab,i)
 vocab,i = vocabs(train_x_MU,2,max_feats,vocab,i)
 vocab,i = vocabs(train_x_SUS,1,max_feats,vocab,i)
@@ -152,10 +156,16 @@ print "VOCABULARY MADE! ",len(vocab)
 vect = TfidfVectorizer(decode_error='ignore',ngram_range=(1,3),max_features=None,vocabulary=vocab)
 vect.fit(train_x)
 svm_train_x = vect.transform(train_x)
-dump_svmlight_file(svm_train_x,train_y,'../svm/dataall.train')
+train_file = '../svm/data.train'
+if(len(argv)>2):
+	test_file = argv[1]
+dump_svmlight_file(svm_train_x,train_y,train_file)
 
 svm_test_x = vect.transform(test_x)
-dump_svmlight_file(svm_test_x,test_y,'../svm/dataall.test')
+test_file = '../svm/data.test'
+if(len(argv)>3):
+	test_file = argv[2]
+dump_svmlight_file(svm_test_x,test_y,test_file)
 
 print "DONE!"
 
