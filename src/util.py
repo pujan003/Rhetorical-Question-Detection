@@ -23,6 +23,12 @@ def givePOStags(sentence,isSentenceTokenized = False):
 	posTagged = nltk.pos_tag(tokens)
 	return posTagged
 
+def append(sentence, ch):
+	'''Returns a sentence with str appended at end'''
+	a = sentence.split()
+	b = ' '.join([x+ch for x in a])
+	return b
+
 def processDatum(datum):
 	'''Returns a dictionary of extracted items given an entire data point i.e (label,dialog)
 	Keys of the returned dict:
