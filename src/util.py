@@ -12,6 +12,12 @@ def giveTokens(sentence):
 	'''Returns a list of tokens'''
 	return nltk.word_tokenize(sentence)
 
+def giveVecSentence(sentence):
+	'''Returns a vectorizer friendly sentence'''
+	my_dict = {',':'C','.':'F','?':'Q','!':'E'}
+	a = nltk.word_tokenize(sentence)
+	return ' '.join([my_dict[x] if(my_dict.get(x)) else x for x in a])
+
 def givePOStags(sentence,isSentenceTokenized = False):
 	'''Returns a list of (word,tag) given a sentence or a tokenized sentence'''
 	tokens = sentence
@@ -49,29 +55,29 @@ def processDatum(datum):
 	dialog = ','.join(datum.split(',')[1:]) #safe
 	my_str = ""#str(label)
 
-	ret['main_utterance'] = append((re.split('& | %',dialog)[0]).lower(),my_str)
+	ret['main_utterance'] = append(giveVecSentence((re.split('& | %',dialog)[0]).lower()),my_str)
 	
 	subsequent_utterance = re.split('&-1 | %-1',re.split('& | %',dialog)[1])[0]
 	if "& " in dialog:
-		ret['subsequent_utterance_same'] = append(subsequent_utterance.lower(),my_str+"SS")
+		ret['subsequent_utterance_same'] = append(giveVecSentence(subsequent_utterance.lower()),my_str+"SS")
 	elif "% " in dialog:
-		ret['subsequent_utterance_diff'] = append(subsequent_utterance.lower(),my_str+"SD")
+		ret['subsequent_utterance_diff'] = append(giveVecSentence(subsequent_utterance.lower()),my_str+"SD")
 	else:
 		print "ERROR: subsequent_utterance not found!"
 
 	previous_utterance = re.split('&-2 | %-2',re.split('&-1 | %-1',dialog)[1])[0]
 	if "&-1" in dialog:
-		ret['previous_utterance_same'] = append(previous_utterance.lower(),my_str+"PS")
+		ret['previous_utterance_same'] = append(giveVecSentence(previous_utterance.lower()),my_str+"PS")
 	elif "%-1" in dialog:
-		ret['previous_utterance_diff'] = append(previous_utterance.lower(),my_str+"PD")
+		ret['previous_utterance_diff'] = append(giveVecSentence(previous_utterance.lower()),my_str+"PD")
 	else:
 		print "ERROR: previous_utterance not found!"
 
 	previous_previous_utterance = re.split('&-2 | %-2',dialog)[1]
 	if "&-2" in dialog:
-		ret['previous_previous_utterance_same'] = append(previous_previous_utterance.lower(),my_str+"PPS")
+		ret['previous_previous_utterance_same'] = append(giveVecSentence(previous_previous_utterance.lower()),my_str+"PPS")
 	elif "%-2" in dialog:
-		ret['previous_previous_utterance_diff'] = append(previous_previous_utterance.lower(),my_str+"PPD")
+		ret['previous_previous_utterance_diff'] = append(giveVecSentence(previous_previous_utterance.lower()),my_str+"PPD")
 	else:
 		print "ERROR: previous_previous_utterance not found!"
 
