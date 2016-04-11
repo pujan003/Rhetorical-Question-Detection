@@ -86,7 +86,7 @@ with open("../data/train.txt",'r') as f:
 			else:
 				train_x_PUD[0].append(a['previous_utterance_diff'])
 				b = b +' '+ a['previous_utterance_diff']
-		# b = b + " " + speakers(a)
+		b = b + " " + speakers(a)
 		train_x.append(b)
 		train_y.append(a['label'])
 		
@@ -145,7 +145,7 @@ with open("../data/test.txt",'r') as f:
 			b = b +' '+ a['previous_utterance_same']
 		else:
 			b = b +' '+ a['previous_utterance_diff']
-		# b = b + " " + speakers(a)
+		b = b + " " + speakers(a)
 		test_x.append(b)
 		test_y.append(a['label'])
 		
@@ -237,15 +237,7 @@ def vocabs(trainset,k,maxf,vocab,i):
 
 vocab = {}
 vocab['rprprprprprprprpprprprprprprpr']=0 #SVMLight does not have 0 index
-vocab['ss0'] = 1
-vocab['ss1'] = 2
-vocab['sd0'] = 3
-vocab['sd1'] = 4
-vocab['ps0'] = 5
-vocab['ps1'] = 6
-vocab['pd0'] = 7
-vocab['pd1'] = 8
-i = 9
+i = 1
 max_feats = None #1000
 if(len(argv) >= 4):
 	max_feats = int(argv[3])
@@ -272,7 +264,22 @@ vocab,i = vocabs(train_x_PUS_POS,3,max_feats,vocab,i) #500
 vocab,i = vocabs(train_x_PUD_POS,2,max_feats,vocab,i) #200
 vocab,i = vocabs(train_x_PUD_POS,3,max_feats,vocab,i) #500
 
-
+vocab['ss0'] = i
+i = i + 1 
+vocab['ss1'] = i
+i = i + 1 
+vocab['sd0'] = i
+i = i + 1 
+vocab['sd1'] = i
+i = i + 1 
+vocab['ps0'] = i
+i = i + 1 
+vocab['ps1'] = i
+i = i + 1 
+vocab['pd0'] = i
+i = i + 1 
+vocab['pd1'] = i
+i = i + 1
 print "VOCABULARY MADE! ",len(vocab)
 #Final feature Builder
 vect = TfidfVectorizer(decode_error='ignore',ngram_range=(1,3),vocabulary=vocab)
