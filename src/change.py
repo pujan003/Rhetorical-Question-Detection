@@ -1,4 +1,5 @@
-with open("../svm/data_new.train",'r') as f: 
+from sys import argv
+with open(argv[1],'r') as f: 
 	for line in f:
 		a = line.strip().split()
 		b = [a[0]]
