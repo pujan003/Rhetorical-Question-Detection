@@ -55,29 +55,42 @@ def processDatum(datum):
 	dialog = ','.join(datum.split(',')[1:]) #safe
 	my_str = ""#str(label)
 
+	ret['ss'] = 0
+	ret['sd'] = 0
+	ret['ps'] = 0
+	ret['pd'] = 0
+	ret['pps'] = 0
+	ret['ppd'] = 0
+
 	ret['main_utterance'] = append(giveVecSentence((re.split('& | %',dialog)[0]).lower()),my_str)
 	
 	subsequent_utterance = re.split('&-1 | %-1',re.split('& | %',dialog)[1])[0]
 	if "& " in dialog:
 		ret['subsequent_utterance_same'] = append(giveVecSentence(subsequent_utterance.lower()),my_str+"SS")
+		ret['ss'] = 1
 	elif "% " in dialog:
 		ret['subsequent_utterance_diff'] = append(giveVecSentence(subsequent_utterance.lower()),my_str+"SD")
+		ret['sd'] = 1
 	else:
 		print "ERROR: subsequent_utterance not found!"
 
 	previous_utterance = re.split('&-2 | %-2',re.split('&-1 | %-1',dialog)[1])[0]
 	if "&-1" in dialog:
 		ret['previous_utterance_same'] = append(giveVecSentence(previous_utterance.lower()),my_str+"PS")
+		ret['ps'] = 1
 	elif "%-1" in dialog:
 		ret['previous_utterance_diff'] = append(giveVecSentence(previous_utterance.lower()),my_str+"PD")
+		ret['pd'] = 1
 	else:
 		print "ERROR: previous_utterance not found!"
 
 	previous_previous_utterance = re.split('&-2 | %-2',dialog)[1]
 	if "&-2" in dialog:
 		ret['previous_previous_utterance_same'] = append(giveVecSentence(previous_previous_utterance.lower()),my_str+"PPS")
+		ret['pps'] = 1
 	elif "%-2" in dialog:
 		ret['previous_previous_utterance_diff'] = append(giveVecSentence(previous_previous_utterance.lower()),my_str+"PPD")
+		ret['ppd'] = 1
 	else:
 		print "ERROR: previous_previous_utterance not found!"
 
