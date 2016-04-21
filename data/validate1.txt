@@ -1,0 +1,1193 @@
+1,Why do you do this? % Yeah. %-1 You know, why do you do this to yourself? &-2 t_laugh I know.
+1,t_con are only the same two caucuses, certainly not going to win, why bother voting for him. & t_con I thi-, that's a big, reason for it. &-1 t_con the other side of the coin is, people saying, well, if I really like the underdog candidate, I still think they're not going to win, &-2 That's right.
+1,t_con how are they supposed to, you know, teach their kids that are coming up, you know, what's going on. % Yeah. &-1 You know, that they're, don't know what's going on %-2 True.
+1,what else could they do to make it better. % t_empty %-1 Yeah. &-2 I don't think our news could be better.
+1,t_con what is big today. % Well, you're right. &-1 yeah. &-2 That's true,
+1,t_con what does it cost these people over there, you know. % Absolutely. &-1 -- you know, we've got so many domestic problems, %-2 I agree.
+1,Is that right? % And, of all, varieties. %-1 # Well, no. &-2 it's a lot different in I-,
+1,And does that mean like flus and everything else, there are all these different strains of it? % Oh. &-1 #conference# where people are saying, well, but in my country it's, you know, like this. %-2 #Uh-huh.#
+1,t_con you know what? % What? &-1 -- sometimes it's just spouse and me. %-2 I know.
+1,t_con who knows how it's supposed to all end t_laugh . % Uh-huh t_laugh . %-1 Right. &-2 I, have come to respect a little bit more the, you know, what went on here,
+1,you know, having a, lot of difficulty, surviving, the question is would they, be better off under communism. % Yeah. &-1 Well, when you take a, situation where I think in particular in Salvador where there is a significant under class , %-2 I, can't see communism in that country carrying on past him.
+1,you know, what I mean. % Yeah. &-1 t_con I feel like if that was presented more openly, and not just relying upon, and para-church ministry to come in and do it, that, the system itself, - &-2 it reeks of the BIBLE, just, the whole thing,
+1,Well, who wants to clean their junk before they throw it away t_laugh . % t_laugh That's right, &-1 Right. %-2 selecting, you know, clean junk as they say.
+1,t_con what were we trying to do. & Who knows. &-1 We lost lives &-2 t_con what did we do.
+1,t_con you know what, scares me about Golden Retrievers? % t_empty &-1 both the half breed and the pure breed had the, what I consider the, the perfect disposition. &-2 t_con they both, you know, -
+1,Is it then the chance that the employer will look at you in more of a negative fashion and say well, you know, this is kind of iffy, you know, & are they really on drugs &-1 you come out positive. &-2 t_con you've been on medication or whatever,
+1,God knows why we hold it on Tuesdays. % t_empty &-1 t_con one of the reasons, that, we could get, one of the reasons that it is lower in the United States is that mostly we hold it on Tuesdays. %-2 Uh-huh.
+1,t_con how much money did that cost Dallas to, fight that in court. % t_con all the things that Dallas fights, costs thousands, probably millions of dollars, I bet you. &-1 guess I, sympathetic with the kids, &-2 t_con they went to court,
+1,how, & it's just so many -- - &-1 what, &-2 Who's going to run it, you know,
+1,-- t_con how do you get to another world, you know? & t_con I, don't even know what they're talking about. %-1 Yes. &-2 t_laugh Different worlds --
+1,why not. % He was eating the dirt, &-1 It's healthy, &-2 That's right.
+1,t_con if you have to, you know, how do you make sure, & I'm sure when you make your appointment and go by, everybody puts on a happy face, &-1 it really concerns me, that, first of all, that anyone could let someone live like that, &-2 In fact, here in Baltimore they've actually shut a couple of them down and taken all the people out of them because they were so, bug infested and rat infested.
+1,see, am I good, or what? % Yeah. &-1 Yeah, %-2 that's really good.
+1,How can you really deal with an environment where you're going to lose everything. & Forty deaths. &-1 They're a bunch of animals, you know. &-2 Hey, the b-, person is going to take a look at that and say, suspicions confirmed.
+1,what's in it for her. % Yeah, &-1 I know, %-2 Well, I don't see how he couldn't be, you know.
+1,t_con was it a dolphin or a torpedo. & t_laugh You remember that? &-1 Gulf of Tonkin, resolution - %-2 -- thi-, of, force that.
+1,Should judges be elected or appointed. % That's true, &-1 t_con that's, another interesting question. %-2 they're going to be, -
+1,You know, what my absolutely favorite show is? % Uh-huh. %-1 Jay Leno. &-2 Oh.
+1,What do they need cigarettes for? % t_con there's another thing about the justice system that I don't like %-1 Yeah. &-2 they're in jail for crying out loud.
+1,how do you decide what number of people have to say that. - % Yeah, &-1 you know, how do you decide. %-2 Uh-huh.
+1,You know, will you be penalized if you don't. & Will you, - &-1 That, is interesting. %-2 t_con I think that's a really interesting question.
+1,Well what are we going to do about it? % I don't know. %-1 They just get out, you know, %-2 it doesn't,
+1,t_con where's the line where you, say to somebody, I'm going to drug test you tomorrow & t_con please do not take these medications &-1 I think that everybody is aware of that &-2 t_con there's poppy seed type things.
+1,why not. % t_con I think really if we got all those that are able-bodied into the work force t_pause reduced t_pause the amount going out for those purposes, created new jobs for that work force, there would be plenty of money. &-1 it does seem only fair, &-2 Right,
+1,You know. % -- it's not just paying back what you've charged, %-1 yeah, &-2 -- t_con
+1,isn't that nice. % -- the real planning, that's the real key -- &-1 that sounds so wonderful, %-2 -- t_con that's not hard,
+1,t_con the money is also another issue. How you're going to pay for it. % Right. %-1 -- I guess. &-2 # Yeah. #
+1,t_con if we have children who are not getting their education, for one reason or another, then what are we going to do with # them? # % # Yeah. # &-1 education is the key to our future %-2 it certainly is.
+1,I'm also wondering why our taxes are still so high considering like the world's probably in better shape now than it has been in the last fifty years . % Except for everything keeps going up, # you know. # %-1 -- that kind of thing &-2 Yeah.
+1,# Do they # wind up with more red tape, and # more problems then? # % -- # well, who, else # is going to do this, then? &-1 I don't know t_laugh . &-2 My only concern is what happens when you turn things over to the government,
+1,t_con what do you do with them in the meantime? % That's right. %-1 Uh-huh. &-2 You know, if we go out and pick up a bunch of cans from people, sure they'll save them for us, there's no problem there.
+1,you know, how young can they start T-Ball and soccer? t_laugh . % Right t_laugh . &-1 t_con we've already started about, - %-2 Yeah.
+1,who knows. % basically, I had read that they're just looking at relocating them all to McKinney is it, Texas, %-1 Wh-, kind of time frame is it, looking for the, different shifts up there? &-2 Yeah,
+1,Why not go to adults, too? % Well, I'm, personally very in favor of it. &-1 Well, why stop at children? &-2 Uh-huh.
+1,t_con who wants to, ride a bus? % we have this big romance with the car, %-1 the only school bus, you see are school buses, %-2 there, is, -
+1,what kind of culture was that t_laugh ? % Yeah %-1 Uh-huh. &-2 I could watch YOGI BEAR, you know,
+1,is it a PAC ten school, you know. % Yeah. &-1 yeah, &-2 Yeah.
+1,What next? % I know, %-1 I know t_laugh . &-2 we didn't have to t_laugh worry about that before.
+1,what was it, seventy-four when we had the, last oil crisis? & t_con we started getting smart &-1 t_laugh no, &-2 no,
+1,You know, why do you do this to yourself? % Why do you do this? %-1 t_laugh I know. &-2 t_con I'm embarrassed for the people that are even involved in the show.
+1,Can you imagine if someone started bombing your neighborhood, % # Yeah. # &-1 these people are middle class people, just like us. &-2 I feel really sorry for these people,
+1,how many times have you heard of judges being bought over. % I know. &-1 t_con hey, &-2 Not only, you know, that they have to stay in there,
+1,what's the, America's role there & with, other things going on, it, seems to have lessened, &-1 the idea of, - %-2 Right.
+1,Well, is that good? & Yes, &-1 you know. %-2 that's right.
+1,You know, what's the significance of the apes, you know # t_laugh . # % # Yeah, &-1 # You know, a lot # of that stuff that was going on in the film, you co-, what is this? %-2 Yeah. #
+1,wh-, what about the argument where, somebody who is committing one capital crime chooses to commit a, more serious capital crime? & murder, because that one at least, you might escape from because his victim, you know, his witnesses will be gone . &-1 No, %-2 You kind of hate to, -
+1,t_con all we had to sit here and, ask is well, what aren't they telling us, you know. & t_con that, was pretty scary. &-1 -- could tell us. %-2 Right.
+1,What's # the new criteria, % do you have the standardized testing now? &-1 # I know. %-2 t_con I thought well how mature do you have to be # t_laugh . #
+1,How about investing in the sun. & Well nobody wants to pay twenty-five cents a kilowatt hour, I don't think. %-1 right. %-2 yeah,
+1,t_con why, do we let this happen. % that's, interesting. &-1 -- like you say, very annoying %-2 -- valuable,
+1,Would that, have been too much of a price to pay for that? & I don't know. &-1 What if we would have lost thousands of young men. &-2 t_con what if, that wasn't the case.
+1,t_con yet, how did I turn out the way I did turn out. % # Yeah, &-1 t_con he was. &-2 when he saw where I, you know, saw my later teenage years, he was just, I hate to say aghast, because that sounds so trite,
+1,Who do you think? & t_laugh The Dallas Cowboys. %-1 So, who's your, favorite team? &-2 Okay.
+1,well, if they went AWOL, what are you going to do. % Yeah. &-1 Yeah, %-2 t_con I don't know how they'd enforce it,
+1,Well, what about the, issue of air conditioning. & Isn't that a s-, an area of concern in the cost of air conditioning? %-1 t_con we might as well use them. %-2 right,
+1,which do I like better, & I think I like the t_laugh Porsche's philosophy a little bit better, although it's not really practical. &-1 I don't know, &-2 -- t_con it's like completely opposed.
+1,My view is look, what did you ever do to me. % Yeah, &-1 I'll, never understand it. %-2 Yeah.
+1,What can we do to rectify this situation, & t_con that God would move in that sovereignly, &-1 You know, t_con therefore when we have an enemy come against us, I really feel like, that, &-2 t_con not only don't kill them, bless them.
+1,Can they convey the data verbally or in writing. & t_con that's what's, you know, really scary to me. &-1 t_con you know, they can get a, grasp the points. %-2 Uh-huh.
+1,What if we would have lost thousands of young men. & Would that, have been too much of a price to pay for that? &-1 t_con what if, that wasn't the case. &-2 t_con that, wonderful
+1,Well, do you believe only fifty percent of the people actually vote? % I think it's somewhere really close to that cause I think a lot of people believe that their one little vote is not going to make that much difference. &-1 Okay. %-2 Okay.
+0,Are you talking about like Spring Break % Right -- &-1 I do too. %-2 t_con I guess another one that, I rank up there high is the, kind of job flexibility and time off, I enjoy as a benefit.
+0,t_laugh . A satellite dish? % On top of the recreational vehicles. &-1 Yeah %-2 -- satellite dish t_laugh .
+0,Does it bother you if your children are not interested in it? % a little bit. %-1 I beg you pardon? &-2 Does it bother you if your children are not interested in it?
+0,if you're, knowledgeable on that. - % it's interesting though because my cars are older &-1 well, what do you think if you're in that, &-2 t_con now that they, the inspection systems are analyzing that, -
+0,or you settled, % No, &-1 Are you looking &-2 -- you know, or five.
+0,Where are you going to school? % N C State. %-1 I love it. %-2 It is great.
+0,Have you seen it yet? % Yeah. &-1 I guess I've been, con-, it. &-2 not yet.
+0,Your name is Lynn? % Linda. %-1 that made a nice ugly sound. %-2 Okay,
+0,Cindy, you there? % Yeah. &-1 Okay, &-2 t_empty
+0,I, # assume that means good for the Minnesota , % Well yeah &-1 # Good. %-2 People # are pretty excited about it. #
+0,well wha-, included in that? % You mean in a one bedroom? &-1 Right, %-2 # t_con # I, pay more to feel safe, you know.
+0,Well, now have they moved them behind Wal-Mart? % Yeah. %-1 recycle, because we, there is some bins, like behind Wal-Mart, that take some things. &-2 curbside recycling,
+0,Wouldn't it have been wonderful if we could have freed the country. % Yes t_laugh . %-1 than, just quitting where we did. &-2 I agree.
+0,can you think of another thing that you guys looked at % Well, those are some of the things that are very important to us too. &-1 that we were anxious to do everything we could to have, you know, made us be more together, &-2 t_con t_con like I say, we kind of felt deprived that he had been in school and been away from us for so long t_laugh ,
+0,A boy and a girl? % Two boys. &-1 What kind of mix do you have? %-2 Yeah.
+0,Well, like, how does it compare to the ones in your neighborhood? t_laugh . % Well, they're, middle class neighborhood. &-1 yeah. &-2 yeah,
+0,About how much do they charge to do something like that, & do you know? &-1 Uh-huh. %-2 t_con you'll have a realistic assessment of what you're getting.
+0,What about like those grocery bags? % yeah, %-1 Yeah. &-2 Really?
+0,Where are you from in California? % Southern California. %-1 right. %-2 right,
+0,Is he a hunter and a fisher and all that. % No, %-1 t_con my husband and I have different hobbies. %-2 you know, if you have hobbies that are the same, then, you know, you can enjoy your hobby together,
+0,Now, does your husband usually go with you, then? % Yes. &-1 Yeah. %-2 t_con my kids, luckily, are old enough I can leave them at home alone while I go out and walk.
+0,Did you get a catalog or something from these people? % Yes. &-1 let me ask you something. %-2 Yeah.
+0,t_con is that how your parents feel % well, see it's more my grandma that feels that way. &-1 Yeah, %-2 To put her in a rest home?
+0,t_con there is, like, no restriction on what types of bushes you can have or anything like that? % Right, %-1 t_con they don't do it in your yard. &-2 okay.
+0,Think we've talked long enough? % I think so t_laugh . %-1 Yeah. &-2 Again, my opinion t_laugh .
+0,How old are your boys? % they're grown now. %-1 -- and then they came in. &-2 Yeah.
+0,They don't let you take guns to work, do they? % No, %-1 Very fine, &-2 t_con how is work going?
+0,is it on, capital crimes that they have to be unanimous % Probably on capital, &-1 -- see, &-2 Yeah. #
+0,Like Chapel Hill? % Yeah. %-1 Uh-huh. &-2 All, you have is like towns built around universities.
+0,What was the last comedy you saw? % gosh what was the last comedy we saw? %-1 yeah. %-2 Yeah,
+0,Do you like the classics like, GONE WITH THE WIND and, you know the older movies. % I'd like to see those, %-1 it depends, on wh-, - &-2 You, watch many?
+0,Do you have a lot of land & t_con - %-1 Well, we've been here since sixty-six. &-2 t_con that you've, -
+0,do you think that the Soviet Union represents a threat to us? % I think they'll always represent a threat wheth-, or not there's an active cold war or not. &-1 I'm going to hit the button . &-2 go ahead,
+0,In the fuzzy logic direction? % What, %-1 -- t_con it's a fun field. &-2 Yes.
+0,do you stay not in one place too long? % No, &-1 Are you, transit usually? %-2 That's even harder.
+0,What about with adults? & Anything do any about adult crime. &-1 Yeah. %-2 but I'm sure there's something can be done.
+0,What about tomatoes, & aren't they pretty hardy? &-1 Right. %-2 I can't see the point in doing that and eating anything out of it afterwards.
+0,t_con if you were to buy a new car now, what would you look for? % like you said, anti-lock brakes and air bag, %-1 Right. &-2 make the car more expensive, but they often add more things to repair when things go wrong.
+0,t_con doesn't that just mean they're out of tune. % I'm not really sure. &-1 Yeah, %-2 when was the last time you saw a truck that didn't belch, smoke, or, -
+0,t_con even, in, like they said, you know, lesser, you know, trials, you know, lesser convictions, do you think that they should be all unanimous still? % I don't know, &-1 Now that, do you, agree, that they should all be unanimous? %-2 I can't think of many alternatives that could be more fair than having twelve people decide, although it's difficult because they all have to be new-,
+0,how about you? % Well, I, run a business out of my home. &-1 On occasion I can wear jeans. &-2 I wear skirts and sweaters.
+0,you did. & Okay. %-1 Well, I did for many years. &-2 Well, you do not have to tend to him.
+0,t_con you knew when you moved in, you'd have to pay that, didn't you? % Well, it, went up what we pay. %-1 -- t_con t_con that way if someone moves out, the entire neighborhood is mowed and watered and that kind of thing, you know. &-2 Uh-huh.
+0,What, do you do? & What kind of work do you do? &-1 in addition to all the technical stuff. %-2 Yeah.
+0,Who's that? % t_empty %-1 Right now I've got it narrowed down to the top four teams. %-2 I'm not sure, who they play.
+0,rea-, where did you go to school in Indiana? % Purdue. %-1 speaking for this area of the country. &-2 Uh-huh.
+0,Do you work to T I? % Uh-huh. %-1 Yeah. &-2 t_con he's living, in Sherman.
+0,aren't they pretty hardy? % we've tried them, &-1 What about tomatoes, &-2 Right.
+0,You think we've talked a long, enough time? % t_empty &-1 It's not ending is it t_laugh ? &-2 t_con when you get through with your own you've got grandchildren,
+0,I think you are, earlier than we are, as a rule, aren't you? & Your, s-, starts a lot earlier than ours. %-1 How about Pennsyl-, - &-2 Yeah.
+0,t_con it was great? % -- I traveled with a group of sixteen other students. %-1 t_con I took the trip. %-2 I, could have had that or a down payment on a new car
+0,What, type of area is that, % # It's more rural, # %-1 I work in Rome, %-2 well, I, actually live in a Village of Sylvan Beach,
+0,t_con you vote for the Democrats % Yeah, &-1 Okay, %-2 t_con I'm not sure how much that holds true anymore,
+0,Do you live in Plano or work in Plano, or both? % Both. &-1 t_empty &-2 t_empty
+0,you said you did cycling? % Yeah. &-1 What else, did you, - &-2 t_laugh Well, that's kind of interesting hobby.
+0,You would? % Sure, %-1 Sure. &-2 right?
+0,Is that for designs, & t_con is that for the regular seam in the fabric &-1 okay. %-2 It's, has four, threads instead of, the, regular basic two threads.
+0,Well, do you think this, % Well, not really, &-1 great. &-2 Yeah,
+0,How's he handling that? % he'd much rather be living alone in his apartment down in Florida. %-1 t_con they do have, you know, group activities going on. &-2 Uh-huh.
+0,Do you? % I don't understand the idea of paying somebody to, do it. %-1 Yeah. &-2 So, I always do my own income tax, you know.
+0,How do you feel about that? % I don't, feel we should loan them money. &-1 Well, what about, sending all this money overseas supporting other governments, third world governments. %-2 t_con I don't think Americans are willing to do it.
+0,So, do you watch much T V, % Well, I watch more now because, well I, had been going to school for years and have really been too busy -- %-1 Yeah, &-2 Well, he could very well be t_laugh .
+0,Have you noticed that? % I tell you what, I, don't think I really have, &-1 Right along in there somewhere, suddenly the air feels cleaner. &-2 -- on just this side of the county line .
+0,You probably wondered, % # Yeah. %-1 Oh t_laugh . &-2 I'm actually in a mall calling
+0,I don't know if you've seen those advertised on T V. % Uh-huh. &-1 I just bought myself a solo flex machine, &-2 I haven't decided whether, I want to play yet or not
+0,Which album, do you think is the best? % I don't know. %-1 -- t_con I, really enjoy listening to his music. &-2 Uh-huh.
+0,t_con what do you think of the Texas weather? % Not as nice as California t_laugh . %-1 From California. &-2 From?
+0,What's that? % I dropped the phone t_laugh . &-1 you all drive at fifty-five, don't you? %-2 t_laugh It would be really nice because I'm kind of tired of driving in pot holes t_laugh .
+0,Did you hear our topic? & It's in regards to discussing homes. &-1 t_empty &-2 t_empty
+0,# So t_con # what does you husband do now? % he is an engineer, %-1 < &-2 if we had one.
+0,I'm curious what was your, graduate study in? % t_empty %-1 # from, the spread pattern of hepatitis, they could work backwards to the transmission by, blood and semen. &-2 # Yeah. #
+0,Now this is a LeBaron? % yeah, %-1 I like that. %-2 t_con I like the, driver's air bag,
+0,t_con do you just have two kids % we have a eighteen year old, seventeen year old, and a seven year old. &-1 It sure is. &-2 Yeah .
+0,So, what is your opinion on, drug testing? % Well I can see it in certain cases where it might be, somebody's in a position that, perhaps a lot of lives are involved, like, maybe, pilots that, you know, fly jets %-1 Okay. &-2 t_empty
+0,What division you all in? % what? %-1 t_con t_laugh that part of it would probably work out . %-2 t_con T I is up there,
+0,Do you like it? % Yeah, &-1 we almost bought one of those. &-2 Uh-huh,
+0,Is that, what was yours more like? % Yeah -- &-1 Uh-huh. %-2 if you're going to go to a college where student faculty ratio is three and four hundred to one, I don't think you're going to have as meaningful of a college experience as if you're down to the thirty to forty to one.
+0,That's a problem, isn't it? % Yeah. %-1 If you knew what you were getting when you voted, - %-2 # more to the # point.
+0,You're from Virginia? % I'm from Texas. %-1 t_con it's not been bad at all. &-2 Uh-huh.
+0,Say you did, starters and bendix springs such as that on an old one. % Yeah, &-1 t_empty &-2 t_empty
+0,And have you had experience with cars other than the ones you have? % Well, yeah &-1 But we really liked that. %-2 Uh-huh.
+0,Are they? % Yeah -- %-1 Well, they're doing good tonight. %-2 Really?
+0,Do, % Well, I don't understand economics that well. %-1 t_con it's pretty scary. %-2 We have lots and lots of, layoffs here. Lot of companies folding, lot of layoffs
+0,well, what's your opinion about capital punishment? % Well, Cathy, I think that, capital punishment certainly has a place in our society, maybe from the sense that there are some things that we just can't afford to have repeated, even in the remote chance of repetition. &-1 Okay, &-2 t_empty
+0,Have you? % t_con I have never tried it. %-1 I have heard about that. &-2 that has vinegar and egg in it,
+0,How about yours? % It's pretty normal for this year, you know, &-1 it was, just overcast and rainy for, the next two or three days straight. &-2 t_con it had thunder and lightning,
+0,Wha-, sort of company do you work for? & Do you work for a big or a little place? &-1 t_empty &-2 t_empty
+0,Do, have somebody teach you that % Well, actually, I, known how to sail pretty much my whole life. &-1 # Yeah, %-2 like those catamarans are pretty fast.
+0,what about Hawaiian luau. % that would be good. &-1 Let's see, %-2 what else for catering.
+0,so what else do you think is important? % that's maybe the majority of the importance, I guess. &-1 Yeah, &-2 Uh-huh.
+0,Has it gotten better? % yeah, %-1 I haven't seen it in a couple of months &-2 Huh-uh.
+0,what, convinced you to get that one? % t_empty &-1 Uh-huh, %-2 I got a nineteen ninety-three Cavalier station wagon.
+0,Vietnam? % And, from Vietnam. &-1 Uh-huh. %-2 t_con most of the guys I work with, are, veterans.
+0,I say you take the newspaper. % Uh-huh. &-1 I've got one question for you. %-2 Uh-huh.
+0,you know, what's the trade off there, % - &-1 would you, advise a private school, or a public school, &-2 that's like what we were saying, though,
+0,What kind of paint? % It was a latex paint, %-1 This wasn't, must have not been a very good quality, because it just hasn't stood up very well. %-2 I used the wrong kind of paint.
+0,What did they want to charge you for it? % well it was about seven hours labor. &-1 Yeah. %-2 t_con I, had, taken this in to have it done originally.
+0,-- t_con Do you own a gun? % No. %-1 Uh-huh. &-2 I don't know if Dallas is in the top three --
+0,Wha-, are you taking in school, % # I'm sorry. # %-1 Yeah, &-2 t_con there's got to be a lot of potential down there.
+0,You want to go ahead and start talking about whether you budget # t_laugh ? # % # Yes. # &-1 How are you? %-2 Okay t_laugh .
+0,Who is the competition going to be? % Well, it's supposed to be the Redskins, but you know, we beat them already. %-1 t_con everybody is really excited. %-2 Now it's like, you know, tough and dirty team
+0,How about yourself? % we have two and another one on the way. &-1 I got three. &-2 yeah.
+0,how, does, University of New Hampshire handle it? % Well, we have two different plans that we can subscribe to under dental, depending, &-1 I'm not sure, &-2 -- t_con I'm not sure that's, widely followed any more.
+0,Now it's, very wooded around where you are, & there lots of pretty trees and, - &-1 Uh-huh. %-2 -- they settle sort of in-between.
+0,t_con you get together once a year. % Yeah. &-1 it really is, &-2 Wow,
+0,Do you believe there ought to be legislation guiding the, buyer and the seller? % t_empty &-1 How do you feel about that? &-2 Like if you wanted to sell your pistol to me.
+0,Do you work? % Yes, &-1 Okay. &-2 t_empty
+0,t_con a lot more games, right? % Yeah, %-1 t_con they play a lot, longer season, too. %-2 yeah.
+0,What do you use to keep from sliding off that rascal? % Well, t_laugh you wear, shoes with good traction, and, try to remember where you are at all times t_laugh . %-1 parts of it are steeper than others. %-2 it's pretty steep.
+0,not a whole lot of forestry down there, is there? % No t_laugh , %-1 I don't know t_laugh . %-2 I think it's called a job,
+0,What kind of, vacation spots are there in Colorado? % Rocky Mountain National Park. %-1 Yeah. &-2 Really?
+0,What about your casual wear? & Do you like to wear jeans most of the time? %-1 uh-huh. %-2 accessories,
+0,Now was this a one parent or two parent family? % one parent. %-1 t_con they were, they just, keep you going t_laugh . &-2 Uh-huh.
+0,t_con do you get yours through a bank % ours is through a bank, yeah. * &-1 Do you have, an annual fee on yours &-2 Right.
+0,Do you use them frequently % Well, we, when, we have like extra money that we know we're going to have, and we can put it in our budget, yeah, we'll, use it. %-1 Right. &-2 -- at least that's one number for this range of numbers I have, heard.
+0,t_con it's not pushing it real hard, like, you know, if you tried to make six or something like that. % yeah. &-1 Oh. %-2 t_con I am pretty winded by the time I get done.
+0,t_con what do you think of our trial system? . % I don't really know what to think about it, &-1 t_empty &-2 t_empty
+0,Well did they have a T V movie about him? % I'm not sure if they had one yet, %-1 his name is Arthur . %-2 yeah,
+0,Where did you go? % I - %-1 I don't know, &-2 Yeah,
+0,Dee, are you familiar with the Latin American policies? % Yeah, &-1 Okay, &-2 t_empty
+0,# Is that right and wrong? # % -- generally speaking, pretty true. %-1 Yes &-2 By the same token, most, cases, women have the jobs with the same responsibility of men who have been there before, but at lower salaries.
+0,wasn't that Fishbone. % Yeah. &-1 who was on, the music people, &-2 No,
+0,Kind of like the cowboys, % Yeah, %-1 t_con they screwed up the last couple of games. %-2 t_con they were in a shot to make the play-offs
+0,t_con is it passed? % I do believe that's in. &-1 t_con p-, &-2 I knew it was there
+0,t_con you, all actually had some color, % yeah, %-1 I think it was an especially good winter for fall colors. %-2 our leaves are, all on, the ground now.
+0,Wouldn't it be something to have a World Series between Da-, the Rangers and the Astros. % wouldn't it, though t_laugh . &-1 They sure are. %-2 They really are.
+0,Well, where do you take those things? % Well, the, glass and the newspaper we usually take to Walmart. %-1 -- and newspaper right now. &-2 Uh-huh.
+0,What school you going to? % I'm at East Carolina. %-1 t_con I've really been faithful these past two months of going to the health club and working out %-2 t_con I haven't really gone,
+0,t_con do you play golf at all? % Yeah, %-1 great. %-2 Okay,
+0,you don't like Howse, # # % # No, %-1 # I really # wish they could see fit to get rid of Howse. &-2 he seemed to know what he was doing
+0,Well, how did you get involved in that? % Just, like sewing and stuff and decided to buy a pattern and try to make a doll. &-1 # well. # %-2 t_con I just make clothes for my dolls.
+0,Real hard? % Uh-huh. %-1 Uh-huh. &-2 Is that a tough system to be in?
+0,Including a printer? % Well, actually I wasn't including a printer, %-1 No. &-2 You're kidding.
+0,Is it been pretty commercialized, I suppose? % No, %-1 got down here that, - &-2 Right.
+0,do you know John Qumenato? % Yeah. &-1 In fact, we have, - &-2 t_con we hire, an orchestra at least twice a year and then different instrumentalists off and on through out the year.
+0,Do you have children? % No %-1 -- that's best way to avoid trouble, from what I can gather. &-2 Right.
+0,Do you want to hear about my other animals I've had? % Sure, %-1 well, that's a nice, story. &-2 -- that's why we call her Liberty.
+0,are you a musician yourself? % well, I sing. &-1 do you ha-, - &-2 t_con let me go ahead and push one here.
+0,Have you ever been to, like New Mexico? % no, actually. %-1 Uh-huh. &-2 it's, probably the most exciting place I'll ever get to go.
+0,t_con you go back and visit with her anyway. & Would you not? %-1 Yes. &-2 t_con is your mother still living?
+0,t_con when you were growing up and they weren't, around, what did you do? % We were all pretty close when we were younger. %-1 I don't, you know, - &-2 Yeah.
+0,what do you think about it? % t_empty &-1 Okay, &-2 t_empty
+0,And that, the penalty ought to be out there, and be enforced? % Yes. %-1 Well, I ju-, feel like there's a lot of murderers and rapists, and everything else, just walking the streets. You know? &-2 how do you feel that it should be applied?
+0,So you have a son? % I have an older son, &-1 t_empty &-2 t_empty
+0,You're doing the newspapers and the glass? % Uh-huh. &-1 t_con you're doing that now? %-2 # The kids # keep those t_laugh .
+0,what were your selection criteria. & Did you base it on what you wanted to major in or what you would feel comfortable with or what you could afford &-1 The reason I ask if you went to college is I thought, well, you know, - %-2 Yes.
+0,What color is it? % It's pink. %-1 I don't know how else to explain it. %-2 -- t_con it, just looks dingy.
+0,How about you? % Well, we have a cat, %-1 Uh-huh t_laugh . &-2 -- except for the cat.
+0,Do they sometimes make a recommendation? % yes, %-1 Yes. &-2 Make a recommendation?
+0,# Would you then go ha-, # hiking. & would the camping be part of a long hike? %-1 t_con you don't want them up that early. # %-2 When you have a small child because they don't want to get up at three in the morning t_laugh #
+0,t_con how long have you been biking? % I guess as an adult for just about the past, three years or so . %-1 Uh-huh. &-2 see a little bit of Texas I've never seen before.
+0,It's their right by freedom of speech? % Yeah. &-1 you just said it. %-2 Yeah.
+0,She just recently started working then. % t_empty &-1 Uh-huh. %-2 she didn't up until the last, six months.
+0,A T S? % Uh-huh. %-1 A T S Computers. %-2 here it is.
+0,What is your situation? % Well, I'm, guess I don't have su-, close experience with, an area becoming a state as you do. &-1 t_con I have a suspicion that, I believe that a, statehood is a good idea whenever you have a territory the size of Puerto Rico one ought t_con to make it a full-fledged state t_con let it go, one or the other. &-2 I know that all the things that happened, relative to that territory in Alaska have been very positive,
+0,t_laugh Do you work during the week, outside the home? % Yes, %-1 So would I t_laugh . &-2 I had rather be outside than, inside any day.
+0,t_con they're doing this in school, or what? % Yes. %-1 One is thirteen and one is eleven. &-2 How, old are they?
+0,# What # part of California # are you from? # % # San Jose, # California. %-1 # yeah. # &-2 t_con in Orlando, there's, getting to be a bigger problem than ever,
+0,What type of home do you have in Dallas? % We have a, four bedroom split brick home in, Richardson actually. %-1 Okay. &-2 All righty.
+0,do you also get dental? % Yes. %-1 sometimes I think it's more important t_laugh than salary. &-2 # Right. #
+0,I don't know if you've heard about it a few years ago, they said, you know, before they had the, shoulder strap thing where it was just like a seat belt that goes across your waist? % Yeah. &-1 t_con just like me, I always think well, you know, these things must be safe, &-2 maybe you don't,
+0,I don't know whether you did yours. % # Right. # %-1 Yeah. &-2 t_con I'm always very careful when I change hoses on it.
+0,I guess vegetables are in, pots and stuff? % No, &-1 Have you tried any, like fruits and vegetables or anything? %-2 t_con that's probably my problem there.
+0,-- t_con wonder if the insurance companies are fighting the national health, & t_con wonder if they're wanting it. %-1 Yeah. &-2 that's helped bunches --
+0,What kind of consulting do you do? % t_empty %-1 we decided not to get the which is actually another loaner one too that we picked up for a consulting job that my husband was doing , %-2 no we don't have the , -
+0,Have you fly fished? % no &-1 I've never fly fished. &-2 I think I've been trout fishing once.
+0,Why not. % t_con European, I don't ha-, any, %-1 I don't like Japanese cars, %-2 Of course everything has Japanese parts in them anymore.
+0,Now that's for individual. % Yeah, %-1 shoot it's only about ten bucks a month. &-2 how much is it a month?
+0,How about your, - % She does it all now for about ten years, &-1 Well, that's great. %-2 t_con I've been happy ever since.
+0,-- so, it's not J C Whitney or somebody like that. % No, %-1 -- somewhere. &-2 Um --
+0,Well, what about the lighting? & Did it make a big difference? %-1 that understands colors would know all of that stuff &-2 Yeah.
+0,were you at Baylor? % t_con I just didn't take as much advantage of it as I should have. &-1 Yeah, %-2 t_con I had all these classes and all this knowledge and this big library across the street from my dorm,
+0,What can we do about crime? & I don't know. &-1 Okay. %-2 Okay.
+0,Was that here in Dallas? % they had it everywhere, %-1 t_con they showed all five in a row. %-2 I actually went to the STAR TREK twenty fifth anniversary marathon that happened about a month ago,
+0,By themselves I mean. % yeah, %-1 Yeah, &-2 The ones that blink off and on.
+0,t_laugh Don't you like cats? % Well, I like cats. %-1 t_laugh They know I don't like it. %-2 that's the boys.
+0,Do you do Tex-Mex? % yeah, %-1 t_con I don't have gourmet foods t_laugh . %-2 t_con I don't know how to do that,
+0,you were, tested for drugs as you got into T, % Right, &-1 let's see, &-2 do you have any idea, -
+0,Well, well, how was he killing the women. % he was strangling some of them. %-1 t_con he was just on trial like maybe a year ago. %-2 he was, -
+0,Is, the Kmart there? t_laugh . % t_laugh we do have Kmart here, %-1 Which is just forty-five miles from, where I am, in a suburb of Dayton. &-2 Oh.
+0,what would be the first thing you'd cut? & Defense? &-1 # What # would you start cutting f-, %-2 I would say there # has, # -
+0,how about you? % Well, the last car we bought was American because of, that reason, &-1 t_con you know, I'm not so totally hung up on that, that I wouldn't buy something else, %-2 Yeah.
+0,Well, especially don't you have what, a lot of salt on the ground? % Yeah, &-1 Uh-huh. %-2 Lot of snow and a lot of cold.
+0,Notre Dame t_laugh ? % No. &-1 Who-, that? %-2 You probably wouldn't like my favorite team in college then.
+0,t_con what about you? % I went to the University of Minnesota. &-1 -- t_con t_con U of M seemed overwhelming in size %-2 Uh-huh.
+0,well, have you any plans to, maybe, expand or move onward? % N-, &-1 really, %-2 We've been in it six years.
+0,What do you think's going to happen there. & The break ups? &-1 t_con how about the Soviet Union. %-2 Absolutely.
+0,Do you know who it was about? % well, I went to, seminar on, - %-1 Like I say, haven't done it in, such a long time. &-2 Well, how about who, -
+0,# How do you feel # about it? & I guess I, got to say, if that's the subject, do I feel that we're well enough equipped to, - %-1 Tom Brokaw. # Sort of alternately. # &-2 Yeah.
+0,Is this your first baby? % Uh-huh. %-1 t_con I just don't have the patience to just, you know, do something. %-2 I only can do things that are pretty fast, because we just, got our baby last year,
+0,that will, sound wonderful, won't it? % t_laugh Well, %-1 P H D in human factors. &-2 lord.
+0,I don't know if you are familiar with that. % Yeah, &-1 The only thing I do now is, put the data into Quicken. &-2 the question was kind of interesting to me because I was just trying to put together a, long term financial plan and monthly budget.
+0,Do you listen to much live music, like concerts or things there? % No, %-1 Pardon me? &-2 do you go to, listen to much live music?
+0,What about you? % Well, it's funny, %-1 Uh-huh. &-2 t_con I haven't done a lot of, exercise on purpose.
+0,You don't? % No, %-1 I don't. %-2 No,
+0,do you want to start & t_con should I start? &-1 okay. %-2 t_con I live in Raleigh, North Carolina.
+0,yeah? % Yeah. %-1 I like Philadelphia Eagles. %-2 I grew up in Dallas but I'm still not a Cowboys' man.
+0,#Now # did you cut a quarter wedge in this? % I'd say it's about an eighth. &-1 Right. %-2 t_con getting the other one out without the slice now flying in your face was something you had to think about t_laugh .
+0,are you? % Yeah. %-1 Well, we're doing it for a church choir &-2 I'll sit down here and call it t_laugh .
+0,that ought to give their programming trouble shouldn't it? % t_empty %-1 Uh-huh. %-2 Uh-huh.
+0,Did you have shrimp? & they, show all this wonderful seafood and, great big prawns, you know the big shrimp &-1 yeah. &-2 Yeah,
+0,Do you have any pets now? % I sure do, &-1 t_empty &-2 t_empty
+0,You think my daughter would like it? % well there are, one spot that was just a little bit on the gory side. &-1 Yeah. %-2 t_con I, can see that.
+0,Ho-, old are your kids again? % They're two and one. %-1 -- I spend a lot of time with them . &-2 # I see. #
+0,You cook them so often you kind of forget their names. % That's right, %-1 I forgot, t_laugh , what it's called, %-2 what's it called,
+0,t_con that way just create more jobs or whatever? % Well, at some point there, will be enough jobs for most of the ab-, Americans. %-1 what I was thinking more along the lines of is start going to space. &-2 t_laugh t_con that's not going to work,
+0,Where's that at? % That's at Skillman and L B J -- &-1 No. %-2 Have you tried Mother Mesquites?
+0,A sabbatical . % t_empty %-1 t_con I am just taking a little bit of time off right now. &-2 my.
+0,t_con how often do find yourself going? & on a, regular basis, how often do you go? %-1 t_con it's fun. %-2 t_con no big deal.
+0,A grand jury or, - % well, let's see, it was municipal court -- &-1 Was it civil or criminal? %-2 I was kind of boring.
+0,Do you find that, & t_con does it come mostly from industry up there? %-1 It's, really a serious issue for those of us up in this, sector up, here. &-2 Right.
+0,What do you think about, the way the criminal justice system handles trials? % Well, you know, they tell you that you get tried by a jury of your peers -- &-1 t_empty &-2 t_empty
+0,Is he a programmer? % Uh-huh. %-1 I don't understand half the stuff he does %-2 t_con then he switched jobs.
+0,My voice you mean? % Yeah. %-1 Well, sounds like you're from up north. &-2 uh-huh.
+0,wh-, do you think of, the current trends of how other people spend time with their children # and so forth? # % # I, think the trends are going back to spending more time with families. &-1 # t_laugh Well, tell me, %-2 Sometimes I'm a little exhausted # t_laugh . #
+0,Well, speaking of that kind of issue, have you kept up with John Wiley Price? % Yeah. %-1 t_con he obviously failed somewhere along the line. %-2 t_pause probably so, just because they were under his authority
+0,Well how large is Williams? % Williams is an undergraduate school only -- &-1 At Pennsylvania. %-2 At Pennsylvania.
+0,When do you get out? % probably be another twelve years. %-1 if I do do it, it will be after I get out of the Navy. %-2 t_con you know, most of the Navy funds that I probably won't do it until I, -
+0,# Do # you usually go out, with the children or without them? % Well, a variety. &-1 Uh-huh. %-2 t_con sometimes it's nice to go out and have a salad.
+0,How long ago? % eighty-six. %-1 Yeah, &-2 Oh.
+0,the computer was supposed to have two. % Well, it has them &-1 no , &-2 t_con we tried to figure out whether we could put three in because we really need to be able to put at least three in.
+0,# Like a hologram? # % t_empty %-1 no. # %-2 no,
+0,I guess the weather hasn't been too different between us. % No, &-1 Exactly. %-2 t_laugh Well, we can, complain together or swear we can complain together about the humidity t_laugh .
+0,What's the most expensive one you bought? % The most expensive. &-1 Well, that's neat. %-2 They, all play different songs.
+0,so what would be the, your favorite meal to cook? % t_laugh None to cook. &-1 t_empty &-2 t_empty
+0,Well, how, do you feel about the immigration laws? % currently, I think they are a little restrictive. particularly for, certain ethnic groups or from certain countries. &-1 t_empty &-2 t_empty
+0,Do you have family who were in the Vietnam War? % no. &-1 No? %-2 no.
+0,t_laugh What kind do I like? & I like just about any kind except country and western. &-1 Okay, %-2 who do you like? t_laugh .
+0,Sounds like you're, very respon-, % Uh-huh. %-1 t_con I pay it all off, %-2 t_con I, use my Visa for, as much as I can,
+0,how old are you? % Thirty-eight. &-1 Well, let me ask a personal question, %-2 t_con I had to kind of change my life-style a little bit .
+0,You didn't get any government classes? % Huh-uh. %-1 not really. &-2 Right.
+0,Is that what you think? % Yeah, %-1 Yeah. &-2 t_con it just seems like, if you're strictly middle income, it seems like you get hit the worst.
+0,why, one were you going to recommend? % Well, there's so many places here, you know, &-1 -- that's one of the few, - %-2 Oh.
+0,Do you have that there? % t_empty %-1 Yeah. &-2 Well, here in Colorado it's even worse because we have no fault.
+0,You mean you use credit cards? % do I. %-1 My favorite subject t_laugh . %-2 credit cards.
+0,have you, tried matching paint lately? % No, %-1 t_con that wasn't too bad. %-2 Yeah.
+0,t_con your wife's folks still live in Colorado? % Yeah. &-1 They're all, yours &-2 I know.
+0,they must have pretty good severance, though, % I don't know, &-1 Is it, - %-2 there's always, laying people off, which is another benefit that you can have other than salary is trade that off for security.
+0,t_laugh Where did you cry. % let's see, %-1 t_con each was about half an hour long, %-2 It was telling a friend, I, said, I only cried twice,
+0,Have you read, THE SILENCE OF THE LAMBS? % No. &-1 That's true. %-2 yeah t_laugh .
+0,Do you all just start planning real far ahead of time? % Pardon. %-1 Oh, &-2 # t_con to make one successful, what do you all do.
+0,How do you feel about the Viet Nam war? % well, you know, I guess it's pretty deep feelings, &-1 t_empty &-2 t_empty
+0,What do you think as far as air pollution in the Dallas area? % Well, I have some small experience in this area. %-1 Okay. &-2 I'm in Richardson.
+0,Have you heard of them? % No. %-1 # # uh-huh. &-2 I work for a little start-up company here in Pittsburgh called Trans Ark. # #
+0,t_con how do think, we've changed in the last ten to twenty years? % I'm at a little bit of a loss, &-1 Okay, &-2 t_empty
+0,How about yourself? % I just saw the latest one. &-1 I found that out t_laugh . &-2 No,
+0,Do you tend to buy more recycled items that, if something, the pack says recycled and something else doesn't? & would you tend to chose the one that does &-1 Uh-huh. %-2 You know, maybe it's making an impact t_laugh .
+0,What limits ought to be put on it, do you think? % t_empty &-1 let's, answer the second half of the question. %-2 it's horrible.
+0,I don't know how hard, is it, in the public school system in Iowa City? & Is it, deteriorated a lot. &-1 you must see kids with real significant problems, in some cases. &-2 -- that weren't existent,
+0,You think they'll sign Ruben? % t_empty &-1 I'm telling you. %-2 A little disappointing the last few years.
+0,Do you think that in the case of the one that you've actually had some experience with, that the people who operate it seem to have, what you'd perceive of as genuine concern? % I think, yeah, %-1 It's, must be depressing to, walk, the halls and see, %-2 t_con again, it must be depressing for the people who, are, just e-, not able to take care of themselves in their own house but, certainly, have retained all of their, mental skills and so on.
+0,do they get, from other insurance companies & t_con how does that work? &-1 who - %-2 # Sure. # That's what they buy insurance for.
+0,t_con you're still on the makings of it? % The Sherman facility, we are still in the, closer too, but still have a little bit of, finalization to do. - &-1 Now is that place built %-2 t_con it's a full time, everybody has their home phone number type of job.
+0,Well, how old are you? % twenty, seven. %-1 I've been out of Texas about ten years. &-2 How long have you been in Raleigh?
+0,I don't know if you have a satellite dish or not. & We don't -- &-1 You know, that's certainly made it nice for other purpose. &-2 I appreciate having the satellites.
+0,Are you a native Pennsylvanian? % Yes, %-1 we have a cousin that lives in Philadelphia, &-2 Okay.
+0,What about yourself? % Huh. &-1 Uh-huh. %-2 t_con that's make up most of the laboratory
+0,what percentage of, corporations and, private industry do you think use, drug testing? % I think it's, more frequent now. &-1 what, do you think, %-2 Uh-huh.
+0,t_con if they have new evidence, can they, retry, & t_con can they, you know, bring you back. &-1 I, don't, know the law on that &-2 I wonder if, maybe, you know, -
+0,In like, qual-, or sort of an orientation in terms of like, view point or the way the news is presented or whatever? % I think that it, has to do with, - &-1 In what way? %-2 I'd like to say that I'm overwhelmingly disappointed with the media in general except for the raw news wires .
+0,When you say you're in the second phase of this project, what is the second phase of it? % I'm not sure, %-1 t_con they enjoyed in thoroughly. &-2 Uh-huh.
+0,What is, your state income tax rate is? % no -- &-1 for your state. %-2 I will agree to that.
+0,t_laugh Have you thought about that? % No, %-1 I don't t_laugh know t_laugh . &-2 Uh-huh.
+0,Where are you? % Well, I'm in Texas. &-1 I live in Texas now. %-2 Where do you live now?
+0,Did you see the end of it? % No. %-1 Uh-huh. &-2 t_con it had such a good story, too.
+0,who would steal a newspaper? % You would be surprised. &-1 Gosh that's, pretty bad to me. %-2 t_con I live in kind of a bad area where if I have the paper delivered it's stolen before I can get out and get it t_laugh .
+0,What else do you like? % let's see, I like a lot of different shows. &-1 Okay. &-2 yeah.
+0,did you just buy a car & t_con are you in the market to buy a car &-1 Well, what, kind of car, - &-2 t_empty
+0,Do you have to watch what you eat pretty regularly? % I do. &-1 Uh-huh. %-2 If I eat very much sugar, boy, just does something.
+0,t_con like does insurance pay for the body damage, % Right. &-1 Uh-huh. %-2 than most.
+0,Which, shows do you watch on T V? % I use tapes. %-1 I have a cassette. &-2 Okay.
+0,Where are you at? % U T D. %-1 t_con I have a friend, %-2 Well, I kn-, know, I'm going to school right now,
+0,t_con did, you experience that with your, father or not? % we had a, care somewhat like, what you're talking about. &-1 Yeah, &-2 -- exactly.
+0,Have you s-, had any snow up your way? % No, &-1 t_empty &-2 t_empty
+0,do you live right in the city itself? % No, &-1 especially around cities. %-2 Uh-huh.
+0,Of the Stones? % Yeah. %-1 I don't like the new stuff. %-2 I like, the old Rolling Stones.
+0,Are you in Texas? % No, &-1 Yeah. %-2 t_con it seems to be going okay.
+0,Have you made them? % Yeah. %-1 yeah. &-2 a friend gave me a recipe that I really like for chicken enchiladas.
+0,Does, have a happy ending, % Yeah, %-1 I loved it. %-2 It's really good.
+0,t_con they just brought food with them? % Uh-huh. %-1 out on the ground. &-2 # How # nice.
+0,But that's all they check for, & they don't check how good, - %-1 But in this state we have to, uh, pay eight dollars and a half and go to a, an emission station once a year and get every one of our cars checked that are, have been made starting in nineteen seventy-three. %-2 uh, that's something that you'd have to just check with your authorities.
+0,wouldn't that be something. % yeah. &-1 That's right, %-2 we might actually get to go to a World Series,
+0,Well, how many bedrooms do you have in your home? % I have, a master bedroom and a den on the main floor, %-1 just to air-condition it, %-2 Yeah,
+0,however the question is is that making the difference. % I, don't know. &-1 there's no question that, they, have, you know, all kinds of cradle to grave, programs, welfare programs providing for everyone some way. &-2 Yes,
+0,t_con is the company now, well represented, demographically, at the higher echelons? % t_empty %-1 on other fronts, &-2 uh-huh.
+0,So, who's your, favorite team? % Who do you think? %-1 Okay. &-2 t_empty
+0,Was that the animated version? % Yeah, %-1 t_con this one was, excellent. %-2 t_con it didn't get as, good a reviews as like the LITTLE MERMAID, their last one, and got all kinds of Academy Awards and things last year.
+0,Is it, deteriorated a lot. & Do the people say, - &-1 I don't know how hard, is it, in the public school system in Iowa City? &-2 you must see kids with real significant problems, in some cases.
+0,So, how long are we suppose to talk for? % Well, you can talk for ten minutes %-1 Uh-huh. &-2 being told what to do is worse.
+0,Well your from Indiana, yeah. % have a southern accent? %-1 Why &-2 You must be native Texan?
+0,You've been through the fun part t_laugh . % yeah. %-1 t_con we had five. &-2 Well, twenty-seven up.
+0,Where do you get most of your news? % I watch the MACNEIL LEHRER news hour, &-1 t_empty &-2 t_empty
+0,got kids? % No. %-1 Yeah &-2 Make a mean spaghetti, huh?
+0,What have you seen lately? % actually have been to the movies, %-1 Well, I guess I will have to see it then. %-2 Uh-huh.
+0,How about you? % Well, I can hardly wait for my morning paper to come. %-1 uh-huh. %-2 Uh-huh,
+0,t_con what are you supposed to do with them. % t_empty &-1 You're supposed to what. %-2 like yesterday I was tell him, you have to, squeeze the plastic jugs t_laugh before you take them up there.
+0,Do you, use a lot of credit cards or your checking account when you go out and buy things? % Checking account a lot, not so much credit cards. %-1 Okay. &-2 We're starting our kids a little bit early.
+0,what, activities do you do when you're camping? % we take little nature hikes %-1 -- in the morning, &-2 Sure.
+0,Have you had yours now? % Yes. %-1 Right. &-2 t_con I'm so glad when they brought out those recycling bins.
+0,So what do you, think is the, worst culprit for air pollution? % Well, I think it's, probably a combination of things. %-1 Okay. &-2 t_empty
+0,How are your, lakes, % they've been getting cleaner. %-1 That seems a little ridiculous. %-2 Yeah.
+0,t_con that helped, you think? % # It, certainly # makes acceptance of different ideas a lot easier. %-1 yes. &-2 You had real world experience in the middle there.
+0,How did you like Africa? % Well, I liked it. %-1 Yeah. &-2 Yeah.
+0,That could be a complicated too, couldn't it. % yeah. %-1 That kind of thing. &-2 Yeah.
+0,Trying to figure out what all that was about, t_laugh . % Yeah. %-1 Daddy, came home and found her playing with the telephone that I had unplugged t_laugh . &-2 t_laugh Got a problem,
+0,What's his name again? & Peretti , %-1 yeah. %-2 oriented,
+0,but I guess it didn't pan out, huh? % Yeah, &-1 Well, I noticed on the weather map on, uh, cable network that there was supposed to be a storm front moving into California and on down your way, %-2 and they're not predicting any for the next, uh, week anyway up here
+0,He didn't eat flies. % No, %-1 he didn't eat flies. %-2 No,
+0,Did you? % -- yeah, %-1 about six months ago I started -- %-2 Yeah,
+0,Well, maybe, they just moved away and then sort of lost contact. % I don't know. %-1 I'm, quite a bit, older than you are. &-2 I see.
+0,do you, think San Antonio is more comfortable than Dallas. % Yeah, %-1 it's just not very comfortable, %-2 it's, not, that it's just hot or dry,
+0,any experiences you've had at work? % No. &-1 Nothing that you felt that, you know, - %-2 -- you know.
+0,well Rochester is like right on the shores, isn't it? % Yeah, &-1 Yeah, %-2 t_con if you know where Lake Ontario is sort of. -
+0,What about you? % Well, we have this philosophy, we use it when we go off somewhere %-1 Yeah. &-2 t_con the last couple of years I really have tried not to use them at all.
+0,Do you have one? % Yeah &-1 I think they're maybe going to give us a state income tax. %-2 What do you think the outcome will be?
+0,t_con that's a bit of a drive for you there. % Yes. %-1 In Arizona. &-2 now where do they live?
+0,Do we get enough news or something like # that? # % # Yeah. %-1 if, it said that. I feel I'm well enough equipped. %-2 I don't know
+0,do you have any pets now? % Well, we don't right now, &-1 Okay, &-2 t_empty
+0,# What, # - % # Christmas I got a, pasta machine, &-1 good idea. %-2 t_con that is what I'm having is pasta.
+0,Do you like, Southwestern? % yeah. %-1 I make it a habit of always going out to Pasta Oggi's which is right down there in Ad-, - %-2 Italian is fine.
+0,Well how long do you cook the meatballs % t_empty %-1 t_con it gives it a bit of a different consistency %-2 That kind of a gravy or a sauce that comes with a lot of that They use corn starch instead of flour in all of their sauces and gravies
+0,t_con how about, like on the weekends. & Do you do sports &-1 Yeah, %-2 So there's always something.
+0,Have you ever heard of Leading Edge? % Yeah. &-1 # t_con you know, it's like, for example, like Leading Edge. %-2 Well, you know, that's, big # thing. #
+0,What do you have there? % t_empty &-1 How about you? &-2 Isn't that awful t_laugh .
+0,Do they like to listen to other people recollect though? % My grandmother doesn't t_laugh . %-1 and they have such a memory. %-2 and they will just go on and on with these stories
+0,is that mostly, fly fishing when you're doing that % What? &-1 Well, I've been, - &-2 Yeah.
+0,What school system does he go to? % In North Garland, &-1 # That's right. # %-2 # Yes. #
+0,t_con do you have plans for, any other camping trips in the near future? % t_empty &-1 # t_con that was nice. # %-2 Trunk # of your car all time, right. #
+0,Married? % No. &-1 Right . %-2 t_con I work at Medical Treatment Center, which is at Garl-, and Arapaho.
+0,Well, like what? % Well, let's see. %-1 my card and, desires tend to be pretty picky %-2 yet I don't know wh-, I would buy Saturn or not at this point.
+0,you ready to discuss the, topic? % What's the topic? &-1 Okay, &-2 t_empty
+0,do you t_laugh . % -- t_con I love music. %-1 I, have totally, a tin ear -- &-2 It is wonderful.
+0,Every day? % Yeah. %-1 t_con it's, came from California where social change is like, you know, - %-2 I, seen a social change,
+0,Do you, hope to have children, & t_con are you not planning on having any, %-1 -- that's neat. &-2 Uh-huh.
+0,are they really good? % Yeah, &-1 t_con I've never tried it, &-2 You know, I've seen that so many times, strawberries dipped in chocolate
+0,You said you retired, & I just happen to have a person that I happened to do some planning for this morning, %-1 How many, &-2 Yes.
+0,is it Chicago and, - % Chicago, and, let's see, Golden State and the Lakers and, Chicago and Philadelphia, &-1 who's going, &-2 I don't know,
+0,Does your mother have Alzheimer's? % well, who knows. &-1 Uh-huh. %-2 Uh-huh.
+0,How old are your kids? & Are they married or what? &-1 t_laugh They want to be with their friends. %-2 -- t_con they don't want to know, us.
+0,How about the other four, who went? % the other ones, she chose, where she wanted to, %-1 t_con they build and rebuild non jet engines. %-2 t_con right now, of course, he's, working for Pratt and Whitney in Connecticut
+0,The U S involvement in there, then I guess even though. - % Now that's all over with, you know. %-1 Let's talk about the Middle East situation. &-2 Okay,
+0,What kind do you have now? % Uh, we have a, a Mazda nine twenty nine and a Ford Crown Victoria and a little two seater C R X. &-1 Okay. %-2 So, uh, probably we'll be in at least a midsize, four door sedan.
+0,# t_con she had no help? # % Pardon? %-1 # The were almost all boys. # %-2 t_con I just think it was way too much.
+0,t_con a house somewhere, what would you get? % well, first off we'd probably wind up with a, cat or maybe a puppy. &-1 Well, I, was wondering what, if you all were to get a pet, like if you were to move into an apartment %-2 That works out real well.
+0,That was what, twelve years ago, I guess. % Right. %-1 Okay. &-2 well I was, high school in nineteen seventy-nine,
+0,do you, drink adult beverages? % Yeah, &-1 I don't know, &-2 I think the other thing that's interesting is that a lot of our stuff is already changed that we haven't, -
+0,What's that? % North Carolina State. %-1 N C State. &-2 Where are you going to school?
+0,t_con do you cook for others? % Mostly, I just cook for myself. &-1 do you cook for yourself &-2 Yeah.
+0,Defense? % Surprisingly, no. &-1 what would be the first thing you'd cut? &-2 # What # would you start cutting f-,
+0,Well, you can believe that anyway, right. % Yeah. %-1 Well, I hope so. &-2 Probably the more you pay, though, the better the machine you have.
+0,t_con is it real high up there? % no &-1 What kind of insurance do you have up there %-2 Yeah.
+0,well, if you're ready, then, I'll just go ahead and start. % Okay, &-1 Great, %-2 Yeah.
+0,t_con do you think it's because women aren't qualified or, want the job or just aren't hired for the jobs. % None of the above t_laugh . &-1 Uh-huh. &-2 Uh-huh.
+0,t_con each of these had an annual fee also, right. % Exactly. %-1 t_con the more you use them, the more they send them to you. &-2 uh-huh.
+0,What about yourself? % Well, I'm also in Dallas. %-1 okay. &-2 I'm in Dallas, Texas.
+0,t_con how long had he been a-, ? & How long was that? %-1 -- you know, it was, the best defense they could come up with. &-2 Yeah.
+0,t_con where did you go? % I went to a small liberal arts college in Virginia. %-1 I did. %-2 Yes,
+0,t_con you only have the, the stepdaughter at home? % Yes. &-1 I'm sure it does. &-2 Yeah,
+0,What are you interested in? % t_laugh Whatever my husband buys # t_laugh . # &-1 Nice car. &-2 Yeah.
+0,You have the seven day waiting period. % Uh huh. %-1 the delay - &-2 currently being discussed nationally and whatever is very well supported here, in gun control avenues,
+0,You're going to Commerce? % Yeah t_laugh . &-1 okay. %-2 So we're in Garland.
+0,Do you, have an idea of, how much. % No, &-1 t_con I don't know. &-2 I don't know how much it changed in the last, twenty years anyway.
+0,What islands did you go to? % We went to Oahu and Kauai. %-1 t_con we just went to, two islands. &-2 Uh-huh.
+0,Your news is on at eleven? % Yes. %-1 I, tend to, if nothing else is in the town television at eleven o'clock just to watch the news, and or, NIGHTLINE or something, just sort of get a good, think for the day. %-2 always right, before the news is when I catch them.
+0,is it, the one that needs, more supervision that has a bad influence on the older or more mature one? % Of course. &-1 t_con it's, the one that's going downhill, - &-2 yeah.
+0,is the one year old a boy? % No, &-1 Yeah, %-2 t_laugh trying to do everything he does.
+0,That, Amelia Earhart, -hart School there? % no &-1 I think I do. &-2 yes,
+0,Do you go to museums in Europe? % actually, no, %-1 Yeah, %-2 Uh-huh.
+0,t_con what do you look for when you, - % t_empty %-1 Now we wouldn't have that problem, t_laugh because we're not vegetarians. &-2 Yeah.
+0,a boy or? - % One of each. &-1 Oh %-2 Two.
+0,Why is that? & Do you know? &-1 Wow. %-2 This is one, of the most highly taxed areas in the country.
+0,How about you? % Yeah. &-1 t_con I am not real current on films. &-2 t_con I see some that way.
+0,Did you? & I always liked him, %-1 I thought Carter was good too, &-2 I thought he was great.
+0,Do you come by it naturally? & Was your, parents that musical? &-1 Uh-huh. %-2 a little bit.
+0,Well, do you have time to read the paper in the morning? % Well, not in the morning, %-1 If I get busy t_laugh I don't get a chance to pick it up, like this week I noticed several copies have been un-, %-2 t_con I try to look at it.
+0,just, because yo-, don't like to or because, you won't be able to. % I'm, afraid I won't be able to. %-1 t_con I don't, know if I'll be able to, do it. %-2 I want to run
+0,Did someone just come up with this design, & t_con you're going to make one for yourself, &-1 there's mosquito patterns, there's wasp patterns, there's grub patterns. %-2 Uh-huh.
+0,t_con you go back to New York after school? % no, &-1 Uh-huh. %-2 I'm only up here for school.
+0,Do you use them a lot? % Well, it kind of comes and goes, &-1 I probably have one of every credit card there is. &-2 Yeah.
+0,do you have a wok though? % Yeah, %-1 t_con I just haven't gotten around to it yet. %-2 I've been wanting to take an, oriental cooking class
+0,What do you think on the local elections though? % I think on the local elections it's actually, - %-1 Uh-huh. &-2 Due to the overabundance of news we have available to us.
+0,Well, did you watch the program the other night on, was it SAVE AMERICA? % I saw part of that. %-1 t_con it's, I guess a lot more e-, to just mow the grass and let it work it's way back into the soil. %-2 # rather # than bag it up, because of a-, the grass that's being bagged and being hauled away by the garbage trucks and stuff,
+0,She enjoyed it, t_laugh . % Yes t_laugh . %-1 t_laugh t_con I thought whoa, t_laugh that was a big pie. %-2 t_con when I, gave me back the plate, she said "I did not share this with anybody".
+0,Did you have anything in mind that, you'd like to share? % t_empty &-1 They suggested some sort of a recipe, for, company, for entertaining. &-2 t_empty
+0,Have, you had dogs before? % my brother has. %-1 t_con it's pretty good training, I think really, keeps her on her toes t_laugh . %-2 -- right now we haven't had any,
+0,You know what I'm saying? % Right. %-1 Uh-huh. &-2 t_con I would say that, you know, for that many people to all of them agree that you did it and it was premeditated, it would be kind of hard for, you know, -
+0,do they use highway people & t_con do they use prisoners? &-1 What do they, do in Maryland, &-2 Yeah.
+0,It's pretty power isn't it t_laugh ? % t_con here in Houston, as well as just about any big city anywhere across this country, - &-1 Uh-huh. %-2 t_con on top of that spending a good portion of my earlier years in the military, as a Green Beret, I definitely respect the power of weaponry.
+0,I do not know how you were historically. % Right. &-1 -- dragged on. %-2 -- country's war.
+0,should I rent it? % yeah. &-1 No, %-2 you haven't?
+0,t_con is there? & well, we didn't go camping, %-1 I know there are some good places to go camping along the, lakes. %-2 I'm wondering, I'm really not that not familiar.
+0,Well, t_con people of all ages take advantage of the aerobics? % Hm? &-1 yeah. &-2 I think so too,
+0,t_con they don't go camping with you. % They go camping on their own. %-1 they're grown now. &-2 How old are your boys?
+0,t_con you never see it. % No t_laugh , %-1 t_con you hope they're telling you t_laugh the truth. %-2 t_con they'll tell you they've written something down,
+0,Are you for it? % t_empty %-1 -- going to solve a lot of problems &-2 Uh-huh.
+0,is that right t_laugh up there in Frederick? % Yeah, %-1 # weekend # t_laugh . &-2 # #
+0,t_con are you moti-, - % Have you started exercising at home &-1 Well that's good. %-2 I've been trying to eat correctly also.
+0,do they have such a thing now as a six man jury? % Not that I know of. &-1 Uh-huh. %-2 -- never made it to the jury.
+0,mostly catfish % mostly we catch carp. &-1 that's nice. %-2 From the dock, from shore.
+0,Have you ever been to, what is it, Original Book Binders in Philadelphia? % I, know the name &-1 boy. %-2 I, can almost live on, seafood and almost live on the crab meat if I t_laugh had to.
+0,Enjoy it, huh t_laugh . % Roast marshmallows. %-1 -- t_con we just kind of go and hang out and just do fun stuff. &-2 Uh-huh.
+0,We didn't disconnect, did we t_laugh ? % I hope not t_laugh . %-1 t_con that's because we didn't hit one for a long time. &-2 -- isn't it supposed to be five minutes?
+0,You, ever been to Vincent's? % Vincent's? %-1 We like, seafood, also, &-2 If you like Mexican stuff. It's, a good place.
+0,Do you have a pet now? % Yeah, %-1 She was the greatest, went through two generations of children in my family and was always very gentle. %-2 We had her for, fifteen years, I think, my family did, and just loved her.
+0,Are you on, any leagues now? % No, %-1 t_con I don't have, Jack t_laugh standing behind me to tell me what to do t_laugh . %-2 t_con I, like to bowl,
+0,Well, what's your ca-, % well, computer science and cognitive science. &-1 Uh-huh. %-2 t_con I, in the process of trying to choose a P H D school.
+0,Hope it's a good program there. % it seems to me, from what I've been able to find out. %-1 Pardon? &-2 # Hope it's a good program # there.
+0,how do you feel about, all this smog and th-, stuff on cars. % well, I'm kind of a car buff myself, &-1 t_con if there isn't, and we do some the right things, I think, - %-2 Yeah.
+0,Did you use a, Zar stain? % I don't remember. %-1 t_con it didn't come out that well. %-2 t_con I've done that once
+0,Have you ever had those? % No, &-1 The same foods that you find in, Syria and Egypt and everything else. &-2 What you find is sort of Middle Eastern foods.
+0,did you get yours as a pet for your chil-, & do you have children? &-1 yes. &-2 I agree,
+0,# Now where is # the Atlantic Cafe? % Atlantic Cafe is down on, McKinney. %-1 # It really is a great place. # %-2 it is, fabulous.
+0,t_con that area, is it changing back again? & So many people are moving back into those old houses and are restoring them. %-1 okay. %-2 Okay,
+0,t_con have you been participating in this? % about ten or eleven calls. &-1 How many times have you called, &-2 There've been some interesting subject that they've called about.
+0,Can you really see it though? % Yeah. %-1 See how it's going to break or whatever. &-2 Yeah.
+0,that is like a suburb or something, whatever. % Yes, &-1 Yeah, %-2 Right.
+0,Cowboys are going to have a problem aren't they? & Is it, this year they don't have a draft pick because of the Walker trade %-1 Yeah. &-2 t_con I don't know it as well.
+0,Pretty hot isn't it, in the summer? % Yeah %-1 t_con we go swimming %-2 t_con my grandparents have a pool
+0,How about you? % Well, I listen to, specific, - &-1 You might try that. &-2 t_con they're interesting to listen to.
+0,He is still teaching at Brookhaven, & isn't he? %-1 t_con he plays pretty regularly. %-2 In fact he is playing this Sunday at our Church.
+0,do you own a P C by the way? & I'm guessing you probably do. &-1 Okay. &-2 t_empty
+0,Now is it Stacy? % Angie. &-1 t_empty &-2 t_empty
+0,Well, what are you going to do when you get out of college? % I'm a finance major. &-1 They couldn't put anything in it hardly. &-2 That's why.
+0,you try to go and take a vacation every year and go out and camp? % Yeah. %-1 t_laugh Oh. &-2 Yeah.
+0,does that, mean advantage? % not necessarily a price thing. &-1 If it's not going to cut the supply of illegal guns it must going to at least raise the prices &-2 Is it, a way of raising the prices of illegal guns?
+0,Well, have you ever visited, like Los Angeles or any place that's ever, that it has, pollution in it's air? % We've never been, &-1 Huh-uh. %-2 t_con even the incinerator, the money and the income that they're going to make off this, is, you know, just astronomical.
+0,what kind of track is that? % just like a, set up a lot of times &-1 Autocrossing is, - %-2 The nice thing about autocrossing is you can, do both.
+0,t_con was this just your own design of, - % just our own design. &-1 Did you have a special program on your computer to do that &-2 Wow, that's great.
+0,you, at the office now? % Yeah. &-1 Yeah. %-2 give me five minutes.
+0,Have you done that? % yes, &-1 t_con I have never done it myself. &-2 I am,
+0,Out on the grill? % Uh-huh. %-1 t_con he does the steak %-2 -- celebrations and, we have like steak
+0,I guess Baltimore caught them. % Well, it's kind of, moved up &-1 Last year it was D C, %-2 I think they've got over a hundred dead already this year.
+0,A certain subject? % Well, it's, business technology. &-1 Good for you. %-2 Well, it's ninth, through twelve --
+0,What do you, think is causing all this, % t_empty %-1 t_con I see that even he was met without, little success, even though the entire, I guess a, bit of money and other, planning efforts went into that. %-2 became the drug czar, for, President Bush, he was going to focus on it, this area and do something about it
+0,How do you feel about it? % Well, yeah, &-1 Well, Wayne, I, feel very strongly about parents doing things with their children, and making time available even sometimes when time isn't available. &-2 t_empty
+0,Is her name Rash, Carolyn Rash? % No, her name is, Skidmore. %-1 Pardon me? &-2 Carolyn Rash?
+0,Well, don't you think that you know, just having, you know, some, you know almost like a driver's license be required you know with stiff penalties if you are found with, you know a gun that is not registered or you know that you are not licensed to carry. % Yeah, %-1 t_con I don't really know, unless they do, just outlaw them, how you can, prevent that. &-2 Uh-huh.
+0,t_con did you have hotel rooms, & t_con how did you do it? &-1 Did you put them up in other peoples houses %-2 they came from all over.
+0,# t_con # why spend your time getting qualified. % That's right. %-1 # Uh-huh. # &-2 So that it might be circularly being the same problem of, expecting not to get hired for the good jobs anyway,
+0,Well, then that's why you're doing this then, isn't it? % yes. %-1 I'm, work for T I. %-2 no
+0,Well, do you, your daughters live close where you can go out? % Two of them live real close to me. %-1 How they do things &-2 that's so true.
+0,what kind of biking do you do? % well, actually my wife just got me into it &-1 How about you, &-2 though I haven't gone on any extended trips with it.
+0,Have you ever read anything by Susan Howatch? % Yes, %-1 -- t_con I like that. &-2 I always like those.
+0,How do you feel about that? & Do you believe there ought to be legislation guiding the, buyer and the seller? &-1 Like if you wanted to sell your pistol to me. &-2 About, private citizens selling a weapons?
+0,What, kinds of activities do you spend with them? & Is it ? &-1 Donna, you said you have three children. &-2 yeah,
+0,Well, what are you studying? % I'm an interior design major, t_laugh . &-1 So, are you going to get into instructing? &-2 Yeah.
+0,t_con have you, - % Yeah, &-1 Are you, someone who works outside your home, %-2 t_laugh Uh-huh.
+0,Did you know that, - % Satan of the recycling. &-1 # t_laugh # hostile planet t_laugh . %-2 Julie.
+0,You knew of the homes themselves? % no, %-1 -- Pardon? &-2 you knew of the homes, then.
+0,Why? % Why? &-1 Do you? %-2 In, the light of what has been happening lately with the doctors that I know and lawyers and whatnot, I think national health insurance is a way to throw a lot of money at a very small problem.
+0,Well, do you think that, it should be like we have this sort of random spot testing type of thing & t_con do you think it would be more palatable if we had some sort of regular schedule %-1 t_con there's, a lot involved there. &-2 Yeah.
+0,Do you get paid for these? % five dollars. %-1 t_con it's been real interesting and kind of fun. %-2 -- talked to a few more than me,
+0,Who takes care of that? % Well, the thing is, that I live in a dorm. &-1 What about tuition and rent? %-2 t_con the only thing that I, basically spend my money on is just food
+0,Do you, used, student loans and things like that that were guaranteed by the government? % No, %-1 Yeah. &-2 You know what I mean?
+0,t_con you think there are plenty of doctors? % yeah, %-1 -- for one thing. &-2 Uh-huh.
+0,why did you choose a private school? % Well, I had one that was needed to be able to be moved along at a, pace a little faster than he was going to be able to be moved in public school, %-1 t_con I think they're, having a, tough time right now just from, budget cuts and, everything else going on. %-2 I know my son goes to a private school,
+0,t_con you don't really feel like you're really working that hard, do you? % Huh-uh. %-1 t_con you're doing it yourself. &-2 Uh-huh.
+0,# Is that what it was? # % # Shock. %-1 Those are just to get, the shock value out of you. &-2 What in the world.
+0,have you had a family reunion recently? % Yes, &-1 Hi, Clarice. &-2 t_empty
+0,are the two boys first? % Yes. %-1 Well, we have got two boys and a girl t_laugh . %-2 Well, we have got two boys and a girl also.
+0,t_laugh That's great as a kid though, isn't it, % it was great, because, well, the times that were really fun were when, we had vacation %-1 t_con I really have no great urge to go back now. %-2 # in one # year
+0,what do you like? % t_empty &-1 Yeah %-2 Yeah.
+0,For colleges? % Yeah, %-1 Well they're having a lot of recruiting this week in all the different areas. %-2 okay.
+0,Well, is REDBOOK still in existence? & I don't know t_laugh if they're, around anymore. %-1 I, really very rarely ever pick up a magazine anymore . &-2 Yeah.
+0,Do you like rap music? % Not really t_laugh . &-1 rap music. %-2 Oh.
+0,t_con my other con-, is, + is the American government going to force us to go. % I think, so. &-1 It, can be annoying %-2 and a metric hammer t_laugh .
+0,t_con were you able to stay at home with him? % No, &-1 Did you work &-2 when, your son was at home did you, working? -
+0,how were you decorating the baskets? % t_empty &-1 what kinds of decorations did you use with the bas-, - &-2 That's funny t_laugh .
+0,Your concern on the economy was one in terms of, if it became a state would that put even more pressures on, Puerto Rico, or pressures on the U. S. in terms of aid % Well probably more on, terms of the U. S. %-1 t_con I guess I have never thought to ask her what she favors, %-2 actually, I work with, a girl from Puerto Rico
+0,Is that right? % Yes. &-1 Right? &-2 + the South Vietnamese, they asked us to help them. -
+0,I wonder if that's possible? & I guess the judge's time is worth too much, though. &-1 Well, how about having a j-, and a judge work together on it somehow? %-2 you're the, person's fate.
+0,t_laugh That's what we need isn't it? % Yeah. %-1 They had a great desert bar. %-2 Uh-huh.
+0,Kalli , K A L L I? % K A L A, I think, C H A N D. &-1 Okay. %-2 it starts with a K.
+0,if you were deciding, do you think that they would have been different. % Well, I was never there, for any sentencing. &-1 t_con would, - &-2 t_laugh So, were, the, sentences that the judge handed out what you thought to be fair,
+0,Do you like Mexican food. % Not particularly -- %-1 # the ones out in Addison. # &-2 # Do you like Mexican? #
+0,t_con what was the last car repair you had? % t_laugh Just recently I was kind of laughing when I, heard the switchboard talking about the question because, I had to have my, radiator flushed -- &-1 Hi. &-2 t_empty
+0,t_con what else are you planning to do, if anything? % Museums, you know, %-1 Yeah. &-2 great.
+0,Those are the youngest ones? % Yeah, %-1 t_con my second marriage. &-2 Uh-huh.
+0,Does it fit that, - % Green spiky leaves. &-1 t_con what does the foliage look like? %-2 I have got some in the backyard that bloomed blue. Which I would not, liked those in the front because they match my porch and stuff better. And then some on the side of the house with the dusty purple color. With little purple spots that it, will fade into a solid purple.
+0,does that help? % Yeah, %-1 It helps if you, &-2 -- so quickly,
+0,Now, do you do it just for yourself, & t_con do you do it to give as gifts, %-1 t_con it has just been the most relaxing, enjoyable , self-satisfying thing I've had. %-2 Well, I painted t_laugh an awful lot until his death, which was several years.
+0,What part of Texas you from? % Nacogdoches. %-1 Just motorboat's all we, - &-2 No t_laugh .
+0,t_con I guess it's supposed to be dinner party, is that what they said? % yeah %-1 -- don't do much cooking for him yet. &-2 Uh-huh.
+0,The A C C Tarheels, U N C? % I just don't know it. %-1 I don't know that area. %-2 No,
+0,Do you smoke? % Yeah, &-1 Uh-huh. %-2 My husband bought it for me when my daughter was born three months, ago.
+0,t_con do you all need four wheel drives up there because of snow and everything? % Yeah, &-1 -- four wheelers or four wheel drive %-2 in Kenosha? t_laugh .
+0,what is the topic? % The topic is cars. %-1 Okay, &-2 somebody else answered the phone and put my number in.
+0,does California have a, - % Well, there's a sense of it being a package, &-1 do you, - &-2 it's curious, I don't know why, don't know if it's, -
+0,Did you scuba dive there? % No, %-1 t_con that was real nice. &-2 that would be nice.
+0,what do you think? % My grandmother lived with us, until August, %-1 Right. &-2 -- # and needed to be put in. #
+0,WUTHERING HEIGHTS? % No, %-1 it wasn't JANE EYRE. %-2 no,
+0,the hoi sin sauce? % Yeah. %-1 t_con how much does it cost? &-2 t_con you've got a very colorful side, another dish.
+0,Defense systems and electronics group? % Yeah, %-1 Oh, ? &-2 something with the defense.
+0,well d-, d-, do you play any musical instruments or, - % No, &-1 All right, %-2 Okay.
+0,do you find that, on the average do people give more credibility or less credibility to a professional, dressed # individual. # % # Yeah, &-1 Yeah. &-2 Yeah.
+0,t_con - % we have fifty acres. &-1 Do you have a lot of land %-2 Well, we've been here since sixty-six.
+0,# Or just a by-, or somebody got actually beat to death or what. % Yeah. %-1 no tears. # %-2 Is it a looter that got shot by a store owner?
+0,Well, do you, working for T I? % No, &-1 Oh. %-2 -- truck, you know.
+0,t_con there's no limit. % Is there a limit? &-1 can you actually catch those &-2 is that like a, sport fish,
+0,Well what about the trim in your house? & Did you have to do that? %-1 must be difficult, %-2 I don't know,
+0,you know what I mean? % Uh-huh. &-1 they're trying to make it too much of a crossover thing, &-2 That's, a little bit to, -
+0,Well, what movies are showing down there now? % I, actually have to get a newspaper out. &-1 Uh-huh. %-2 t_con then there's these, periods like early fall before Christmas or early spring when there's sort of a quiet period where if you bring something out again, it, will increase the revenues from the movie.
+0,Did you have, one coat or two? % two, actually -- %-1 -- t_con there was no major mistakes, &-2 yeah,
+0,the, happen at a cafeteria or something? % Yeah, &-1 Yeah, %-2 t_con Well, did you hear about that Killeen massacre or whatever?
+0,Where in North Carolina? % In Raleigh. &-1 you're from North Carolina. %-2 I'm from North Carolina.
+0,Where do you go? % t_empty &-1 Is that right t_laugh . %-2 All these places that I've never been t_laugh .
+0,Is it? % -- flavorful piece of fish. %-1 -- and just cover it with some, waxed paper and steam it just until the fish is done, &-2 Okay.
+0,Did I say channel nine to begin with? % Yeah %-1 Yeah. &-2 I can understand why channel eleven is, they're kind of behind.
+0,t_con you're going to make one for yourself, % t_empty &-1 Did someone just come up with this design, &-2 there's mosquito patterns, there's wasp patterns, there's grub patterns.
+0,could you, get any connection on which was metric and which wasn't. % okay. &-1 Don't you find that interesting? that they, doing that, in any field, %-2 t_con both of them were a mismatch of both t_pause American and metric.
+0,t_con do you get to pay the bills? % Yes. &-1 Uh-huh. %-2 t_con she'll use them more than I will.
+0,Let's see, how about, MAN FROM UNCLE? % is that the one where they, always got this, tape recording that self-destructed? %-1 Well, I'm trying to think if I ever even had a favorite one at one time, &-2 well, I think we've covered most of my favorite T V shows.
+0,Would you, agree with that? % Well considering what I've seen in the last, you know, two seasons, I'm beginning to agree with that, %-1 that's probably true. &-2 his argument is that the ownership is not inclined to lose big money long enough to, bring in the big dollars.
+0,The, uh, you'll be flying in there? % Yes. %-1 Uh-huh. &-2 and it's, it's rare to get real cold in, in El Paso.
+0,Do you ever go to the Dallas Opera? % no %-1 No. &-2 Are you going to go see the Elixir of Love?
+0,Why was, you know, why -- - % Why did they do in the freezer? %-1 Ow. &-2 Stuck them in the freezer and then shot them all.
+0,really, t_laugh that must be pretty good then, & was it good. %-1 it's got, # Cheech Marin . %-2 # no
+0,She had high standards. % Yeah. %-1 she a real hard la-, - %-2 Well, yeah,
+0,So do you, mostly like this type of thing that lasts an hour? % I don't usually like stuff that continues. &-1 It hasn't hurt him at all. %-2 Isn't that funny?
+0,t_con you don't play any other sports but basketball? % basketball, &-1 Yeah. %-2 t_con that's why I've kept active in that way.
+0,what would you recommend? % as far as dealing with divorce? &-1 Okay, %-2 No.
+0,do you? % Uh-huh. %-1 I think, that idea is even, more common in Western Europe. &-2 in our society, people are brought up over here thinking that, you know, everybody owes them something.
+0,t_con what kinds of things do you and your family do? % well, we go out and fly kites %-1 okay. &-2 t_con I'm going to have difficulty with this topic.
+0,Did you do it with a jigsaw & t_con do you have powered, #you know, a, # - %-1 t_con I've got to go a second layer with the yellow. %-2 I've done most of the coloring
+0,t_con I don't know if you get that kind of greeting or not. % Yeah, %-1 definitely. %-2 t_laugh Yeah,
+0,Do you have that where you live % Well, interestingly enough, right before I moved up here, - &-1 -- of that sort. %-2 # Sure. #
+0,what, your experience been like? % Well, I, have a long experience with cars. &-1 t_con I guess, he's been pretty good about keeping our cars up, &-2 t_con he did it
+0,t_laugh What other types of community service would they be talking about. & the, recording mentioned the Peace Corps. &-1 Well, back to the topic at hand. %-2 Well, that's good.
+0,t_con you have participated with that in the past? % Pardon me? &-1 What, again. %-2 We will be busy with that again.
+0,# Which one? # % # Drugs. # %-1 you said the magic word there. %-2 It's easy,
+0,Did, been working on it for three years? % Thr-, &-1 I didn't know that . &-2 does it really?
+0,What about your home? % Well, right now we're just renting, %-1 Yeah. &-2 cheaper, depending upon the neighborhood.
+0,So why, are we doing this? % It's for research. %-1 From what I understand. - &-2 Well, that's a pretty good deal.
+0,So, how do you feel about the metric system? % I like it. &-1 t_empty &-2 t_empty
+0,In what way are you talking about. % Well, I like the idea of volunteer, support. %-1 -- idea. &-2 Uh-huh.
+0,are you presently looking, for a used car? % Well, as a matter of fact, I just bought one t_laugh . &-1 t_empty &-2 t_empty
+0,Does it bother you if your children are not interested in it? % I beg you pardon? %-1 t_con our daughter, is really interested. %-2 t_con our son's not as interested in it as our daughter,
+0,Did you? & . Oh! . %-1 to work in some programs, -- %-2 I guess that's , my, family has always believed strongly in,
+0,Are you going to move your whole family over there then? % No, %-1 t_con when you get it completely, you know, the shell finished, you still have a lot of stuff to do inside, %-2 -- you know, of course there's still a lot of work to be done,
+0,t_con I was just curious, what, part of the country. - % Stockton. &-1 That sounds good. %-2 -- travel and that kind of thing.
+0,what? % Discuss everything that didn't agree with them. &-1 t_con what would you do, %-2 Every Sunday night.
+0,so, how do you, feel? & Th-, of course, being facetious &-1 t_laugh Yeah. %-2 good, a good southern solution.
+0,So, how do you feel? % Well, I'm a little bit ambivalent. %-1 Right. &-2 t_con of course, I'm not perfectly happy about not having a job.
+0,She didn't announce that to you? % I didn't, quite hear all of it. %-1 Uh-huh. &-2 Are you ready?
+0,Your husband, what, group is your husband in? % something with the defense. %-1 I don't want to come home and have to t_laugh work on one, too . %-2 t_con sometimes my husband, says usually, I work on the computer all day at work,
+0,who do you work with at this time? % Well, I own the company. &-1 as you think over the plans and so forth that the company you're working with now, - &-2 Okay, Bill,
+0,Probably not nachos and dip, % No. %-1 fresh vegetables would be good %-2 Yeah,
+0,t_con it's just that they don't use the materials that are available to them. % Sometimes it's, - &-1 Do you think it's a lack of training, &-2 Uh-huh.
+0,For how many years? % Fifteen. %-1 our payments are like two twenty. &-2 When we bought ours we were paying tw-, three hundred twenty-nine dollars.
+0,What part of Michigan were you living in? % t_empty %-1 That's right. &-2 You could pretty much do whatever you wanted to do.
+0,Are you in the middle of anything? % No. &-1 t_empty &-2 t_empty
+0,you said San Antonio, right? % Uh-huh. &-1 Does San Antonio ha-, - %-2 Uh-huh.
+0,They are good, aren't they? % Yes. &-1 Yeah. %-2 t_con that's where I get a lot of my recipes.
+0,What are yours? % China painting and ceramics. %-1 I do. %-2 Yes,
+0,d-, you all have, drive-ins up there % Yeah, %-1 Okay t_laugh . &-2 If you're ever in town, we'll go see a movie t_laugh .
+0,Have you heard it? % No. %-1 Yeah. &-2 well, we'd better keep talking because I've not heard it have we.
+0,Are you from Texas? % Well, sort of. %-1 I knew it was easier back here. %-2 I, just thought life would be,
+0,Doesn't it just, have to go back and do a whole new trial % t_con they have to stay in until they all agree -- &-1 t_con they, never agree. &-2 no,
+0,In the Dallas, % Yeah. %-1 Did you read, the article in the paper today about this particular subject? &-2 I think that's what the subject is about.
+0,t_con you also manage to make them. % t_empty %-1 t_con we have got, my wife and I have, a bit longer ways to go than most. %-2 Well, where I am calling from is southern Mississippi.
+0,you like science things? & I have not gotten them in a long time. &-1 Those are, interesting. &-2 yeah.
+0,-- the, Flagship? % Yes. %-1 Uh-huh. &-2 I have a favorite hotel that extends out over the water --
+0,# Was he # murdered? & Did they find who killed him? &-1 Yes. %-2 of course, a parent losing a teenage child is about as bad as it could possibly get, I think, in terms of psychological impact.
+0,They tell you our topic? % pets. &-1 You bet. &-2 t_empty
+0,About? % do-, you think there's going to be still a family unit %-1 What, %-2 I, think that, in the future, the, family unit as it, once was known, is, going to be nonexistent t_pause .
+0,the question was, what kind of books do you read for entertainment, t_laugh I guess, % I just read for escape. &-1 Yeah, &-2 t_empty
+0,So, what do you think about our involvement in the Middle East? % t_laugh Well, actually, I think it's good. &-1 t_empty &-2 t_empty
+0,Well, do you have any children? % I've got one. &-1 That's true. &-2 It does not make for a happy situation.
+0,Did she, all not talk about the topic at all? % Well, yeah, %-1 t_con it went over ten minutes. %-2 t_con she was telling me all her problems, you know,
+0,Did puppy go to? % Well the puppy jumped in the, some of the pools but not into the, - %-1 t_con he jumped in, the, river. &-2 Really.
+0,what are the ages of your kids then? % They range from twenty-four to five. &-1 uh-huh. %-2 -- and let Grandma and Grandpa come and visit us.
+0,Been pulling them up, or just loosening them until the rain came in? % Yes. %-1 We've had a lot of wind around here. %-2 Well, done a little, repair on the, shingles on the roof recently.
+0,t_con now did you use to not feel so badly because you could take it off your income tax? % We've never been able to take it off our income tax. %-1 t_con it's just incredible. %-2 -- on all of our credit cards,
+0,Methanol? % Huh. &-1 Yeah. %-2 Huh-uh.
+0,I guess down here air conditioning's a must, isn't it. % Uh-huh, %-1 -- and steering and air conditioning, &-2 Yeah.
+0,You guys, getting snow? % it is snowing right now. %-1 -- up there. &-2 Me, too.
+0,At work? % Yeah. %-1 Yeah. &-2 you, at the office now?
+0,is it, a real Chinese wok. % It's, called a stir fry pan &-1 What kind of wok do you have, %-2 t_con we do a lot of, stir fry vegetables.
+0,t_con did you have a budget to, get your down payment going to get a house? % Well, no &-1 do you know, how did your budget work &-2 we are in the process of trying to buy a house,
+0,t_con realistically, like for you don't think it's right % No. &-1 as long as it's your flag and you've made your point. I think. &-2 whatever I think that that's viable.
+0,how long did you have that? % my, how, long? &-1 That's, really something. &-2 Isn't that interesting?
+0,You're aware of that I'm sure. % That, true. &-1 Okay, currently in our country, especially in some regions, there's an employment problem. %-2 Uh-huh.
+0,Now are you, talking about the elected people & t_con are you talking about # others? # %-1 t_con the people that are talking this numbers have no concept of what that number means. %-2 which is an astronomical sum
+0,Well, what about, sending all this money overseas supporting other governments, third world governments. & How do you feel about that? %-1 t_con I don't think Americans are willing to do it. %-2 I'm kind of like, you know, yeah, the only answer is to start over or to totally change our lifestyles.
+0,Well, are you a fisher person, are you? % Yes, %-1 Okay. &-2 t_empty
+0,Well, what d-, you think in terms of, benefits? % of course I'm sure we're familiar with the exact same benefit package &-1 t_empty &-2 t_empty
+0,Do you do that? % Yeah. &-1 t_con I get it all in my hair, too. &-2 wha-, else can I tell you about painting?
+0,Do you listen to radio talk shows? % Sometimes I have. &-1 I don't know if you're a ta-, person listener. &-2 that's, need to do that. I'll, give you a hint.
+0,What do you take? % Well, I actually take COUNTRY LIVING, %-1 that's great. &-2 t_con that's my very favorite.
+0,exercise ? % Yeah. &-1 All right. &-2 t_empty
+0,Has, he had this since kindergarten, & t_con is this something that maybe learning phonetics, %-1 It's just a problem with learning. %-2 t_con it's, not an intelligence problem.
+0,Have you ever been to the, % Uh-huh. %-1 anything. &-2 Yeah.
+0,do you, run the family budget as far as, groceries and that sort of thing? % I do. &-1 I, take it, - &-2 Well, you know, what do you do as far as, -
+0,And, what room? % I've done it in the my rooms. %-1 -- you know. &-2 uh-huh.
+0,what do, you think we can do to solve the crime in America? % if I knew that I'd be a very wealthy person. &-1 t_con what do you think, that, - %-2 okay.
+0,Are they politicians, - % Well in some sense they should be politicians in that, you know, you want them to respect the people &-1 that's true. &-2 That's true,
+0,t_con what part of Virginia, % I live down in the south western part of Blacksburg. &-1 t_empty &-2 t_empty
+0,are you, fluent in another language % yeah, &-1 on foreign films did, you, watch, - &-2 That's great.
+0,Well did you ever see, FLATLINERS. % No, %-1 There's only one way of finding it. &-2 Right,
+0,Where's that? % That's in Chappel Hill t_laugh . %-1 I think I'm going to Chappel Hill. &-2 Do you know where you're going?
+0,do cats bother bulbs? & I think more the mice or other rodents. &-1 I don't know that, &-2 Right.
+0,It's eighty eighty-eight? % I think that's about where it is. %-1 it's not even that. %-2 No,
+0,t_laugh how's the disposition of your Siamese cat? % Well, it's, you know they're just, aggressive by nature -- %-1 Uh-huh. &-2 he's probably, a good two years old, big, old, fat and sassy tabby.
+0,Do you work for T I? % Uh-huh, %-1 I would love to live up there. %-2 how nice,
+0,# What about, # - % # What do you, # - &-1 that one was. - &-2 Yeah,
+0,What kind of lawn and garden work do you do? . % Well, right now the place where I'm living, the yard was basically neglected for about the last twenty-five years, &-1 t_empty &-2 t_empty
+0,The only complication is, how do you fund something like this? % Well, a lot of parents fund their children. %-1 than someone that just goes right straight into college. %-2 Right,
+0,How old is your granddaughter? % She's three. &-1 Uh-huh. %-2 t_con he has to work almost every Saturday
+0,I'll look at the end because those would be the best ones, okay? % Yeah. &-1 it's right here. &-2 I think I do,
+0,What do you usually wear to, - % Well, let's see. &-1 t_empty &-2 t_empty
+0,I, think you understand what I'm getting at, % Yeah. &-1 yeah, %-2 Yeah.
+0,t_con Is there anything else % Well I think we've covered the subject &-1 about t_laugh &-2 I thought for sure I'd been raised properly
+0,You know. - % if they don't make a criminal check, why do you have to be fingerprinted. %-1 Well, I don't understand, &-2 they've, been going through a lot of bad publicity here in the last three or four months again, because they've been arresting people like that.
+0,Have you ever seen those? % yeah. &-1 It was a hyacinth. &-2 t_con I just broke all them off.
+0,t_con what are you doing? % Well, I'm, going to be certified as an English teacher teach English as a second language. %-1 U T A right here. &-2 Where you going to school?
+0,You do it yourself? % I do it myself. &-1 -- t_con you don't have any one do your yard. %-2 -- Yeah.
+0,doesn't that sound stupid. % Uh-huh. &-1 I, doesn't even pay for me to earn a good wage, because, - &-2 t_con it's sort of like, X point five children and earn, you know, you kind of get hit with, you know, -
+0,how do you make fajitas? % it's kind of like made out of skirt steak &-1 fajitas, %-2 you know, like fajitas and stuff like that,
+0,You don't have the humidity either, do you? % No, &-1 Well, it's real dry down there. %-2 -- you know, real cold weather for long periods of time.
+0,Well, you're walking okay now obviously, % yeah, &-1 No. %-2 Not fun t_laugh .
+0,Not a Cubbies fan, % No, %-1 t_con my favorite team was the White Sox. %-2 I was from Illinois,
+0,So, do you use them? % yes, %-1 Yes. &-2 Personal computers.
+0,are your ba-, or, - % No, &-1 It is scary, %-2 Yeah.
+0,He was just having an affair on his wife? % Well, that &-1 t_con that is all it was? %-2 which is tough.
+0,Isn't it five minutes? % I don't know. %-1 come on. %-2 t_laugh Come on,
+0,what do you drive now? % I have a Ford pickup &-1 I don't know what you drive now. &-2 t_empty
+0,You mean, really trying to plant something? & That's what you're saying? %-1 t_con when they initially come over, - %-2 The ones that have been here longer and have been in, you know, understand now.
+0,t_con do you have a big family? % Well, he does t_laugh . &-1 # That is neat. # %-2 # t_con it was really, neat. #
+0,Well, gosh, Deb, we could talk all day couldn't we t_laugh . % I know, %-1 Yeah. &-2 # like # that.
+0,Did you see it the other night? % uh-huh. %-1 Uh-huh. &-2 QUANTUM LEAP?
+0,What kind of painting are you planning to do? % Well I have wallpaper in both of my bathrooms right now which is really pretty disgusting. &-1 t_empty &-2 t_empty
+0,what have you had? % Well, we had a dog before we moved here. %-1 Uh-huh. &-2 Have you?
+0,Is it just instrumental? % No, %-1 I've never heard of that. %-2 So what type, Simply Red,
+0,When you did your papering did you start in the middle of the wall? % No %-1 one of them was just a different color, pink, is what it ended up being. &-2 Yeah.
+0,They do it with alcohol? % Yeah, %-1 Pardon? &-2 # they do with alcohol. #
+0,Well, how about when you were in Colorado? % Well, I liked it a little bit %-1 I just can't stand to even get out in the, dirt t_laugh . %-2 it's just, here
+0,So, what school is it? % University of Rochester. %-1 t_con it's just, along the Erie Canal up here. %-2 it's, nice riding to school because it's all along a canal path ,
+0,Was your, parents that musical? % Yeah, &-1 Do you come by it naturally? &-2 Uh-huh.
+0,nothing comparable, I guess, to what you've had before. % Well, I've only been here just a short time, too, &-1 I don't have to live through many, of those really, %-2 -- in the spring.
+0,What, did he get hurt last night % No, %-1 Yeah. &-2 the, on Chicago Bulls isn't he.
+0,-- so that, I don't know if it really hampers or it helps our education system. % I don't know, because I know I don't watch, hardly any T V. %-1 Uh-huh. &-2 the cable system and the satellite dishes has made it to where a lot of people can just leave regular T V programming and watch a lot of other, programs out there, as well as use of the V C R --
+0,they just think that's the normal thing to do, don't they ... % They're sociopathic. &-1 Sure, &-2 Huh-uh.
+0,t_con do you have a camper? % no, &-1 Do you tent camp %-2 # are # and do that.
+0,t_con I imagine you still have a very close relationship with them. % yeah. &-1 I imagine. %-2 Boy, we really got to know the kids well.
+0,of course you like them too, right. % Yeah. &-1 t_con I always watch them no matter who's on, &-2 Real big
+0,It's pretty nice country up there? % it's beautiful. &-1 I see. %-2 -- continued that far.
+0,t_con was she # kind of opposed to it? # % # Well, yeah, &-1 Was she in favor of it &-2 t_con it's, so difficult.
+0,Isn't that pretty. & # I love it down there. # %-1 t_con we took the eighteen mile drive. &-2 Uh-huh.
+0,Now when, was this, & was this recently? %-1 now at the auto show they had fantastic looking cars. &-2 Uh-huh.
+0,# # was that good? % -- hysterical. %-1 t_con we went to see SOAPDISH, # %-2 t_con when I go, I go see two at a time. t_laugh
+0,Doesn't seem quite fair, does it? % No, %-1 t_con sometimes they have to pay even less taxes. %-2 t_con the people that make, you know, five hundred thousand dollars and, higher than that, they don't have to pay,
+0,what did they do, everyone come around and watch them. % Yep. &-1 no, &-2 Yeah,
+0,I know a lot of their, countries that they had overtaken, or wanted to be independent or several of them, right, % Yeah. &-1 I, didn't really know that, &-2 I see,
+0,You have a fenced yard or, - % Uh-huh, %-1 t_con we get home at night we do bring him in. %-2 Well, well, he's outside during the day
+0,are you into the Cowboys? % God, no t_laugh . &-1 -- your, - &-2 t_empty
+0,That was weird, wasn't it? % t_empty %-1 Really? &-2 they didn't even ask him back t_laugh .
+0,Does your son work for T I? % No. %-1 I think he benefited from my experiences. %-2 t_con our son would share this
+0,did they object too? % Yeah, %-1 t_con I think Johnson City was one. %-2 I wasn't aware that Austin was one of them,
+0,t_con aren't they done with? & I thought that they . - %-1 actually I just went to see the Greatful Dead about, a week ago. %-2 # # yeah
+0,how do you think that, the viewpoints differ? % I think a lot of it is just, the fact that in the U S you're so far removed, in a lot of cases from, say, conflicts &-1 how do you find that the, coverage from other places in the world , compares with the American coverage of, - &-2 I'm, interested in the, shortwave aspect of it.
+0,t_con how old are you? % I'm twenty-eight. &-1 Good, %-2 that's one of my favorites.
+0,t_con this is money that she's borrowed to form her college education? % Yeah, %-1 If it's like, you know, really a, lower paying job, you know, where in a small town you don't obviously you don't need as much as far as to, live. - %-2 Uh-huh.
+0,I don't know how familiar you are with that area of the country % I've been to Charleston. %-1 Okay. &-2 West Virginia.
+0,Have you crocheted or knitted any baby clothes or baby blankets? % I crocheted an afghan for our bed. %-1 Uh-huh. &-2 Is this your first baby?
+0,are you in a, -- - % Yeah, &-1 What's a, one bedroom, - %-2 I'm getting back into apartment life,
+0,Am I still employed by T I, & no, %-1 Are you still employed? &-2 that's why I was in the Deseg down here in Plano also.
+0,Should we have fought them harder? & Used more weapons equal to their chemical weapons that weren't used? %-1 I think we should have stayed longer. &-2 Did we do what was correct there?
+0,Do you have trouble with red spider on marigolds? % No. &-1 Yes. %-2 t_con of course, you know, the, mine are old theory ordinary flowers, marigolds and, that sort of thing.
+0,Do you have any hobbies? % Yes, &-1 t_empty &-2 t_empty
+0,So, how is the weather out there? % it's really cold &-1 t_empty &-2 t_empty
+0,What are you interested in in restaurants? % Right, &-1 So eating out. &-2 t_empty
+0,t_con how about SILENCE OF THE LAMB? % No, &-1 Y-, have to go see that one. %-2 I've heard, that's really great, though.
+0,now do you have a lot mountains, & well, you don't have mountains in Texas, do you. &-1 you do. &-2 Yeah,
+0,t_laugh t_con who's going to beat them? & Who are they going to blow it to? %-1 They'll probably get everybody's hopes up and blow it toward the end. %-2 t_con they'll get close to it.
+0,Well is that a good indicator? % That, can be. %-1 t_con they're like one of the best teams in spring training so far. %-2 t_con I've been following Spring training
+0,What about you? % goodness, &-1 Otherwise, I like to read children's books, and things like that. &-2 t_con that was very helpful to me as far as books.
+0,t_con I wonder how much longer they're going to be a % I don't know t_laugh . %-1 t_con the great powers are always pitted against each other. %-2 -- are us and them,
+0,I assume so. % Yes. &-1 You have children? &-2 t_con that's real hard.
+0,You'll be thirty-three this year? % Yeah. &-1 Okay. %-2 excuse me.
+0,Di-, you learn it in computer science? % yeah, %-1 I know, I, remember my college days t_laugh . And having to do that too. %-2 right.
+0,Well, do you do, recycling? % we do the recycling, %-1 Even aluminum, %-2 like copper is a very good one to collect.
+0,Are you all planning to move anytime, & are you looking for a house, or not. &-1 they do throw those up. &-2 t_laugh That's true,
+0,Well that makes it hard for you, doesn't it. # % Well it does, you know. &-1 # me. %-2 t_con it's one of these things, #
+0,Well, do you think it's, should be illegal for an employer to do this % t_empty %-1 t_con when somebody leaves work, I don't think that it's the employer's right to regulate their life style at all. %-2 Well, you know, I, can see how they can say in the work place we, don't want them to smoke,
+0,I heard some noise on the line. & Didn't know what happened. &-1 Okay. %-2 Yep .
+0,Is this your first time? % No, &-1 other than that, sure, yeah. %-2 Sounds interesting.
+0,Are you, work, & t_con are you retired &-1 Uh-huh. %-2 t_con it's pretty tough.
+0,Well, do you have anything else you want to say on this? % No, &-1 So, I don't know. %-2 yeah.
+0,t_con are you using a bobber? % I, a fly fisherman. &-1 Are you fly fishing %-2 What?
+0,In what way? & In like, qual-, or sort of an orientation in terms of like, view point or the way the news is presented or whatever? %-1 I'd like to say that I'm overwhelmingly disappointed with the media in general except for the raw news wires . %-2 -- but, not, like BUSINESS WEEK or NEWS WEEK or one of those kinds of things.
+0,Funny how that works, isn't it t_laugh ? % The, who doesn't need credit, gets cheap credit. &-1 Yeah. &-2 Uh-huh.
+0,t_con what kind of luck you been having with buying and returning products? % not too bad really. &-1 Okay, &-2 t_empty
+0,Do, you rent them, % no, %-1 t_con just recently I've been to a couple t_laugh . %-2 I don't go to movies that often,
+0,what would you say? % Well, I'd encourage it. &-1 what, experience lead you to advise, if my child were thinking of going to the Air Force Academy, &-2 we're rolling.
+0,How about you? % actually I, pretty untalented t_laugh . &-1 I haven't tried any needlepoint yet. &-2 I've done some cross stitching.
+0,What color is your dog? % White. &-1 Isn't that interesting t_laugh ? %-2 Yes.
+0,In the salt water? % -- losing all my fish. %-1 t_con I have, tried to start a fish tank -- %-2 Anyway that's what we have,
+0,Well that would be an eye opener, wouldn't it? % Wouldn't it though? &-1 # Oh t_laugh . # %-2 t_laugh I have a girlfriend that every time her son starts taking things for granted she threatens to send him to Mexico with her relatives and let him get a taste of that # for a while t_laugh . #
+0,do you have a Sam's Wholesale Warehouse up there? % Sam's, &-1 It, was, Lawry's, I believe, or Lawler's. %-2 Whose was that?
+0,got the bumper sticker, too? % Oh, yes, &-1 Oh, yeah, %-2 Well, course, see, I listen to K V I L for the contests.
+0,Now do you still own a house? & You said you owned one. %-1 that's, - &-2 # Yeah. #
+0,What'd you do with them? % Put them back t_laugh . %-1 -- t_con yes. &-2 really.
+0,Have you ever, tried a one iron? % No, &-1 Uh-huh. %-2 -- t_con I do, actually, hit the ball better.
+0,Do you get your own washer, dryer? % Well, I, have a washer and dryer area &-1 that's nice. %-2 t_con let's see, I have, two bedrooms.
+0,t_con are you more of a sport fisherman? % catfish, yeah. &-1 do you, like, eat the fish that you catch &-2 t_laugh Do you, actually like the taste of f-,
+0,Has that been the Cutlass or the Sierra? % no, %-1 We've driven them for about probably twenty years. %-2 I've been very satisfied with the, Oldsmobiles.
+0,a hundred and forty mile trip? % No, %-1 it was a seventy mile trip everyday, you know, two ways was seventy miles. %-2 to work, -
+0,can you tell much difference between the local radio, T V stations? % Well, I really think so. &-1 do you, seem to, - &-2 I, don't know,
+0,Now, do you actually follow a budget? % Well, we pretty well do. %-1 t_con it does get rather interesting trying to survive on one salary, %-2 Well, I'm, at home also,
+0,Loaners from work? % Yeah, %-1 both of them are sort of work related, %-2 No,
+0,Are, you been in big cities a long time? % Mostly, been in the east coast, &-1 you don't get that, source of cleansing anymore. &-2 Yeah,
+0,Why? % t_empty %-1 t_con I kind of stay a-, - %-2 got all these caution signs now on fish
+0,Do you have a family? % yeah. &-1 what, are you doing? &-2 so I'm going to leave you alone.
+0,Are you all located in Texas? % yeah. &-1 Uh-huh. %-2 -- the, big family is a lot smaller that it used to be.
+0,Did she know that she was going to a nursing home? % I'm sorry? &-1 Uh-huh. %-2 t_con she's been in the nursing home now for, I would say about three months.
+0,Well, what is the most, you know the nicest island? % I like Maui. &-1 eventually t_laugh . &-2 well I will. You know,
+0,# That's just almost unaffordable, isn't it? % Right, &-1 # Good grief. %-2 t_con for me to try to get it now, it would cost me like over three hundred dollars a month with the same company that was providing health insurance at, P I E. #
+0,The other thing then is, because I don't know how long they want us to talk, % close to five minutes, I believe. %-1 I'm sorry for these beeps, &-2 we'll try to be real quick here.
+0,It's that high? % Yes. &-1 Really? %-2 they say, runs approximately a thousand dollars a person every time you do it.
+0,What, kind of testing do they do when you went? % it's a urine test. %-1 # to # say on it t_laugh . %-2 That's true t_pause .
+0,what kind of car are you thinking about buying next? % Well, what a wh-, do we currently have, &-1 Okay, &-2 t_empty
+0,what do you think about it? % I think it's a real good concept. &-1 all set, then. &-2 Okay,
+0,You must like chocolate. % Yes. %-1 chocolate, something chocolate. %-2 goodness.
+0,What, newspapers do you read? % Well, I read, the local newspaper %-1 -- that what you've heard is what really is. &-2 t_con if you hear the same story from three different sources, then you get a much clearer picture of, what is going on. You would hope,
+0,t_con are you not at that stage yet? % Yeah, &-1 I was just going to say, t_pause makes a difference in what you eat doesn't it . %-2 Yeah,
+0,Didn't have shrimp there t_laugh ? % I don't think so. &-1 No? %-2 I don't remember if I had shrimp.
+0,Where you live now, % Say? &-1 Really, %-2 t_con up until, gee, maybe five or six years ago, I did a lot of it --
+0,t_con what do you have. % I have Xanadu and Precious, and Rascal. %-1 how sweet. &-2 we have, Bonzo, Bear, Poindexter, and Felix.
+0,Now, translations, what do you mean, translations of, - % t_empty %-1 I'm learning the names, if not the actual contents, of a lot of different poems and a lot of French people. &-2 Oh.
+0,how about yourself. % well, I'm certainly in favor of AIDS research, &-1 I think it'll probably be as difficult. %-2 Uh-huh.
+0,keep it there t_laugh . % -- t_con I'm okay. &-1 Yeah, %-2 -- t_con you can give me eighties --
+0,About your # baby. # % # yeah, # %-1 t_con it was kind of like, she had her babies and understood about, you know, - %-2 t_con as luck had it, she had puppies the same week my daughter was born,
+0,What type of music do you like in the classical area, & t_con what era do you, like the most? %-1 Yeah. &-2 really.
+0,Which type of Cadillac, is your favorite? % I don't know. %-1 I don't, care about a big fancy, t_laugh . - &-2 Do you?
+0,you ready? % Yip . &-1 Sure, %-2 You want to punch the button and go?
+0,well, did you hear on the news where the teacher of the year was up for child molestation. % t_empty &-1 -- Yeah, %-2 -- you don't think of that first hand, normally.
+0,You went to Indiana University? % Purdue. %-1 -- keep their seats full. &-2 Uh-huh.
+0,How about yours? % It's tiny. &-1 Yeah. %-2 Uh-huh.
+0,where did you go to school? % Purdue. &-1 what did they watch in college when you where in, - &-2 I don't know
+0,Do you, ride or do you pull a cart when you play golf? % both t_laugh . %-1 t_con I have played you know different courses in in the Dallas area. %-2 That is usually where we play,
+0,You must feel real good about that. % Well, I, felt good about it because that's my personal feeling also. &-1 That sound like just an excellent solution. &-2 Well, even at that point, most care can be given at, the home.
+0,t_pause did you have your children, did you say in home, & was # that in your home or in someone else's home? # &-1 # It's so # difficult for them. %-2 # Uh-huh. #
+0,# t_laugh # Did you see any movies over there t_laugh ? % t_empty %-1 It's boring. # %-2 Okay t_laugh .
+0,are you enjoying it? % Yes, %-1 Yes. &-2 Are you on the early retirement?
+0,# Well then you've been # getting quite a bit of rain also. % Yeah, %-1 # t_con we're in the, # - &-2 Well, jeez.
+0,I don't know if you get SOUTHERN LIVING, % No, %-1 really. &-2 I've got a, great recipe for cheese cake.
+0,t_con that you've, - % Well, we've been here since sixty-six. &-1 was it a home that you've had for quite a f-, years, %-2 Uh-huh.
+0,I was wondering what you do at T I. % I'm an engineer. &-1 t_con actually I, usually like to ask a lot of questions. &-2 well, you're doing, just fine,
+0,t_con this town hall that you meet in, is that like a, - % Well, it's a community center, &-1 Okay, %-2 t_con it would be the second great grandchild.
+0,With T I, or somebody else? % No, %-1 # exploration. # &-2 # Right. #
+0,t_con you've done this? % Yeah. %-1 t_con it handles so nicely. %-2 And, very twisty stuff.
+0,so, it's not affiliated with anything, is it. % No. &-1 Cliff, I see, %-2 It's called, K L I F, cliff.
+0,Are they, two married? % No. &-1 My goodness. %-2 that's where they've gone to make their homes.
+0,if your tires are good enough or your brakes are good enough. % No, &-1 they don't check how good, - &-2 But that's all they check for,
+0,Have you? % Have I? %-1 Do you? &-2 wow t_laugh .
+0,No cracked slab or anything like that? % No. %-1 we haven't had a lot of problems with it at all. %-2 No,
+0,How about you? % Well, t_laugh I don't have that, , experience to share t_laugh . %-1 really. &-2 t_con that's not by my choice.
+0,t_con wha-, practical steps could on-, take? % By, having a, budget that is, feasible, %-1 t_con I, really feel that, is part of the problem that we, let things get so out of control that, we don't want to put the brakes on them. &-2 Uh-huh.
+0,do you find th-, you have much chance to read for, just pleasure or mostly for business? % No, &-1 Yeah. %-2 Well, that sounds good.
+0,you've a few? % Yeah, &-1 Do you have, - &-2 I've got about twelve tickets in the mail.
+0,Which ones? % t_empty %-1 Yes. &-2 Do you have any that you like well enough that you tape them when you're not going to be there?
+0,right? % It is inside &-1 Now that's inside again, &-2 Well, okay.
+0,Challenging, % Yeah. %-1 -- and, does well with it. &-2 how neat.
+0,someone had to figure out what was going on? % That's about what it was. &-1 t_con the jurors just sort of, - &-2 t_con it was just kind of a zoo
+0,What you mean, my voice? % Yes. &-1 Okay. &-2 t_empty
+0,that is right, isn't it? % Yeah. &-1 Is that, - %-2 Uh-huh.
+0,Well, did, you able to get one while you're in college? % I don't think I ever tried. %-1 t_con I think a lot of these people have them maxed out. %-2 I'm, in the age group you get out of college,
+0,Did they just have like over a weekend? & Is that how they did it? %-1 Uh-huh. &-2 t_con they just brought food with them?
+0,Where did you go on your last vacation? % the last was back down to Lubbock to visit parents. %-1 I enjoy them. %-2 I think so.
+0,What have you been to lately? % let's see. &-1 Yeah. %-2 Really.
+0,it sounds funny though, doesn't it? % t_empty &-1 I don't know, %-2 Wonder what happened.
+0,t_con was it not. % No. &-1 Wasn't it Lewisburg that had a lot of, bad things happening just in the last couple of weeks, %-2 t_con I understand that, you know, -
+0,is that, reported in the Texas papers? % sure, &-1 -- is quite a remarkable, counts, %-2 Oh.
+0,What ages are they? % t_empty &-1 Uh-huh. %-2 -- t_con we'll try to rent something that they can see as well as something else that we can see
+0,t_con that is all it was? & He was just having an affair on his wife? %-1 which is tough. &-2 Immediately.
+0,t_con what do you think? % Well, I think the public school systems are doing a good job. &-1 # with it. # %-2 uh-huh. #
+0,You would like that, huh? % Well, I grew up in Wisconsin, &-1 t_laugh Yeah t_laugh . %-2 Well you are welcome to keep that t_laugh .
+0,Do they have a limit on sharks, & is that like a, sport fish, %-1 t_con the ones I caught were never large enough to really do anything. %-2 I love shark steak,
+0,So it was pretty much a physical decision? % yeah, %-1 # t_con they # found a, place nearby that they put her in last year. &-2 # Uh-huh. #
+0,Is there anybody who doesn't? % Well, there are a few out there. &-1 yeah. %-2 Do you work with, mixed company, male and female
+0,t_con do you have a, garden, & t_con do you just do your landscaping now and your lawn? &-1 Yeah, %-2 t_con I don't mind doing it so much anymore.
+0,I imagine it, is a little difficult to stick with a budget during that, during school and so it forth. % it sure is. &-1 Good for you. &-2 well, good for you.
+0,So what do you think about, recycling programs in Atlanta, Julie? % The recycling program here is just terrible. %-1 t_laugh I don't believe that we're , - &-2 t_empty
+0,Am I going to end up in a place like that t_laugh ? % t_laugh Somebody take care of me. %-1 Yeah. &-2 what if I lose my mind.
+0,How about popular music? % Yeah. &-1 Yeah, %-2 when I hear it that I like it.
+0,You know what I # mean? # % # Right. # &-1 t_con it's hard to compare. &-2 t_con I wasn't really like listening to the world go by back then
+0,Well, what else do you serve with your pig? % well, we'll have cranberries and hominy %-1 t_con we're going to have that. &-2 gee.
+0,What is the prognosis for, this year? % real good as far as I can tell. &-1 t_con I don't know. %-2 Uh-huh.
+0,Is that on, what chan-, % I don't even know, to tell you the truth t_laugh . &-1 Yeah. %-2 It is, written.
+0,how far, do you go walking? % Well, I'm trying to get my tolerance now &-1 Okay, %-2 t_con one day I do the aerobics.
+0,t_con in each of the dorms you have a place for that? % Uh-huh. %-1 t_con you know, we recycle old aluminum cans and all that kind of stuff. %-2 t_con they recycle glass,
+0,Has, been your voting experience? % My voting experience? &-1 that's the first time I've ever done that. &-2 t_con although I did go down and register and I, -
+0,Don't you think that maybe that's why we had it this time? & I do think that, i-, been too long in coming %-1 i-, frustrates him because of the support that they have and the support that the Vietnam vets did not have, from the people or the administration, either one. %-2 # t_con # my husband is a Vietnam veteran
+0,t_con do you all like mail out stuff? % That is pretty much it. &-1 Do you all just call each other up on the phone and say this is the weekend we are going to do it, &-2 Well, how do you all communicate? Like to plan it and every thing.
+0,Used to be a Trekie, huh t_laugh ? % pretty much, yeah. %-1 I, used to be a, real big fan of STAR TREK. %-2 Yeah,
+0,t_con why did you move up to Colorado? % Seemed like the thing to do at the time. %-1 Yeah. &-2 Are you?
+0,I don't know if you're a ta-, person listener. & Do you listen to radio talk shows? &-1 that's, need to do that. I'll, give you a hint. &-2 Yeah,
+0,Do we? % t_empty &-1 We might. %-2 What, hockey?
+0,are you, in Dallas? % No, &-1 What time is it over th-, &-2 # Yeah. #
+0,Well, how, old are you? % I'm twenty-eight. &-1 Uh-huh. %-2 it's hard to say because I think people were busy ten twenty t_laugh years ago too.
+0,You, know about August then. % Yes, %-1 I've been here long en-, pretty long. &-2 okay.
+0,Are you out, - % In Richardson. &-1 where do you live? &-2 Six, seven and eight.
+0,t_con you stopped them all. % t_con yeah, &-1 Uh-huh. %-2 I u-, to take MCCALL'S and GOOD HOUSEKEEPING and, several magazines like that a few years ago at, home.
+0,Well, do you think that people subscribe to magazines as much as they used to? % I don't know, %-1 t_con I figured it wasn't, something I needed at this point in time. %-2 the HOUSEKEEPING magazines I do like because they, have nice, recipes in them and ideas, but, lately they've just been piling up on me,
+0,t_con I don't know if you can afford the insurance, % Well, luckily he drives a big old tank t_laugh . &-1 That's gre-, in one respect, %-2 Yeah.
+0,is this the first year they have been up? % Yeah. %-1 t_con I just cut the leaves off and transplant and put some other plants down. Because I want them to come back up next year. %-2 They are just pretty.
+0,I take it she was an accountant. % t_empty %-1 you know, accumulating receipts. &-2 Uh-huh.
+0,Have, you gone straight through? % Yes, %-1 I'm, hoping, I'm hoping. %-2 Yes,
+0,Did that, seem to, % t_empty &-1 I know that Texas's last gubernatorial, election probably brought out a lot of voters. %-2 -- just across the street.
+0,are, they playing Detroit? t_pause & I think Boston's playing Detroit &-1 Well, I understand that, %-2 busy doing their endorsements and stuff, to, concentrate on the game.
+0,I bet the black one's pretty. % Yeah, %-1 t_con the male is black. %-2 the female's red
+0,-- now what is your, child's favorite place to eat? % favorite place, %-1 Saves you a little bit money. %-2 That's right.
+0,What have you done? . % Killing lots of fire ants. &-1 Really? %-2 Thr-,
+0,t_con you live in Garland then. % Yes, &-1 do you? %-2 I live, very near, to the Firewheel Golf Course.
+0,The black bear. % # Yeah. # %-1 they don't have them up there do they? &-2 Uh-huh.
+0,t_con in the rivers and stuff? % Yeah, &-1 Yeah, %-2 Mostly trout in the mountains.
+0,You know, you know whom I'm talking about? % Yes. %-1 Uh-huh. &-2 t_con Michael Crawford was in PHANTOM OF THE OPERA on Broadway.
+0,Have you been involved on the Switchboard long? % not very long. %-1 Uh-huh t_pause . &-2 They were real just books for fun.
+0,Harrison Ford and, how does the story line go? % It's, a prosecuting attorney %-1 Harrison Ford. &-2 -- if I have rented that one.
+0,that is, destroying the ozone, isn't it? % Again I, hear &-1 Yeah, %-2 # has # been a real problem.
+0,so, Jack, what type of music do you like? % t_empty &-1 t_empty &-2 t_empty
+0,t_laugh What do you like to do when you go camping? % well, let's see. I just, like to go %-1 Yeah &-2 t_con you got a lot of that in, huh?
+0,What do you like to read? % well I'm a, counselor, by trade, %-1 Uh-huh. &-2 t_con I have always loved reading.
+0,Any handicrafts? % Excuse me. %-1 I enjoy playing basketball and, basically all kinds of sports. %-2 I guess, I, more not so much a hobby but things I enjoy doing.
+0,Do they have anything like that in Dallas. % In Dallas, &-1 Now a friend of mine who was studying social work here in Philadelphia worked for an adult day care program for mostly for patient's with Alzheimer. %-2 Yes.
+0,Is that right? % Yeah. %-1 when I read it, I should have realized that because, it had Foster's style written all over it t_laugh . &-2 Is that right?
+0,I'm not just going to, - % Give them your ti-, entire life for two years, no. &-1 I , will be compensated for this, &-2 are, you suggesting then that if, I have to go and, do something for the country for two years that the country will compensate me in some way.
+0,So what are your opinions on it? % Well, let me preface it. &-1 Okay. &-2 t_empty
+0,Which Church is it? % The Christ United Methodist Church in Plano . &-1 Uh-huh. %-2 t_con I am always making music of one kind or another.
+0,# Do you # think that it's just, medical guys? & What about, you know, you know how expensive new equipment and technology is. %-1 I, think the medical profession is just, pushing until there's no option but the government take it over # %-2 I think they're asking for it.
+0,you ever seen the, starter bread, & I can't remember what it's called, &-1 we always, that bread that was, - &-2 Uh-huh,
+0,boy, he's a big one. % Yeah, &-1 Oh, %-2 Australian shepherd.
+0,What was the last one? & I'm trying to think. %-1 It just was not enough to it. %-2 I didn't care too much for the last one either.
+0,You know how they came up with the retriever, don't you, the Golden? % Huh-uh. &-1 You bet you. &-2 You bet you.
+0,What kind of, is the mini van? % It's a Mazda. %-1 Haven't had any problems since. &-2 Uh-huh.
+0,Do you want to go first? % You can go first, %-1 Okay. &-2 t_empty
+0,What, the walk? % The home improvements. %-1 You all did it yourselves? &-2 t_con we're going to brick up the garage to match the house and things like that
+0,What degree, are you wanting to do after you get out of college? % Well, I, doing computer science, %-1 excuse me? &-2 What are you learning to be?
+0,Where do you take them? % Well, there's, a couple places. %-1 We've got all these boxes in our garage for, you know, green glass and clear glass and plastic and everything. %-2 t_con we, collect everything .
+0,What are they? % have, these, &-1 you have pets, I understand, a couple of them. &-2 All right,
+0,Up, there, maybe, you guys don't have as, big a problem with air pollution as many, do you? % We, have a terrible air pollution problem. &-1 t_empty &-2 t_empty
+0,do you like how it's presented on the news? % no, %-1 t_con occasionally I'll read the paper. %-2 I either watch the news
+0,How, about you? % Yes. &-1 You know. %-2 Yeah.
+0,Does he really? % Well, actually, it's probably closer to Fort Worth, %-1 He lives in the Dallas area now, as a matter of fact. %-2 It wasn't nearly as much fun when Bradshaw was playing for you guys, I'll tell you.
+0,Does that happen in your part of the country? % Yes. %-1 Uh-huh. &-2 I, find it very annoying when I've worked all day to come in and my phone to ring constantly, the solicitors, and the carpet cleaning companies and, -
+0,t_con when you serve the meal, what type of wine would you have with, seafood? % all these hard questions t_laugh . &-1 Okay. %-2 yeah.
+0,t_con do you go out? % Both. &-1 Do you do sports &-2 t_con how about, like on the weekends.
+0,You did? & Have you heard stuff about him lately, %-1 t_con I liked him. %-2 t_con I remember Carter
+0,What, do you, from? % I'm from Texas. &-1 So, I don't know. %-2 that's right.
+0,Do you take her, to a lot of comedy movies % Yeah, %-1 no. %-2 no,
+0,So you don't have a lot of tree coverage? % slope. %-1 We're kind of out of, the natural tree area. %-2 we're in a relatively new area.
+0,Did you, framed it in f-, & t_con was it stuff that was already, # enclosed? # %-1 t_con it's just what I have to do, more or less, around the house, you know, for my parents %-2 t_con I, vast experience of home, owner's knowledge is not very much.
+0,do we have to speak for a certain amount of time? % No, &-1 It's not too bad. %-2 Right.
+0,t_con y'all, you haven't had any, jobs painted in your house or recently . % No, %-1 absolutely . %-2 Yeah,
+0,do you know, how did your budget work & t_con did you have a budget to, get your down payment going to get a house? &-1 we are in the process of trying to buy a house, &-2 Yeah.
+0,Like an attachment % No, &-1 It's something that goes with it? &-2 t_con the Serger is not a sewing machine, itself.
+0,Well how did they feel about the, United States interven-, with Patriot missiles, % I'm, sure this is the one time that the Israelis are really happy to have their big brothers, the Americans, %-1 I don't, know if that contributes to the problem. %-2 # So, # they're really quite arrogant about it.
+0,Is that what happened or? - % t_empty &-1 t_con did, Ryder get out of the business? %-2 Well, you did.
+0,What is that tracing, the flights and things? % Right, &-1 Yeah. %-2 Which was different t_laugh .
+0,What's the last movie you saw? % GHOST. %-1 Good. &-2 it was actually better than the first one, I thought.
+0,# You kind of wonder what really happened. % Yeah. &-1 # Yeah. %-2 was kind of a surprise #
+0,Cambodia? % Yeah. %-1 It spilled over into, now I can't even think of the country. %-2 they didn't regain any of the land that they had.
+0,Do you know what my concern is? & How will I dust this thing? %-1 what my concern was, was it really sure, and how they would, last. &-2 in a room,
+0,otherwise you wouldn't be able to go very far, % No, &-1 Yeah, %-2 t_con t_laugh , I try to keep up in the winter with the exercise bike, so, I, you know, can be in shape .
+0,Do you work? % Yes. %-1 It, kind of hard to find time sometimes %-2 I do too.
+0,I don't know if you have ever heard of it? % No, &-1 There's, a thing called Pfeiffer Rim. &-2 t_con we're hoping to do like a three day weekend.
+0,Do you? % Yeah, &-1 huh-uh. &-2 No,
+0,Well, what, changes would you, have you considered, in doing it, to, your company, that might benefit the employees or perhaps the company itself better? % Well, we, considering instead of tying a profit sharing plan to a, salary is, tie, a percentage, of business that, a person would participate and bring into the company. %-1 t_con they like to have enough to be comfortable. %-2 none of them really want to be rich,
+0,Can you hear me? % Now I can again. &-1 be on the line. %-2 <
+0,Well how did you do? % I won a dollar t_laugh . %-1 There were just bus loads of people that come from everywhere else to play that bingo because it's, the stakes are higher and payoffs are bigger and so forth. %-2 Although I didn't see very many Indian people in there t_laugh .
+0,Do you have any other kind of music that you like? % I like to listen to all different kinds of music. &-1 Uh-huh. &-2 just for practicing and so on.
+0,Some of them is, BLACK ADDER or GOOD NEIGHBORS or YES, PRIME MINISTER and ARE YOU BEING SERVED? % t_empty &-1 t_con there's a variety. &-2 -- that we've, really liked,
+0,Than the intensive eye? % Yeah. %-1 I need more. %-2 I need something,
+0,I bet it tastes good too. % Right. %-1 You look like you went to a whole bunch, - &-2 t_laugh Yeah,
+0,Never saw the bass? % No. %-1 t_con they went fishing and caught a bass near some place and put it in there and never saw it again t_laugh . &-2 Uh-huh.
+0,What kind of a car do you have now? % Right now I have a eighty-seven Cavalier. %-1 t_con probably a economic size car or, - %-2 t_con we have a truck,
+0,You know what I'm saying? % Yeah. &-1 t_con I think that's where he's stuck. &-2 t_con I think he had to pull in the reins the only way he knew how, in order to keep the peace on, both sides.
+0,What is your, community, currently doing with regard to recycling? % basically, they're just, having various recycling, bins, located for, trash pickup. &-1 Okay. &-2 t_empty
+0,Well, have you seen a new movie lately? % Well, I am a student &-1 t_empty &-2 t_empty
+0,What do you feel that your kids are getting in the parochial schools that they wouldn't get in a, public school system? % Well, one hundred percent of the, customers care. &-1 Uh-huh. %-2 t_con my kids go to parochial school.
+0,How old is he? % He's eleven. %-1 I like it a lot. %-2 I like it,
+0,When did you first come to Texas? . % it's been, I've been here for nine years. &-1 Although I wi-, I wish, you know, overall they'd try the lottery again. %-2 Uh-huh.
+0,do you vote regular? . % Yeah, &-1 Okay, &-2 t_empty
+0,t_con it's got a lot of o-, and light, also? % No, %-1 t_con have a big sun room on the back of it. %-2 -- call it.
+0,Do you have lot of, or anything like that? % The whole lot I'm sitting on is roughly half an acre. &-1 What about yard space? &-2 So, I think you can end up doing more with them, it seems like.
+0,then, so like your pay, what kind of a percentage do you basically keep out that you think that, you know, will cover all of the expenses, kind of thing? % t_empty &-1 Okay, %-2 t_con it makes those surprises not so difficult to get through.
+0,do you live, & what state are you in? %-1 t_con we will probably be going up at Thanksgiving this year, %-2 I've already ordered from that one,
+0,Figures . What, like those, magazines you get through the mail? % Yeah. %-1 I, would read all those kinds of things. %-2 I am again, a fix it person.
+0,Are you a player? % I, think I am. &-1 t_empty &-2 t_empty
+0,t_con have you always lived here in Dallas % No, %-1 Uh-huh. &-2 The reason that I ask is the two conversations I've had, have been out of state.
+0,t_con why would that be? % I don't know, I, - %-1 if I had the money, I think I would love to own a, a B M W. &-2 not t_laugh , -
+0,t_laugh You didn't get a big kick out of killing them like some people do? % No, %-1 Put them back t_laugh . &-2 What'd you do with them?
+0,t_con do you brush it on? % I brush it on, &-1 Do you, ever spray your projects with the, base coat first %-2 t_con I really enjoy doing that.
+0,Do you get hit up for local taxes there? % Yeah, %-1 I think that we're all paying a little bit too much taxes and not seeing too much good come out of it. %-2 I would tend to agree very highly.
+0,So we're talking about drug testing in the work place, % Drug testing in the work place. &-1 pretty good. &-2 pretty good,
+0,have you seen that? % Oh yeah, &-1 I want to see WAR OF THE ROSES too, &-2 I'd like to see that.
+0,Hotter than usual? % Yeah, %-1 We've had real hot weather. &-2 Uh-huh.
+0,t_con you actually have your number & t_con are they just calling a number that happens to be yours? %-1 Uh-huh. &-2 Despite the fact that your number is unlisted?
+0,I forgot to ask you, did the iguana catch flies for you? % Did what? %-1 t_con he'd pick up his dish again and throw it in the air until we came out and gave him some water. %-2 And then bark and march around, you know,
+0,do, you work for T I in any way? % No, &-1 Yeah, %-2 Well, I figured with Texas Instruments they'd probably have a few, Texans on the line now and then.
+0,t_con - % two years. &-1 Are you newly married, &-2 Really.
+0,if you could legislate something, what would you legislate? % I really don't know. %-1 I just get aggravated about it. %-2 I'm not speaking out, that's for sure.
+0,what kind of things do you like to do in your spare time? % Well, I have two children, &-1 t_empty &-2 t_empty
+0,How about yourself? & Do you have any kids? &-1 t_con we're getting bonds, and, hopefully finances set aside so that they can choose a college that they want to. &-2 t_con we're saving right now
+0,wouldn't it. % Yeah, &-1 -- it would have been hard, %-2 t_con I don't know,
+0,Now have you thought about this? That wherever you buy your paint, you need to make sure that that store's not likely to go out of business. % Yeah, %-1 Just, the opposite of what everybody's, working towards now. %-2 yeah.
+0,You, think the benefit would be greater than the, - % Yeah, %-1 t_con it does, you know, - %-2 -- you know,
+0,when did it, , - % when did it happen? &-1 not how, &-2 No,
+0,Have you done, the big pot cooking? % well, it was really my ex who did the, cooking back when we first started &-1 Ha-, what kinds of things have you tried? &-2 It isn't.
+0,you ready? % Yeah, &-1 Okay, &-2 t_empty
+0,What type of exercise do you do? % t_empty &-1 You do? %-2 t_con I do exercise on a regular basis.
+0,Do you see anything wrong with that? % No, &-1 there's nothing wrong with that. &-2 I don't see anything wrong with this five day waiting period if the waiting period is utilized to really look at the background of the person purchasing the weapon.
+0,What do you think about capital punishment? % Well, I'm kind of in favor of it for certain crimes. &-1 t_empty &-2 t_empty
+0,do you all just sort of chip in and help out with stuff when you are there? % yes. &-1 is there someone, - &-2 it is kind of hard to get ev-, organized.
+0,What color are they? % the female's red %-1 they'll just come jump on your lap and want to be, their bellies rubbed and everything %-2 you think they're lapdogs. You know,
+0,Do you know how to spell it? % it starts with a K. %-1 It should be. %-2 I think so.
+0,Well, do you play any musical instruments or anything. % I played the accordion for seven years -- &-1 Okay. %-2 I have.
+0,Do you have cable T V? % No, &-1 Uh-huh. %-2 t_con you know, we usually will, used to rent, two or three movies on a weekend and, try to watch.
+0,Do you work? % No, %-1 I guess, &-2 Yeah
+0,Have you, ever done anything at all? % Yeah, &-1 What sort of, programs other than say running? - &-2 t_con it, creates a problem, you know, when you're on the road.
+0,t_con what field of study are you in? % it's actually in computer science -- %-1 Uh-huh. &-2 -- Bachelor's degree?
+0,only, five? % Yeah. %-1 yeah. %-2 Yeah t_laugh ,
+0,did you get to watch it? % No, &-1 t_con they had a big win today. &-2 Lot easier than it was a couple years ago,
+0,t_con I guess that's all I have to do, right t_laugh . % t_laugh I guess so. &-1 I've never done it before, &-2 All right.
+0,Um, so what do you think? % Um, - &-1 t_empty &-2 t_empty
+0,How about you? % I have four girls -- %-1 that's good. &-2 I have two, a seven year old and three and a half year old.
+0,Does, your dad have horses there? % no, %-1 I am, sorry? &-2 t_con do you have horses or anything at your dad's farm?
+0,What do you do, Jeff? % I, in, program control for a company up here. &-1 that's good. &-2 -- yeah
+0,Let's see what else do you do to your house? % Well, I've done some rewiring on it. &-1 t_con it won't make you sick. &-2 t_con you have to really wash your vegetables after that
+0,where are you? % I'm in Garland. &-1 I'm in Austin, &-2 Yes,
+0,How's that? % Okay, &-1 I tell you what, I'll start off. %-2 Yeah.
+0,Are you finding that, since you're doing substitute, that you're wanting to do full-time? & I have a friend that's a teacher that one of her complaints is she can't teach because she's so busy filling out all the forms. &-1 t_laugh Correct. %-2 t_con I think that it's, appropriate to teach them, you know, why they are learning this not just because the teacher says you have to learn this.
+0,It's not ending is it t_laugh ? & You think we've talked a long, enough time? &-1 t_con when you get through with your own you've got grandchildren, %-2 It, lasts a long time.
+0,t_laugh That was a dead giveaway, huh? % Well, we're Catholics. %-1 That's what the Utah and the large family. &-2 Yeah.
+0,t_con you guys are well aware of the problems with the Japanese markets and everything else. % Right, %-1 That's right, yes. &-2 I, guess you work for T I.
+0,Where are you? % okay. &-1 I am in Plano. %-2 Where are you, Bob?
+0,Have you been cross-stitching long? % several years. %-1 t_laugh Uh-huh. &-2 t_con there's just no time.
+0,Well, do you, ever use the A T M machines? % No, &-1 Uh-huh. %-2 t_con I don't charge anything that I can't payoff at the end of the month.
+0,I don't know if you've heard of her. % Huh-uh. &-1 t_con I bought a Martha Stewart, &-2 learning about that
+0,is that how you heard about this thing? t_laugh . % # Yeah, # %-1 -- here. &-2 Oh.
+0,Did you just move down here? % we moved here a year ago . %-1 I am, gardening this year. %-2 I do not know what it is.
+0,what do you do with your credit cards? % Oh t_laugh . &-1 Hi, &-2 t_empty
+0,What have you seen recently that you enjoyed? % I don't know, &-1 t_con I see most all of mine there. &-2 Well, I have a V C R
+0,t_con do we extend it beyond that? % Uh-huh, &-1 do we say that every one who commits murder in the first degree is liable for capital punishment if that's what the jury decides is an appropriate punishment for their crime, %-2 Right.
+0,Do you like Ken ? % Trying to think. %-1 a little bit. %-2 Yeah,
+0,What part of California are you from? % from Los Angeles, t_pause %-1 Yeah. &-2 t_con they do.
+0,You're still trying to dry out? % It's no problem here. %-1 We used to live up in Seattle for a couple of years. %-2 Well, we just moved down here.
+0,W-, have you been in it long? % We've been in it six years. &-1 Well, that's great. %-2 t_con we had to hire, of course, the plumbing and the brick and everything else, nothing, you know,
+0,t_con is it something that is, a little bit different from that? % Well, it's similar to that, &-1 the A P news wire %-2 -- so I can read a certain business or topics.
+0,th-, dog is Joey? % Uh-huh, &-1 Joey, %-2 I have a cat and a dog named Joey.
+0,Well, what would be your advice to a parent of a child thinking of attending college? % man. I think your advice is good. %-1 yeah. %-2 Right,
+0,you don't think you will, t_laugh ? % t_empty %-1 t_con I'm not going to put a skirt on just for him t_laugh . &-2 Because that's, I, believe, -
+0,you say your, to school? % Uh-huh, %-1 Yeah, &-2 t_con I feel like, I don't know, when I have children I want to be able to spend a lot of time with them.
+0,Did you take this same, route with your other two children? % they, were outside my marriage, %-1 # tall for a # six year old &-2 # Uh-huh. #
+0,Do you manage the money? % Well, I, talk about it, &-1 what i-, your practice as far as budgeting? &-2 t_empty
+0,Where about? % Detroit, %-1 t_laugh Well, I am from Michigan. &-2 I, could have used that recipe,
+0,B I R D? % Right. %-1 Uh-huh. &-2 Bird?
+0,t_con I wonder if they're, & I agree with you that, they'll always be somewhat of a threat given that they have, that &-1 -- who's our biggest threat, %-2 Right.
+0,What do you have now? % I've got a, Dodge Daytona. %-1 or, even a Volvo. &-2 Uh-huh.
+0,You may be familiar with cooperative learning. & # Have you ever, # - %-1 Uh-huh. &-2 At any rate, the topic is fascinating because one of the things I've done for the past few years is, research the problem from the point of view of, what appears to be working best and how you can explain it theoretically.
+0,you haven't seen any of them. % t_laugh No. %-1 t_con I haven't seen any of the movies, yet, %-2 t_con they're, you know, already out with number six by now,
+0,t_con I'm wondering how many women actually major in engineering. & Act-, you know, I say that &-1 okay. %-2 t_con that's where the high pay is.
+0,other than Dallas, would you say that you have, a favorite quarterback. & the quarterback's seem to get most of the, attention, you know. &-1 would you say that you have a fav-, - %-2 Yeah.
+0,How does that sound? t_laugh . % Jeez, &-1 maybe some rolls and, I guess some, some rice or something like that. &-2 t_con let's see what else.
+0,Is that right? % Yes. %-1 that's what ours is t_laugh . &-2 she's, a mix of Cockapoo, Spaniel and Poodle.
+0,Do any of your, in your group get paid for any of this? % well, the conductor gets paid a little bit, you know, %-1 That's probably why we get so many people. &-2 Uh-huh.
+0,one thing that I like, like swimming, you like that a lot? % Uh-huh, %-1 Really t_laugh . &-2 I said, who has engineered that? t_laugh .
+0,# Well, how do you think # that would work in grammar schools % in, some sense, what I would do before I would extend a school year, is I would make it better. Before I would continue the agony, %-1 Yeah. &-2 or the Germans.
+0,do you ever, you know, just vacation someplace where you strictly backpack? % yeah, &-1 you said you did it in the High Sierras. &-2 Sometimes I think that might not be a bad idea t_laugh .
+0,It's hysterical, isn't it? % t_empty %-1 t_con we try not to miss that. %-2 we never miss that,
+0,t_con do you think it can if it's done right? % I think &-1 Anyway, well the question is, you know, do you think, i-, does make a difference in whether or not a criminal commits a crime %-2 I don't remember myself.
+0,The, penalty phase, & they've, decide the penalty separately from the verdict. %-1 after he had to go, - %-2 t_con of course then they had to go back to dec-, you know, -
+0,t_con your name was Lisa. % Lisa. &-1 Okay, %-2 yeah.
+0,Hopefully you're a basketball fan. % Yeah, %-1 Excuse me. &-2 Hopefully you're a basketball fan.
+0,well how do you think the Royals are going to do? % I think the Royals will do okay. &-1 Yeah, %-2 you, got to be able to get the two and three run home runs, you know, to, be able to, score enough runs to be able to win in these, day and age,
+0,Where did you live? % A little town called Tuckaho, over by White Plains. &-1 are you? %-2 I'm a New Yorker myself.
+0,Are you in Dallas also? % No, %-1 yeah. &-2 I'm in Dallas.
+0,You ever heard of that? % Huh-uh. %-1 Huh. &-2 some things they do, w-, w-, one of them is they're using corn in fuel.
+0,# Have # you done anything like that? & Anything political? %-1 Uh-huh. &-2 I've got a lot of things to keep me busy.
+0,were you here, yet when he did the exhibition at U T with his son. & His son pitched for U T &-1 t_con I don't know, &-2 he's been a legend for so many years, you know,
+0,Now why would you go to a seafood restaurant t_laugh to eat chicken? % it was, %-1 t_con it was exce-, - %-2 It was a marinated, broiled chicken breast
+0,After your masters or after your, - % After my masters. &-1 Uh-huh. %-2 So, cause this was the first, real job after getting my degree.
+0,Increases each year, doesn't it? % I'm sorry? %-1 You know. &-2 Right.
+0,have you, grown up in Dallas, Stephanie? % no &-1 Okay, &-2 t_empty
+0,# So # what kind do you, get? % t_empty %-1 Oh. &-2 t_con he just sent away to get some woodworking books.
+0,t_con why can't they check to see if the person who is applying for this gun has had a record or not. & That, to me, would not be an unreasonable thing. &-1 understand about the privacy act t_con everything, &-2 t_con when you were speaking about how they can check up, you know, on credit cards,
+0,# do you do any kind of painting or anything? % No, &-1 # Uh-huh. %-2 t_con I haven't made it # yet. #
+0,Are you in a ho-, apartment or a home? % I'm in an apartment in, Plano. %-1 a yard and fence. &-2 How about you guys?
+0,In terms of the personal. - % Yeah. %-1 They just felt that the way America backed them up was not, at all right. &-2 Uh-huh.
+0,t_con how do you feel about that? % I don't mind my taxes as much as my social security. &-1 -- t_con Do you think you pay too much there, %-2 Uh-huh.
+0,did you find that people appreciated having the privilege of being, - % It's like anywhere else. &-1 what was it like living there, %-2 Yeah.
+0,What do you think about gun control? % Well, sort of mixed feelings about it, I guess, &-1 Hi. &-2 t_empty
+0,t_con have you ever tried, the Macaroni Grill up on, - % Yes, &-1 Uh-huh. %-2 t_con that's probably,
+0,Well, how, do you use your credit card? & do you just keep it in reserve, &-1 Oh. %-2 I was pulling your leg.
+0,Now, how long does it take for your contribution to vest? % God, I don't know. %-1 It's not bad. &-2 that's a pretty good deal.
+0,Are they little? % I have a seven year old and a ten year old. &-1 Right. %-2 well, Tuesday nights I guess, we try to catch a couple of the shows that the kids like.
+0,Now would, cook it for the same amount of time as you would, prepare it any other time? % Right. &-1 Oh. %-2 Uh-huh.
+0,Have you ever been to Marlin? % yeah. %-1 -- hospitals, homes, something like that. &-2 Okay.
+0,Do you go to the game? % Yes, %-1 we do. You know. %-2 Yes,
+0,Is it like shrimp? % it's similar. &-1 Really? %-2 t_con more and more people are beginning to find out how good it is.
+0,you have heard about Dallas, & t_con th-, crime here is pretty bad t_laugh . &-1 How big a city is Rome? &-2 Well, I do not know.
+0,Are you living with a bunch of, people that you're sharing expenses? % no. &-1 Are you, married? &-2 I see.
+0,What do you see, changing in the future? % I think that we're probably going to see a lot more companies, run by females. %-1 Uh-huh. &-2 -- that's usually how it's, happened,
+0,what, are, you referring to yourself % Yeah, &-1 Well, now you, say two different parts of the country %-2 t_con there are some very different views, of the people connected with the program which I thought was really interesting, you know.
+0,Where do you go for steaks? % It's usually when we're out of town -- %-1 A nice meal, - &-2 Where do you go if you like to have a nice meal out, or a big meal?
+0,Is that what it's there too? % Yeah. %-1 # yeah. # &-2 t_con it's all related to drugs it # seems like. #
+0,# Plain? & Plain yogurt? # %-1 t_con I put a little, yogurt in it too. %-2 Oh.
+0,You don't? % No, %-1 we don't. %-2 No,
+0,you know whether you thought it was more of a biased or whatever & t_con I, guess you wouldn't. &-1 I would be curious to know what you thought as to how like say C N N T V news compared to the three networks. &-2 I just wonde-, I guess.
+0,Because of the ice? % t_con it, didn't make the nat-, news too much, which I find really weird -- &-1 Golly. %-2 t_con we were actually in a state of emergency for two weeks.
+0,What are your favorite places? % well, I like Chinese food. %-1 Yeah. &-2 We do the same.
+0,What about yourself? % I, have the same dilemma, I think. &-1 I don't know. &-2 Now, you know, somebody, a
+0,Are, you part of the school system out there? % I am, as a matter of fact. %-1 t_con if I am it's always fun to talk. %-2 t_con sometimes I'm not,
+0,Do you watch a lot of T V to get the news then? % I don't watch a lot of it, %-1 I just catch the major ones off the news or if someone starts to talk about it. %-2 I, kind of miss out on most of the current events.
+0,So, what, languages do you speak besides English, of course? % Well, I have a smattering of about ten different ones, &-1 true enough. &-2 True,
+0,you like the motels? % We like the motels, %-1 t_con now we like things like the Regency Hyatt t_laugh . &-2 Uh-huh.
+0,t_con are you working your way through college? % well, I go home in the summer %-1 there's just no one around. %-2 we come up here in the summer,
+0,Was I supposed to do something? % No. %-1 Okay t_laugh . &-2 t_empty
+0,t_laugh You watch T V or something while you do it? % I read a book while I'm doing it. %-1 it's just as boring. %-2 No,
+0,What do you mean fifty-five? & You mean fifty-five dollars? %-1 no %-2 t_con no,
+0,Well what do you think's going to happen in the next generation? & You think it'll continue? &-1 Yeah. %-2 -- difficult on them.
+0,t_con so, you like food & t_con I just love the, community of food. &-1 Right, %-2 Sounds wonderful.
+0,Do you work, for Texas Instruments then? % No, %-1 Uh-huh &-2 you are?
+0,so obviously you're into education. % Yeah. %-1 t_laugh . &-2 so you can tell that I really didn't have that much to do with any of it.
+0,Do you repair your own car? % I try to, whenever I can. %-1 Yes. &-2 is it Mike?
+0,t_con are you, in terms of other things, like, not running, but playing a little bit of tennis, or can you not do stuff like that at all? % well I haven't tried that. &-1 that makes sense. %-2 I can't do any jumping up and down because it makes it hurt.
+0,who do you work for? % I, don't work. &-1 You're not a T I, - %-2 I'm not t_laugh .
+0,# have you # seen, had any of those? % No, %-1 # That's good. # %-2 I saw them.
+0,the SWEATING TO THE OLDIES? % Sweating with the, oldies, %-1 I can't even think of the name of it right offhand, with the oldies. %-2 -- what is it,
+0,So do you have P C -s? % I have a personal computer at home. &-1 t_empty &-2 t_empty
+0,What about the judge who's hearing the case? & Is he going to be impartial? %-1 Yeah. , &-2 t_con that's, interesting.
+0,You know, - % Same, thing. %-1 exactly. %-2 Right,
+0,t_con do you # have to sort that? # % # t_con they will do the alum-, # - &-1 Uh-huh. %-2 Uh-huh.
+0,Have you faced, elderly care yet, nursing home care for any of your parents? % Unfortunately, yes. &-1 Okay. &-2 t_empty
+0,# Where at? # % # sometime is # Colorado. &-1 I haven't. &-2 No,
+0,Are, play the piano, & t_con you just like it? %-1 I like that. &-2 Uh-huh.
+0,# Where have you been? # % Let's see, &-1 Uh-huh. %-2 well, I've been over there too.
+0,Did you see HOME ALONE? t_laugh . % Yes, &-1 I was home alone. &-2 I rented that one night by myself.
+0,on likewise then, did you see PRETTY WOMAN? % yes. &-1 Well, okay, &-2 uh-huh.
+0,Well, what are your hobbies? % Well, actually my hobbies now are T shirt making. &-1 t_empty &-2 t_empty
+0,t_con Have you seen that? % I haven't seen that yet. &-1 -- t_con it's been out for a couple of years, %-2 Uh-huh.
+0,t_con do you, know in Virginia whether it is, smaller juries % I do not know exactly what the size of the juries. &-1 Do you, think that should be changed? &-2 t_con how do you feel about the, jury system itself?
+0,You feel it, don't you? % Uh-huh. %-1 Although lately I have noticed, you know, even if I gain, like two pounds, I start, feeling it %-2 Uh-huh.
+0,Do you want to go ahead? % Sure. &-1 taxes t_laugh . &-2 t_empty
+0,Is mowing the lawn a new exercise t_laugh ? % Yeah, %-1 t_con my outside activities have been curtailed a lot. %-2 t_con I was just recently, got married and bought a house
+0,are there tornadoes in Colorado, yes or n-, I don't, - % it's getting to be more and more of a possibility. &-1 t_con things like torn-, - &-2 Yeah,
+0,t_con what movies have you seen lately? % Well, I saw, SOAP DISH. &-1 t_empty &-2 t_empty
+0,What world war do you think they found the experience for that? % t_empty %-1 t_con they had to fill in little bridges all the way where he, had made those moats. &-2 Uh-huh.
+0,Like, t_con you're in the marching band and stuff in high school. % I was, &-1 Uh-huh. %-2 t_con I played that all through high school.
+0,You go where? & you go to visit them? %-1 Yeah. &-2 In Durant, Oklahoma?
+0,You interested in woodworking? % Yeah. &-1 t_empty &-2 t_empty
+0,t_con you got a lot of that in, huh? % Yeah &-1 All right. %-2 That's probably where I first started, was in Girl Scouts.
+0,it would seem like it would be the same way in, the California coastline, wouldn't it? % gosh, I think I would hate to live in California, the smog there. &-1 t_con no %-2 Uh-huh.
+0,Lynn, do you, want to start? % Certainly. &-1 t_empty &-2 t_empty
+0,Well, you, should have a lot of information on a budget, then, if you're, - % I wish I did. &-1 Well, what about our, financial budget. &-2 T I doesn't quite always do it right.
+0,you married? % No, &-1 Do you have any, - &-2 t_laugh Well we can talk about something else.
+0,what would you do to change it? To make it better? % the, appeal procedure is the only thing I can possibly think of. &-1 t_con I don't know. &-2 Uh-huh.
+0,do you watch SATURDAY NIGHT LIVE? & What? %-1 t_con so do I %-2 he's got curly hair
+0,Well, can you get the L A paper up there? & That's a pretty decent paper isn't it &-1 # Yeah. # %-2 They're just horrid --
+0,What are, your city have for gun control if anything? % we just voted in, gun control, here in the state of Maryland. %-1 that, are some important points. %-2 Yeah,
+0,would you like me to go first? % Sure. &-1 okay. %-2 t_con I'm in Garland t_laugh .
+0,t_con that's maybe what you were talking about. & Men breaking in, to houses and taking, or a man, - &-1 t_con it started kind of happening a couple of places in South Dallas &-2 there were several of them in North Dallas
+0,Do you do a lot of it? % Uh-huh. %-1 t_con right now my passion is tole painting t_laugh . %-2 I would like to learn that someday,
+0,do you go to, listen to much live music? % Pardon me? %-1 Uh-huh. &-2 I, like the low instruments better, too.
+0,Are, you at T I Austin % Well, I left T I in January %-1 Okay. &-2 Get us going.
+0,Is that right? % Yeah, %-1 Well, it's fraught with other problems t_laugh . &-2 That's a great position to be in.
+0,t_con you've received a lot of, flack? % They don't, even check my Social Security number. %-1 t_con without even bothering to try to match up any other information at all, they just report everything under that name. %-2 t_con they find several.
+0,Ha-, what kinds of things have you tried? & Have you done, the big pot cooking? &-1 It isn't. &-2 isn't it.
+0,Where do you live? % in the Houston area. &-1 t_empty &-2 t_empty
+0,whose in that? % It looks, pretty suspenseful. &-1 Yeah, %-2 KISS BEFORE DYING.
+0,You know? - % Well, we never had too much of that -- %-1 Uh-huh. &-2 t_con I think though that we need to have some liquid around that you don't have to go through the company to get t_laugh .
+0,So are you a, golfer & t_con are you a spectator? &-1 Okay. %-2 Push my number.
+0,Have you ever been down here? % no, %-1 -- yeah. &-2 Uh-huh.
+0,Was it like a primer? % Yeah. %-1 t_con because of the b-, dark behind it, it was really hard to cover %-2 t_con it supposedly textured it or did something to it
+0,t_laugh How about yourself? % t_empty %-1 that's too bad t_laugh . %-2 Really,
+0,is there anything, - % They cause more noise pollution than air pollution t_laugh . &-1 Well, that's interesting. %-2 Off and on,
+0,t_con like, what were you replacing the starters and bendix on? % a Maverick and also, a Chrysler station wagon before that. %-1 Yeah. &-2 quad not really easy to get rebuilt just right.
+0,You ever serve that yourself when you have company? % no, %-1 Excuse me? &-2 You serve that yourself, or the, a family?
+0,t_con Are you originally from Michigan % yes. &-1 That is where my mother-in-law still lives, %-2 Uh-huh.
+0,Is it this weekend? % I don't know. &-1 That's coming up here pretty soon. %-2 when they rollback an hour.
+0,these things won't make any sense to you probably % # Uh-huh. # &-1 t_con the guy said, that the computer would fit our needs. &-2 we told them about the stuff
+0,How bad is it? & Do you have smog like they do in California? %-1 we do have pollution in Houston %-2 well yes,
+0,Did you. % t_con I had them do all four wheels. %-1 -- t_con I think at about sixty thousand miles I finally had it lined up. &-2 Uh-huh.
+0,is that right? % -- Morton Thiakol. %-1 I happen to live not too far away from, - &-2 Uh-huh.
+0,Like a week at a time or just weekends? % I think the longest we've stayed out there is like five days. &-1 Do you go on long? - &-2 Yeah.
+0,Now do your other grandchildren live in Dal-, the Dallas area? % Yes, &-1 that's nice. %-2 Yeah.
+0,So, how long did you play? % Only for about three months. %-1 t_laugh . &-2 t_laugh .
+0,Well, does your company have good benefits in that, regard? % Yeah, &-1 Uh-huh. %-2 -- as far as, covering medical costs for yourself or family members.
+0,did you have anything else? % No, %-1 -- # in their # attitudes t_pause . &-2 # Yes. #
+0,How big is the family you cook for? % five. %-1 Yeah. &-2 It gets kind of boring.
+0,Is that right? % Yeah. %-1 it makes a much nicer cat if they're outside. %-2 t_con he did go out sometimes
+0,Do you go to school? % Uh-huh. &-1 t_con you have not been to Europe. &-2 Anyway, t_con we're supposed to be talking about places to go
+0,Have you ever been to Biffin's? % t_empty %-1 -- Uh-huh. &-2 The specials.
+0,What kind -- - % t_empty &-1 Uh-huh. %-2 -- t_con I make the clothes for them.
+0,, how do you feel about it? % Well, they do have, a major internal problem t_laugh . &-1 . I think they are more of a threat to their own people at this day and time. &-2 this topic is, is Russia a threat to our security?
+0,what brand of car are you thinking about buying & t_con like what things are you looking at? &-1 What kind of, - %-2 to own them .
+0,where you at? % I'm in Rome, New York. &-1 I meant living in Texas, &-2 Okay,
+0,How about you guys? % t_empty %-1 my goodness. &-2 t_con we have a, cat, which is, I guess about five years old.
+0,t_laugh well, what kind of paint did you use for the, bookends? % Well, it's, half the problem right there is that it wasn't, a oil base, %-1 t_con that wasn't as easy as painting the apartment t_laugh . %-2 t_con I decided to paint them,
+0,t_con they weren't? % I don't know if they do it till yet. %-1 Well, you'd think so &-2 # I would think # there would be.
+0,that's about Lookout there, I think, isn't it. % Right, &-1 There is a Mobil and all that kind of s-, on that one corner, &-2 I know where you mean.
+0,They're both females? % t_empty &-1 Uh-huh. %-2 t_con the other one is named Holly.
+0,See, these are refujees, you mean? % t_empty %-1 t_con these are not the brightest. &-2 What do you think about that?
+0,Well, why would that be? % I guess it's a General Motors product, %-1 I guess that's kind of everybody's dream t_laugh . %-2 Well, I guess Cadillac.
+0,If you're having a dinner party, what, would you serve? % Okay, %-1 Okay. &-2 Yeah.
+0,Is that right? % He, kind of has free run of the place, t_con there is some-, takes care of him. %-1 Permanent t_laugh . &-2 Uh-huh.
+0,from, what you've seen, is that the desirable way to do it? % See, I don't know, because I've never seen it in action. &-1 Is that, - %-2 Like I, think going two six weeks t_con having two, two weeks off, each after a two six weeks period is one way.
+0,are there kids that are there too, or mostly adults? % Yeah. &-1 It sounds nice. &-2 Yeah.
+0,Well I was going to ask if you planned to paint over it or try to strip it. % No, %-1 I'm wondering if my bigger problem is getting the wallpaper taken down first. Because I, think, - &-2 Uh-huh.
+0,is that right? % t_con what do you think we've gained from the spaceflights? %-1 t_con I wasn't sure how credible he was. %-2 t_con I don't think he was truthful in a lot of what he did in TEXAS
+0,Where, are you from? % just here in Dallas. &-1 Okay. &-2 t_empty
+0,how many miles on it? % It's has a hundred and fifty-three thousand. &-1 incredible, %-2 -- and it runs great.
+0,what do you think individuals could do, or society could do to alleviate this problem. % t_empty %-1 Yeah. &-2 It would be a shame to ruin it.
+0,I take it you haven't spent any time in the military? % No, %-1 Uh-huh. &-2 They drink that much fuel.
+0,How old is it? % She'll be sixteen in May. %-1 by smell. %-2 t_con she's got a great appetite,
+0,What kind of a degree have you got? % I've got a Bachelor's in electrical engineering %-1 -- which kind of surprised me. &-2 Uh-huh.
+0,How, old are they? % One is thirteen and one is eleven. &-1 Uh-huh. %-2 t_con I get to go to at least four or five concerts a year t_laugh .
+0,Well, both times? % Uh-huh, %-1 Uh-huh. &-2 You took them to someone's home?
+0,Why, & did you not press one? %-1 # You know, Karen, I wonder if # we are recording. &-2 Maybe it is, now that we have # minorities included in the # ... -
+0,Do you have, a family? % Yeah, %-1 t_con I used to really like the looks of the M P V because it looks more like a mini van rather than I think, - %-2 is what it, something like that,
+0,What branch were you in? % -- probably the biggest. - %-1 I was military at the time . %-2 t_con that was a, it was
+0,did you hap-, -- - % Yeah, &-1 this last time it was about this, movie director, &-2 -- it was, -
