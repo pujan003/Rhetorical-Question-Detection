@@ -10,11 +10,17 @@ import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.datasets import dump_svmlight_file
+from sys import path
 from sys import argv
 import operator
 import string
 import random
 from datetime import datetime
+
+path.append("../lib/")
+import gensim
+word2vec_model = gensim.models.Word2Vec.load("../data/word2vec_model")
+brown_cluster = {} # word --> [bit_string, cluster num]
 
 train_x = []
 
@@ -75,6 +81,21 @@ def isAffirmative(utter):
 		return True
 	return False
 
+def giveSimilarWords(x,top_k):
+	try:
+		similar_words = word2vec_model.most_similar(positive=[x], negative=[], topn=top_k)
+	except KeyError:
+		similar_words = []
+	return similar_words
+
+def loadBrownFile():
+	f = open('../data/train_brown.txt')
+	lines = f.readlines()
+	for l in lines:
+		[w,b,c] = l.strip().split()
+		brown_cluster[w] = [b,c]
+
+loadBrownFile()
 
 #Input training data
 
@@ -88,11 +109,13 @@ with open("../data/train.txt",'r') as f:
 
 			if('subsequent_utterance_same' in a.keys()):
 				train_x_SUS[1].append(a['subsequent_utterance_same'])
+				## WHQ FEATURE
 				if isWHQ(a['main_utterance']) and isAffirmative(a['subsequent_utterance_same']):
 					b = b + ' ' + "WHQ_YES"
 				b = b +' '+ a['subsequent_utterance_same']
 			else:
 				train_x_SUD[1].append(a['subsequent_utterance_diff'])
+				## WHQ FEATURE
 				if isWHQ(a['main_utterance']) and isAffirmative(a['subsequent_utterance_diff']):
 					b = b + ' ' + "WHQ_YES"
 				b = b +' '+ a['subsequent_utterance_diff']
@@ -118,6 +141,16 @@ with open("../data/train.txt",'r') as f:
 			else:
 				train_x_PUD[0].append(a['previous_utterance_diff'])
 				b = b +' '+ a['previous_utterance_diff']
+
+		## BROWN FEATURE 
+		dialog = b.replace("?", " ?")
+		dialog = dialog.replace("."," .")
+		for token in dialog.split():
+			try:
+				b = b+' '+ brown_cluster[token][0]
+			except KeyError:
+				continue
+
 		b = b + " " + speakers(a)
 		train_x.append(b)
 		train_y.append(a['label'])
@@ -158,6 +191,7 @@ with open("../data/train_POS.txt",'r') as f:
 			else:
 				train_x_PUD_POS[0].append(a['previous_utterance_diff_POS'])
 				b = b +' '+ a['previous_utterance_diff_POS']
+
 		train_x[i] = b
 		if train_y[i]  == 1:
 			positive_x.append(b)
@@ -175,10 +209,12 @@ with open("../data/test.txt",'r') as f:
 		a = util.processDatum(line)
 		b = a['main_utterance']
 		if('subsequent_utterance_same' in a.keys()):
+			## WHQ FEATURE
 			if isWHQ(a['main_utterance']) and isAffirmative(a['subsequent_utterance_same']):
 				b = b + ' ' + "WHQ_YES"
 			b = b +' '+ a['subsequent_utterance_same']
 		else:
+			## WHQ FEATURE
 			if isWHQ(a['main_utterance']) and isAffirmative(a['subsequent_utterance_diff']):
 				b = b + ' ' + "WHQ_YES"
 			b = b +' '+ a['subsequent_utterance_diff']
@@ -187,6 +223,15 @@ with open("../data/test.txt",'r') as f:
 		else:
 			b = b +' '+ a['previous_utterance_diff']
 		b = b + " " + speakers(a)
+		## BROWN FEATURE 
+		dialog = b.replace("?", " ?")
+		dialog = dialog.replace("."," .")
+		for token in dialog.split():
+			try:
+				b = b+' '+ brown_cluster[token][0]
+			except KeyError:
+				continue
+
 		test_x.append(b)
 		test_y.append(a['label'])
 		
@@ -205,6 +250,7 @@ with open("../data/test_POS.txt",'r') as f:
 			b = b +' '+ a['previous_utterance_same_POS']
 		else:
 			b = b +' '+ a['previous_utterance_diff_POS']
+		
 		test_x[i] = b
 		i = i + 1
 

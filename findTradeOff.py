@@ -11,7 +11,7 @@ OPTIMIZE_ON_TEST = False
 if "--test" in sys.argv:
 	OPTIMIZE_ON_TEST = True
 	validation_file = test_file
-
+	train1_file = train_file
 
 def f1(p,r):
 	return 2*p*r/(p+r)
