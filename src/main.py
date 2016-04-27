@@ -95,6 +95,15 @@ def loadBrownFile():
 		[w,b,c] = l.strip().split()
 		brown_cluster[w] = [b,c]
 
+def assignBrown(x,j):
+	ret = ''
+	i = 0
+	for c in x:
+		ret+= c + 'POS'+str(i) + 'NUM'+ str(j) + ' '
+		i+=1
+	return ret
+
+
 loadBrownFile()
 
 #Input training data
@@ -111,13 +120,13 @@ with open("../data/train.txt",'r') as f:
 				train_x_SUS[1].append(a['subsequent_utterance_same'])
 				## WHQ FEATURE
 				if isWHQ(a['main_utterance']) and isAffirmative(a['subsequent_utterance_same']):
-					b = b + ' ' + "WHQ_YES"
+					b = b + ' ' + "WHQYES"
 				b = b +' '+ a['subsequent_utterance_same']
 			else:
 				train_x_SUD[1].append(a['subsequent_utterance_diff'])
 				## WHQ FEATURE
 				if isWHQ(a['main_utterance']) and isAffirmative(a['subsequent_utterance_diff']):
-					b = b + ' ' + "WHQ_YES"
+					b = b + ' ' + "WHQYES"
 				b = b +' '+ a['subsequent_utterance_diff']
 			if('previous_utterance_same' in a.keys()):
 				train_x_PUS[1].append(a['previous_utterance_same'])
@@ -143,11 +152,14 @@ with open("../data/train.txt",'r') as f:
 				b = b +' '+ a['previous_utterance_diff']
 
 		## BROWN FEATURE 
-		dialog = b.replace("?", " ?")
+		dialog = a['main_utterance'].replace("?", " ?")
 		dialog = dialog.replace("."," .")
+		sen_pos = -1
 		for token in dialog.split():
+			sen_pos+=1
 			try:
-				b = b+' '+ brown_cluster[token][0]
+				b = b+' '+ assignBrown(brown_cluster[token][0],sen_pos)
+				print b
 			except KeyError:
 				continue
 
@@ -211,12 +223,12 @@ with open("../data/test.txt",'r') as f:
 		if('subsequent_utterance_same' in a.keys()):
 			## WHQ FEATURE
 			if isWHQ(a['main_utterance']) and isAffirmative(a['subsequent_utterance_same']):
-				b = b + ' ' + "WHQ_YES"
+				b = b + ' ' + "WHQYES"
 			b = b +' '+ a['subsequent_utterance_same']
 		else:
 			## WHQ FEATURE
 			if isWHQ(a['main_utterance']) and isAffirmative(a['subsequent_utterance_diff']):
-				b = b + ' ' + "WHQ_YES"
+				b = b + ' ' + "WHQYES"
 			b = b +' '+ a['subsequent_utterance_diff']
 		if('previous_utterance_same' in a.keys()):
 			b = b +' '+ a['previous_utterance_same']
@@ -224,11 +236,13 @@ with open("../data/test.txt",'r') as f:
 			b = b +' '+ a['previous_utterance_diff']
 		b = b + " " + speakers(a)
 		## BROWN FEATURE 
-		dialog = b.replace("?", " ?")
+		dialog = a['main_utterance'].replace("?", " ?")
 		dialog = dialog.replace("."," .")
+		sen_pos = -1
 		for token in dialog.split():
+			sen_pos+=1
 			try:
-				b = b+' '+ brown_cluster[token][0]
+				b = b+' '+ assignBrown(brown_cluster[token][0],sen_pos)
 			except KeyError:
 				continue
 
@@ -367,9 +381,14 @@ vocab['pd0'] = i
 i = i + 1 
 vocab['pd1'] = i
 i = i + 1
-vocab['WHQ_YES'] = i
+vocab['WHQYES'] = i
 i = i + 1
 # ADD HERE
+for k in xrange(0,50):
+	for j in xrange(0,50):
+		vocab['0POS'+str(k)+'NUM'+str(j)] = i
+		vocab['1POS'+str(k)+'NUM'+str(j)] = i+1
+		i+=2
 print "VOCABULARY MADE! ",len(vocab)
 
 #Final feature Builder
