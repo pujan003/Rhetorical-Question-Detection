@@ -1,0 +1,3 @@
+ON VALIDATION SET:
+Max F1 = 52.9625070795  for c = 1.49
+P = 53.6  R = 52.34  A = 95.34

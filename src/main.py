@@ -10,6 +10,8 @@ import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.datasets import dump_svmlight_file
+from sklearn.externals import joblib
+
 from sys import path
 from sys import argv
 import operator
@@ -76,7 +78,7 @@ def isWHQ(utter):
 def isAffirmative(utter):
 	exclude = set(string.punctuation)
 	utter = ''.join(ch for ch in utter if ch not in exclude)
-	affirm_list = ["yes","no","yeah","nah","right","wrong"] 
+	affirm_list = ["yes","no","yeah","nah","right","wrong","absolutely"] 
 	if any(i in affirm_list for i in utter.lower().split()):
 		return True
 	return False
@@ -98,9 +100,10 @@ def loadBrownFile():
 def assignBrown(x,j):
 	ret = ''
 	i = 0
-	for c in x:
-		ret+= c + 'POS'+str(i) + 'NUM'+ str(j) + ' '
-		i+=1
+	# for c in x:
+	# 	ret+= c + 'POS'+str(i) + 'NUM'+ str(j) + ' '
+	# 	i+=1
+	ret = x[:7]
 	return ret
 
 
@@ -159,7 +162,7 @@ with open("../data/train.txt",'r') as f:
 			sen_pos+=1
 			try:
 				b = b+' '+ assignBrown(brown_cluster[token][0],sen_pos)
-				print b
+				# print b
 			except KeyError:
 				continue
 
@@ -384,19 +387,30 @@ i = i + 1
 vocab['WHQYES'] = i
 i = i + 1
 # ADD HERE
-for k in xrange(0,50):
-	for j in xrange(0,50):
-		vocab['0POS'+str(k)+'NUM'+str(j)] = i
-		vocab['1POS'+str(k)+'NUM'+str(j)] = i+1
-		i+=2
+# for k in xrange(0,50):
+# 	for j in xrange(0,50):
+# 		vocab['0POS'+str(k)+'NUM'+str(j)] = i
+# 		vocab['1POS'+str(k)+'NUM'+str(j)] = i+1
+# 		i+=2
+# for k_ in brown_cluster.keys():
+# 	k = k_[:7]
+# 	if k not in vocab:
+# 		vocab[k] = i
+# 		i+=1
 print "VOCABULARY MADE! ",len(vocab)
 
 #Final feature Builder
 vect = TfidfVectorizer(decode_error='ignore',ngram_range=(1,3),vocabulary=vocab)
+# now you can save it to a file
+# and later you can load it
+
 svm_train_x = vect.fit_transform(train_x)
+joblib.dump(vect, '../vect.pkl') 
+
 train_file = '../svm/data.train'
 if(len(argv)>1):
 	train_file = '../svm/'+argv[1]+'.train'
+
 dump_svmlight_file(svm_train_x,train_y,train_file)
 print "Dumped to",train_file
 
@@ -404,6 +418,7 @@ svm_test_x = vect.transform(test_x)
 test_file = '../svm/data.test'
 if(len(argv)>1):
 	test_file = '../svm/'+argv[1]+'.test'
+# print svm_test_x
 dump_svmlight_file(svm_test_x,test_y,test_file)
 print "Dumped to",test_file
 
