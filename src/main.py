@@ -78,7 +78,7 @@ def isWHQ(utter):
 def isAffirmative(utter):
 	exclude = set(string.punctuation)
 	utter = ''.join(ch for ch in utter if ch not in exclude)
-	affirm_list = ["yes","no","yeah","nah","right","wrong","absolutely"] 
+	affirm_list = ["yes","no","yeah","nah","right","wrong","absolutely","hmmm"] 
 	if any(i in affirm_list for i in utter.lower().split()):
 		return True
 	return False
@@ -345,6 +345,29 @@ i = 1
 max_feats = None #1000
 if(len(argv) >= 3):
 	max_feats = int(argv[2])
+
+# vocab,i = vocabs(train_x_MU,1,2000,vocab,i) #2000
+# vocab,i = vocabs(train_x_MU,2,5000,vocab,i) #5000
+# vocab,i = vocabs(train_x_SUS,1,500,vocab,i) #500
+# vocab,i = vocabs(train_x_SUS,2,1000,vocab,i) #1000
+# vocab,i = vocabs(train_x_SUD,1,1000,vocab,i) #1000
+# vocab,i = vocabs(train_x_SUD,2,3000,vocab,i) #3000
+# vocab,i = vocabs(train_x_PUS,1,500,vocab,i) #500
+# vocab,i = vocabs(train_x_PUS,2,1000,vocab,i) #1000
+# vocab,i = vocabs(train_x_PUD,1,1000,vocab,i) #1000
+# vocab,i = vocabs(train_x_PUD,2,3000,vocab,i) #3000
+
+# vocab,i = vocabs(train_x_MU_POS,2,500,vocab,i) #500-200
+# vocab,i = vocabs(train_x_MU_POS,3,2000,vocab,i) #2000
+# vocab,i = vocabs(train_x_SUS_POS,2,500,vocab,i) #500-200
+# vocab,i = vocabs(train_x_SUS_POS,3,1000,vocab,i) #1000
+# vocab,i = vocabs(train_x_SUD_POS,2,500,vocab,i) #500
+# vocab,i = vocabs(train_x_SUD_POS,3,2000,vocab,i) #2000
+# vocab,i = vocabs(train_x_PUS_POS,2,500,vocab,i) #500-200
+# vocab,i = vocabs(train_x_PUS_POS,3,500,vocab,i) #500
+# vocab,i = vocabs(train_x_PUD_POS,2,500,vocab,i) #500
+# vocab,i = vocabs(train_x_PUD_POS,3,500,vocab,i) #500
+
 
 vocab,i = vocabs(train_x_MU,1,316,vocab,i) #2000
 vocab,i = vocabs(train_x_MU,2,742,vocab,i) #5000

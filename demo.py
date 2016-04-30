@@ -41,7 +41,7 @@ def isWHQ(utter):
 def isAffirmative(utter):
 	exclude = set(string.punctuation)
 	utter = ''.join(ch for ch in utter if ch not in exclude)
-	affirm_list = ["yes","no","yeah","nah","right","wrong","absolutely"] 
+	affirm_list = ["yes","no","yeah","nah","right","wrong","absolutely","hmmm"] 
 	if any(i in affirm_list for i in utter.lower().split()):
 		return True
 	return False
